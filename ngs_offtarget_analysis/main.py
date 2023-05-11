@@ -155,7 +155,7 @@ def main():
                     # Need to convert the distributions to full lists of values
                     # for mann-whitney test and kolmogorov-smirnov test
                     expected_dist_full += [possible_pct] * int(
-                        at_sampling.get(possible_pct)
+                        at_sampling.get(possible_pct, 0)
                         * (offtarget_reads_ct / AT_PCT_TEST_SIZE)
                     )
                     read_counts_at_pct = sum(
