@@ -1,0 +1,361 @@
+position,reads,tRL,tLR,fwd strand,rev strand,at_pct_70bp,at_pct_70bp_odds,offtarget_seq,best_offtarget_seed_match,best_offtarget_total_match,CDS,Essential
+12,1,0.0,0.0,1.0,0.0,71.43,0.0261,AACCAGTTCAGAAGCTGCTATCA,6,9,intergenic / no CDS,False
+13,7,0.0,0.0,7.0,0.0,72.86,0.0188,AACCAGTTCAGAAGCTGCTATCA,6,9,intergenic / no CDS,False
+23,7,0.0,0.0,3.0,4.0,70.0,0.03464,TGATATTGAAAAAAATATCACCA,3,7,intergenic / no CDS,False
+24,8,0.0,0.0,7.0,1.0,68.57,0.04414,CTCACGGCAGGTAACCAGTTCAG,3,7,intergenic / no CDS,False
+28,35,0.0,0.0,0.0,35.0,67.14,0.05504,AAAAAAATATCACCAAATAAAAA,4,10,intergenic / no CDS,False
+29,8,0.0,0.0,0.0,8.0,67.14,0.05504,AAAAAAATATCACCAAATAAAAA,4,10,intergenic / no CDS,False
+33,17,0.0,0.0,0.0,17.0,65.71,0.06882,AAAAATATCACCAAATAAAAAAC,4,5,intergenic / no CDS,False
+35,112,0.0,0.0,12.0,100.0,64.29,0.08508,CACCAAATAAAAAACGCCTTAGT,3,10,intergenic / no CDS,False
+37,31,0.0,0.0,13.0,18.0,64.29,0.08508,ACCAAATAAAAAACGCCTTAGTA,5,11,intergenic / no CDS,False
+38,5,0.0,0.0,0.0,5.0,64.29,0.08508,ACCAAATAAAAAACGCCTTAGTA,5,11,intergenic / no CDS,False
+40,14,0.0,0.0,13.0,1.0,65.71,0.06882,ATAAAATTTTAATTTACTCACGG,5,8,intergenic / no CDS,False
+42,47,0.0,0.0,0.0,47.0,67.14,0.05504,ACCAAATAAAAAACGCCTTAGTA,5,11,intergenic / no CDS,False
+44,2,0.0,0.0,0.0,2.0,67.14,0.05504,AAAAAACGCCTTAGTAAGTATTT,3,9,intergenic / no CDS,False
+46,17,0.0,0.0,0.0,17.0,65.71,0.06882,AAAAAACGCCTTAGTAAGTATTT,3,9,intergenic / no CDS,False
+57,7,0.0,0.0,0.0,7.0,64.29,0.08508,AGTAAGTATTTTTCAGCTTTTCA,6,13,intergenic / no CDS,False
+65,2,0.0,0.0,2.0,0.0,65.71,0.06882,TTAAAGTATTTAGTGACCTAAGT,4,10,intergenic / no CDS,False
+66,3,0.0,0.0,0.0,3.0,67.14,0.05504,TTCAGCTTTTCATTCTGACTGCA,4,6,intergenic / no CDS,False
+74,6,0.0,0.0,6.0,0.0,70.0,0.03464,CCTATATTGGTTAAAGTATTTAG,3,8,intergenic / no CDS,False
+78,4,0.0,0.0,0.0,4.0,68.57,0.04414,TTCATTCTGACTGCAACGGGCAA,3,4,intergenic / no CDS,False
+83,5,0.0,0.0,5.0,0.0,67.14,0.05504,TGTGCGCTATGCCTATATTGGTT,3,9,intergenic / no CDS,False
+87,1,0.0,0.0,0.0,1.0,67.14,0.05504,TGCAACGGGCAATATGTCTCTGT,4,11,intergenic / no CDS,False
+95,6,0.0,0.0,6.0,0.0,71.43,0.0261,ATCTGTCTGTGCGCTATGCCTAT,3,6,intergenic / no CDS,False
+96,1,0.0,0.0,0.0,1.0,71.43,0.0261,GGCAATATGTCTCTGTGTGGATT,5,9,intergenic / no CDS,False
+101,17,0.0,0.0,0.0,17.0,71.43,0.0261,AATATGTCTCTGTGTGGATTAAA,4,9,intergenic / no CDS,False
+102,5,0.0,0.0,0.0,5.0,71.43,0.0261,ATATGTCTCTGTGTGGATTAAAA,2,7,intergenic / no CDS,False
+107,2,0.0,0.0,0.0,2.0,67.14,0.05504,TGTGGATTAAAAAAAGAGTGTCT,3,10,intergenic / no CDS,False
+116,9,0.0,0.0,9.0,0.0,65.71,0.06882,TGGATGTTGTGTACTCTGTAATT,5,8,intergenic / no CDS,False
+129,46,0.0,0.0,46.0,0.0,64.29,0.08508,AATGCGTTTCATGGATGTTGTGT,4,10,intergenic / no CDS,False
+132,5,0.0,0.0,5.0,0.0,65.71,0.06882,AATGCGTTTCATGGATGTTGTGT,4,10,intergenic / no CDS,False
+139,14,0.0,0.0,14.0,0.0,67.14,0.05504,ATGGTGGTGCTAATGCGTTTCAT,3,11,intergenic / no CDS,False
+142,7,0.0,0.0,7.0,0.0,68.57,0.04414,ATGGTGGTGCTAATGCGTTTCAT,3,11,intergenic / no CDS,False
+149,5,0.0,0.0,0.0,5.0,68.57,0.04414,AACTGGTTACCTGCCGTGAGTAA,5,10,intergenic / no CDS,False
+162,1,0.0,0.0,1.0,0.0,68.57,0.04414,GTAATGGTGATGGTGGTGGTAAT,3,8,intergenic / no CDS,False
+186,8,0.0,0.0,0.0,8.0,65.71,0.06882,ACTTAGGTCACTAAATACTTTAA,4,8,intergenic / no CDS,False
+194,4,0.0,0.0,3.0,1.0,67.14,0.05504,TGTACGCGTCAGCCCGCACCGTT,3,8,['thrL CDS (thr operon leader peptide)'],False
+196,7,0.0,0.0,0.0,7.0,65.71,0.06882,ACTAAATACTTTAACCAATATAG,4,8,['thrL CDS (thr operon leader peptide)'],False
+228,5,0.0,0.0,0.0,5.0,58.57,0.20056,AGACAGATAAAAATTACAGAGTA,5,7,['thrL CDS (thr operon leader peptide)'],False
+236,1,0.0,0.0,0.0,1.0,57.14,0.24828,ATAAAAATTACAGAGTACACAAC,4,7,['thrL CDS (thr operon leader peptide)'],False
+242,12,0.0,0.0,0.0,12.0,54.29,0.377,ACAGAGTACACAACATCCATGAA,4,7,['thrL CDS (thr operon leader peptide)'],False
+283,1,0.0,0.0,0.0,1.0,51.43,0.54534,ACCACCACCATCACCATTACCAC,3,6,intergenic / no CDS,False
+284,6,0.0,0.0,0.0,6.0,51.43,0.54534,ACCACCACCATCACCATTACCAC,3,6,intergenic / no CDS,False
+308,4,0.0,0.0,4.0,0.0,50.0,0.6349,TGCATTTGCCACTGATGTACCGC,4,7,intergenic / no CDS,False
+320,14,0.0,0.0,0.0,14.0,51.43,0.54534,TGCGGGCTGACGCGTACAGGAAA,4,5,intergenic / no CDS,False
+321,3,0.0,0.0,0.0,3.0,50.0,0.6349,GGCTGACGCGTACAGGAAACACA,2,8,intergenic / no CDS,False
+322,2,0.0,0.0,0.0,2.0,51.43,0.54534,GACGCGTACAGGAAACACAGAAA,3,4,intergenic / no CDS,False
+323,13,0.0,0.0,0.0,13.0,50.0,0.6349,GACGCGTACAGGAAACACAGAAA,3,4,intergenic / no CDS,False
+329,6,0.0,0.0,0.0,6.0,52.86,0.45854,TACAGGAAACACAGAAAAAAGCC,3,6,intergenic / no CDS,False
+339,5,0.0,0.0,0.0,5.0,51.43,0.54534,AACACAGAAAAAAGCCCGCACCT,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+349,5,0.0,0.0,5.0,0.0,48.57,0.72442,TGGCATTGCTTTCCAGAATATCG,3,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+356,6,0.0,0.0,6.0,0.0,50.0,0.6349,TGCCCCTGCCTGGCATTGCTTTC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+373,1,0.0,0.0,0.0,1.0,54.29,0.377,GGCTTTTTTTTCGACCAAAGGTA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+379,1,0.0,0.0,0.0,1.0,50.0,0.6349,GACCAAAGGTAACGAGGTAACAA,2,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+382,2,0.0,0.0,0.0,2.0,50.0,0.6349,CCAAAGGTAACGAGGTAACAACC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+384,2,0.0,0.0,0.0,2.0,52.86,0.45854,CCAAAGGTAACGAGGTAACAACC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+417,3,0.0,0.0,0.0,3.0,51.43,0.54534,TTGAAGTTCGGCGGTACATCAGT,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+418,8,0.0,0.0,0.0,8.0,50.0,0.6349,TTGAAGTTCGGCGGTACATCAGT,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+423,14,0.0,0.0,0.0,14.0,47.14,0.80038,AGTTCGGCGGTACATCAGTGGCA,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+424,7,0.0,0.0,0.0,7.0,48.57,0.72442,CGGCGGTACATCAGTGGCAAATG,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+480,36,0.0,0.0,0.0,36.0,55.71,0.30824,AGCAATGCCAGGCAGGGGCAGGT,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+483,2,0.0,0.0,0.0,2.0,55.71,0.30824,AGCAATGCCAGGCAGGGGCAGGT,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+485,12,0.0,0.0,0.0,12.0,55.71,0.30824,AGCAATGCCAGGCAGGGGCAGGT,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+488,3,0.0,0.0,0.0,3.0,55.71,0.30824,AGGCAGGGGCAGGTGGCCACCGT,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+495,12,0.0,0.0,12.0,0.0,50.0,0.6349,GTCCCGTCAAAAGTTCGGCAAAA,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+529,6,0.0,0.0,6.0,0.0,54.29,0.377,CGCCAGCGGGAATCCCGGCTGGG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+531,5,0.0,0.0,5.0,0.0,51.43,0.54534,ATTGCGCCAGCGGGAATCCCGGC,2,4,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+541,1,0.0,0.0,1.0,0.0,50.0,0.6349,CGAAAGTTTTCAATTGCGCCAGC,6,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+595,5,0.0,0.0,0.0,5.0,58.57,0.20056,ATCAGCGATGCCGAACGTATTTT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+604,1,0.0,0.0,0.0,1.0,57.14,0.24828,CGAACGTATTTTTGCCGAACTTT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+605,7,0.0,0.0,0.0,7.0,58.57,0.20056,CGAACGTATTTTTGCCGAACTTT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+607,4,0.0,0.0,0.0,4.0,55.71,0.30824,AACGTATTTTTGCCGAACTTTTG,4,12,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+608,4,0.0,0.0,0.0,4.0,54.29,0.377,AACGTATTTTTGCCGAACTTTTG,4,12,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+632,1,0.0,0.0,1.0,0.0,50.0,0.6349,AATCAGCGCAGCGTTGATGCTAT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+638,6,0.0,0.0,5.0,1.0,47.14,0.80038,GGCAAATCAGCGCAGCGTTGATG,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+644,1,0.0,0.0,1.0,0.0,50.0,0.6349,GCCACGGCAAATCAGCGCAGCGT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+649,7,0.0,0.0,7.0,0.0,52.86,0.45854,GACATTTTCTCGCCACGGCAAAT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+675,11,0.0,0.0,8.0,3.0,58.57,0.20056,CGCCGGCCATAATGGCGATCGAC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+678,4,0.0,0.0,4.0,0.0,54.29,0.377,TTCTAATACGCCGGCCATAATGG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+680,5,0.0,0.0,4.0,1.0,52.86,0.45854,CGCTTCTAATACGCCGGCCATAA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+687,2,0.0,0.0,0.0,2.0,52.86,0.45854,ATCAGGAATTTGCCCAAATAAAA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+721,4,0.0,0.0,0.0,4.0,47.14,0.80038,TGCATGGCATTAGTTTGTTGGGG,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+726,9,0.0,0.0,0.0,9.0,47.14,0.80038,CATTAGTTTGTTGGGGCAGTGCC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+739,6,0.0,0.0,0.0,6.0,42.86,0.9512,GGGCAGTGCCCGGATAGCATCAA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+742,2,0.0,0.0,0.0,2.0,45.71,0.86608,GGGCAGTGCCCGGATAGCATCAA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+745,2,0.0,0.0,0.0,2.0,47.14,0.80038,GCCCGGATAGCATCAACGCTGCG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+753,4,0.0,0.0,0.0,4.0,47.14,0.80038,AGCATCAACGCTGCGCTGATTTG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+760,6,0.0,0.0,0.0,6.0,48.57,0.72442,ATCAACGCTGCGCTGATTTGCCG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+771,2,0.0,0.0,2.0,0.0,48.57,0.72442,ACTCAGCAATATCGACGGTAGAT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+785,3,0.0,0.0,0.0,3.0,47.14,0.80038,AGAAAATGTCGATCGCCATTATG,5,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+793,4,0.0,0.0,0.0,4.0,45.71,0.86608,ATGTCGATCGCCATTATGGCCGG,3,4,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+797,7,0.0,0.0,7.0,0.0,45.71,0.86608,TGCGACTTGCCGCAATACGGCGG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+803,6,0.0,0.0,0.0,6.0,45.71,0.86608,GCCATTATGGCCGGCGTATTAGA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+807,14,0.0,0.0,0.0,14.0,42.86,0.9512,GGCCGGCGTATTAGAAGCGCGCG,3,4,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+810,1,0.0,0.0,0.0,1.0,45.71,0.86608,GGCGTATTAGAAGCGCGCGGTCA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+812,3,0.0,0.0,0.0,3.0,45.71,0.86608,GGCGTATTAGAAGCGCGCGGTCA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+815,2,0.0,0.0,0.0,2.0,47.14,0.80038,GGCGTATTAGAAGCGCGCGGTCA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+818,4,0.0,0.0,0.0,4.0,44.29,0.91656,AGAAGCGCGCGGTCACAACGTTA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+823,14,0.0,0.0,0.0,14.0,44.29,0.91656,AGCGCGCGGTCACAACGTTACCG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+836,6,0.0,0.0,0.0,6.0,50.0,0.6349,ACAACGTTACCGTTATCGATCCG,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+838,5,0.0,0.0,0.0,5.0,50.0,0.6349,TTACCGTTATCGATCCGGTCGAA,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+841,3,0.0,0.0,0.0,3.0,48.57,0.72442,ACCGTTATCGATCCGGTCGAAAA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+844,2,0.0,0.0,0.0,2.0,50.0,0.6349,ACCGTTATCGATCCGGTCGAAAA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+853,39,0.0,0.0,11.0,28.0,48.57,0.72442,ATCCGGTCGAAAAACTGCTGGCA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+858,6,0.0,0.0,0.0,6.0,47.14,0.80038,AAAAACTGCTGGCAGTGGGGCAT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+860,6,0.0,0.0,5.0,1.0,45.71,0.86608,CACCAGTTCGCCTTTTTCATTAC,5,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+863,7,0.0,0.0,0.0,7.0,45.71,0.86608,AAAAACTGCTGGCAGTGGGGCAT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+865,111,0.0,0.0,49.0,62.0,45.71,0.86608,AACTGCTGGCAGTGGGGCATTAC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+870,4,0.0,0.0,0.0,4.0,47.14,0.80038,TGGCAGTGGGGCATTACCTCGAA,4,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+874,5,0.0,0.0,0.0,5.0,47.14,0.80038,AGTGGGGCATTACCTCGAATCTA,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+891,5,0.0,0.0,3.0,2.0,47.14,0.80038,GAGTAGTCGGAACCGTTGCGTCC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+896,1,0.0,0.0,0.0,1.0,44.29,0.91656,GTCGATATTGCTGAGTCCACCCG,3,4,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+897,20,0.0,0.0,16.0,4.0,44.29,0.91656,CGCGGAGTAGTCGGAACCGTTGC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+899,1,0.0,0.0,1.0,0.0,42.86,0.9512,CGCGGAGTAGTCGGAACCGTTGC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+904,9,0.0,0.0,9.0,0.0,42.86,0.9512,AGCACCGCCGCGGAGTAGTCGGA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+916,2,0.0,0.0,0.0,2.0,40.0,0.98616,CCCGCCGTATTGCGGCAAGTCGC,2,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+917,22,0.0,0.0,0.0,22.0,41.43,0.97246,CGCCGTATTGCGGCAAGTCGCAT,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+921,9,0.0,0.0,0.0,9.0,45.71,0.86608,GCCGTATTGCGGCAAGTCGCATT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+926,8,0.0,0.0,0.0,8.0,44.29,0.91656,ATTGCGGCAAGTCGCATTCCGGC,2,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+932,1,0.0,0.0,0.0,1.0,47.14,0.80038,GGCAAGTCGCATTCCGGCTGATC,6,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+935,6,0.0,0.0,0.0,6.0,45.71,0.86608,AGTCGCATTCCGGCTGATCACAT,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+964,1,1.0,0.0,1.0,0.0,45.71,0.86608,AGGTATAGACCCCGTCAACGTCC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+966,41,41.0,0.0,41.0,0.0,44.29,0.91656,CGCAGGTATAGACCCCGTCAACG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+968,148,148.0,0.0,148.0,0.0,44.29,0.91656,CGCAGGTATAGACCCCGTCAACG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+969,15,15.0,0.0,15.0,0.0,42.86,0.9512,CGCAGGTATAGACCCCGTCAACG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+971,52,52.0,0.0,52.0,0.0,42.86,0.9512,CGCAGGTATAGACCCCGTCAACG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+978,13,8.0,5.0,8.0,5.0,40.0,0.98616,CGCGGGTCGCAGGTATAGACCCC,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+983,13,0.0,13.0,0.0,13.0,41.43,0.97246,GGTAATGAAAAAGGCGAACTGGT,3,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+995,22,3.0,19.0,3.0,19.0,40.0,0.98616,GGCGAACTGGTGGTACTTGGACG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+997,1,0.0,1.0,0.0,1.0,38.57,0.99322,AACTGGTGGTACTTGGACGCAAC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1003,1,0.0,1.0,0.0,1.0,38.57,0.99322,TGGTACTTGGACGCAACGGTTCC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1005,1,1.0,0.0,1.0,0.0,41.43,0.97246,TTCAACAACCTCGCATCGGGCAC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1007,1,0.0,1.0,0.0,1.0,41.43,0.97246,TGGTACTTGGACGCAACGGTTCC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1008,8,0.0,8.0,0.0,8.0,40.0,0.98616,TGGTACTTGGACGCAACGGTTCC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1012,8,0.0,8.0,0.0,8.0,38.57,0.99322,TGGACGCAACGGTTCCGACTACT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1015,6,0.0,6.0,0.0,6.0,38.57,0.99322,CGCAACGGTTCCGACTACTCCGC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1020,12,0.0,12.0,0.0,12.0,41.43,0.97246,CAACGGTTCCGACTACTCCGCGG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1025,1,0.0,1.0,0.0,1.0,40.0,0.98616,TCCGACTACTCCGCGGCGGTGCT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1027,9,0.0,9.0,0.0,9.0,40.0,0.98616,TCCGACTACTCCGCGGCGGTGCT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1043,18,0.0,18.0,0.0,18.0,42.86,0.9512,TGCTGGCTGCCTGTTTACGCGCC,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1048,1847,3.0,1844.0,3.0,1844.0,44.29,0.91656,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1049,658,11.0,647.0,11.0,647.0,42.86,0.9512,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1050,10,0.0,10.0,0.0,10.0,42.86,0.9512,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1051,1314,14.0,1300.0,14.0,1300.0,42.86,0.9512,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1052,25638,102.0,25536.0,102.0,25536.0,44.29,0.91656,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1053,10080,89.0,9991.0,89.0,9991.0,45.71,0.86608,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1054,3,0.0,3.0,0.0,3.0,45.71,0.86608,TGCCTGTTTACGCGCCGATTGTT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1055,216,0.0,216.0,0.0,216.0,45.71,0.86608,GCCTGTTTACGCGCCGATTGTTG,3,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1056,629,4.0,625.0,4.0,625.0,47.14,0.80038,TTTACGCGCCGATTGTTGCGAGA,2,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1057,1283,2.0,1281.0,2.0,1281.0,48.57,0.72442,TTTACGCGCCGATTGTTGCGAGA,2,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1059,1,0.0,1.0,0.0,1.0,50.0,0.6349,GCGCCGATTGTTGCGAGATTTGG,2,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1060,1,0.0,1.0,0.0,1.0,50.0,0.6349,CGCCGATTGTTGCGAGATTTGGA,4,12,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1061,289,2.0,287.0,2.0,287.0,48.57,0.72442,CGCCGATTGTTGCGAGATTTGGA,4,12,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1062,76,0.0,76.0,0.0,76.0,50.0,0.6349,CGCCGATTGTTGCGAGATTTGGA,4,12,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1064,99,0.0,99.0,0.0,99.0,50.0,0.6349,CGCCGATTGTTGCGAGATTTGGA,4,12,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1075,1,1.0,0.0,1.0,0.0,45.71,0.86608,GGGTAATGGTGCGGGGGTGAAGA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1105,4,4.0,0.0,4.0,0.0,42.86,0.9512,GGCAAGGGATCTGGAACTGGGCG,5,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1133,10,10.0,0.0,10.0,0.0,50.0,0.6349,AGCTTGAGGATTTCCGGTATTTT,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1134,1,0.0,1.0,0.0,1.0,50.0,0.6349,TGCGAGGTTGTTGAAGTCGATGT,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1193,2,0.0,0.0,2.0,0.0,48.57,0.72442,TGGAAATGCCCTTGACCGGTAAT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1202,8,0.0,0.0,8.0,0.0,47.14,0.80038,ATTCAGATTGGAAATGCCCTTGA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1238,7,0.0,0.0,7.0,0.0,50.0,0.6349,TTCATCCCCGGGCCGGAAACGCT,2,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1239,1,0.0,0.0,1.0,0.0,51.43,0.54534,TTCATCCCCGGGCCGGAAACGCT,2,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1248,7,0.0,0.0,7.0,0.0,54.29,0.377,ATCCCTTTCATCCCCGGGCCGGA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1259,20,0.0,0.0,20.0,0.0,51.43,0.54534,GCCATGCCAACCATCCCTTTCAT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1269,2,0.0,0.0,2.0,0.0,47.14,0.80038,AACACGCGCGCCGCCATGCCAAC,4,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1279,4,0.0,0.0,4.0,0.0,54.29,0.377,ACATCGCTGCAAACACGCGCGCC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1281,7,0.0,0.0,7.0,0.0,52.86,0.45854,ACATCGCTGCAAACACGCGCGCC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1285,2,0.0,0.0,2.0,0.0,55.71,0.30824,CGCGTGACATCGCTGCAAACACG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1293,1,0.0,0.0,1.0,0.0,52.86,0.45854,AATACGGGCGCGTGACATCGCTG,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1298,2,0.0,0.0,0.0,2.0,55.71,0.30824,AGCCGTGATGAAGACGAATTACC,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1340,1,0.0,0.0,0.0,1.0,51.43,0.54534,AATAATATGGCAATGTTCAGCGT,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1345,45,0.0,0.0,0.0,45.0,51.43,0.54534,AATAATATGGCAATGTTCAGCGT,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1362,13,0.0,0.0,0.0,13.0,54.29,0.377,AGCGTTTCCGGCCCGGGGATGAA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1472,9,0.0,0.0,5.0,4.0,47.14,0.80038,ATCACCTACCACCGAGATAATGG,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1483,2,0.0,0.0,2.0,0.0,45.71,0.86608,CGCATACCATCACCTACCACCGA,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1496,9,0.0,0.0,9.0,0.0,48.57,0.72442,CCCACGCAAGGTGCGCATACCAT,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1501,1,0.0,0.0,1.0,0.0,47.14,0.80038,GCCGAGATCCCACGCAAGGTGCG,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1506,14,0.0,0.0,9.0,5.0,44.29,0.91656,GCCGAGATCCCACGCAAGGTGCG,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1511,17,0.0,0.0,17.0,0.0,44.29,0.91656,AAGAATTTCGCCGAGATCCCACG,5,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1512,7,0.0,0.0,1.0,6.0,44.29,0.91656,TGCGAGCTGAACGGGCAATGCAG,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1524,11,0.0,0.0,0.0,11.0,44.29,0.91656,GGCAATGCAGGAAGAGTTCTACC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1525,8,0.0,0.0,1.0,7.0,44.29,0.91656,GGCAATGCAGGAAGAGTTCTACC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1528,1,0.0,0.0,0.0,1.0,42.86,0.9512,AGGAAGAGTTCTACCTGGAACTG,5,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1533,1,0.0,0.0,0.0,1.0,44.29,0.91656,AGGAAGAGTTCTACCTGGAACTG,5,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1549,5,0.0,0.0,0.0,5.0,42.86,0.9512,TGAAAGAAGGCTTACTGGAGCCG,4,4,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1558,6,0.0,0.0,0.0,6.0,42.86,0.9512,AGAAGGCTTACTGGAGCCGCTGG,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1563,6,0.0,0.0,0.0,6.0,41.43,0.97246,CTGGAGCCGCTGGCGGTGACGGA,2,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1567,4,0.0,0.0,0.0,4.0,44.29,0.91656,AGCCGCTGGCGGTGACGGAACGG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1568,2,0.0,0.0,0.0,2.0,45.71,0.86608,AGCCGCTGGCGGTGACGGAACGG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1570,20,0.0,0.0,8.0,12.0,44.29,0.91656,AGCCGCTGGCGGTGACGGAACGG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1574,2,0.0,0.0,0.0,2.0,45.71,0.86608,CGCTGGCGGTGACGGAACGGCTG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1576,4,0.0,0.0,4.0,0.0,45.71,0.86608,TGAGCGTTCAGAAGATCCCTGAG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1577,31,0.0,0.0,29.0,2.0,47.14,0.80038,TGAGCGTTCAGAAGATCCCTGAG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1579,75,0.0,0.0,64.0,11.0,45.71,0.86608,TGAGCGTTCAGAAGATCCCTGAG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1582,3,0.0,0.0,3.0,0.0,44.29,0.91656,ACAGAGATTGAGCGTTCAGAAGA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1583,6,0.0,0.0,6.0,0.0,45.71,0.86608,ACAGAGATTGAGCGTTCAGAAGA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1584,42,0.0,0.0,42.0,0.0,44.29,0.91656,ACAGAGATTGAGCGTTCAGAAGA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1585,3,0.0,0.0,3.0,0.0,45.71,0.86608,ACAGAGATTGAGCGTTCAGAAGA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1589,5,0.0,0.0,5.0,0.0,44.29,0.91656,ACCACGACAGAGATTGAGCGTTC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1591,169,0.0,0.0,168.0,1.0,45.71,0.86608,ACCACGACAGAGATTGAGCGTTC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1593,27,0.0,0.0,27.0,0.0,47.14,0.80038,ACCACGACAGAGATTGAGCGTTC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1596,3,0.0,0.0,3.0,0.0,50.0,0.6349,CGTTATTTACCACGACAGAGATT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1598,45,0.0,0.0,45.0,0.0,52.86,0.45854,CGTTATTTACCACGACAGAGATT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1601,1,0.0,0.0,1.0,0.0,54.29,0.377,CGTTATTTACCACGACAGAGATT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1602,10,0.0,0.0,10.0,0.0,55.71,0.30824,CGTTATTTACCACGACAGAGATT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1604,13,0.0,0.0,13.0,0.0,57.14,0.24828,CGCATCATCGTTATTTACCACGA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1606,19,0.0,0.0,19.0,0.0,57.14,0.24828,CGCATCATCGTTATTTACCACGA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1607,6,0.0,0.0,6.0,0.0,55.71,0.30824,CGCATCATCGTTATTTACCACGA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1608,1,0.0,0.0,1.0,0.0,54.29,0.377,CGCATCATCGTTATTTACCACGA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1614,9,0.0,0.0,5.0,4.0,51.43,0.54534,CGCCAGTGGTCGCATCATCGTTA,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1615,1,0.0,0.0,1.0,0.0,51.43,0.54534,CGCCAGTGGTCGCATCATCGTTA,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1617,1,0.0,0.0,1.0,0.0,50.0,0.6349,CGCCAGTGGTCGCATCATCGTTA,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1619,5,0.0,0.0,0.0,5.0,48.57,0.72442,GGTATGCGCACCTTGCGTGGGAT,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1622,3,0.0,0.0,0.0,3.0,50.0,0.6349,CGCACCTTGCGTGGGATCTCGGC,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1625,10,0.0,0.0,10.0,0.0,45.71,0.86608,AGTAACGCGCACGCCAGTGGTCG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1626,9,0.0,0.0,0.0,9.0,47.14,0.80038,CGCACCTTGCGTGGGATCTCGGC,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1627,1,0.0,0.0,0.0,1.0,48.57,0.72442,CGCACCTTGCGTGGGATCTCGGC,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1629,11,0.0,0.0,8.0,3.0,48.57,0.72442,AGTAACGCGCACGCCAGTGGTCG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1636,48,0.0,0.0,31.0,17.0,50.0,0.6349,AGCATCTGATGAGTAACGCGCAC,5,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1638,3,0.0,0.0,2.0,1.0,50.0,0.6349,AGCATCTGATGAGTAACGCGCAC,5,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1641,4,0.0,0.0,0.0,4.0,50.0,0.6349,ATCTCGGCGAAATTCTTTGCCGC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1644,1,0.0,0.0,0.0,1.0,50.0,0.6349,GCGAAATTCTTTGCCGCGCTGGC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1645,1,0.0,0.0,0.0,1.0,50.0,0.6349,GCGAAATTCTTTGCCGCGCTGGC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1647,30,0.0,0.0,4.0,26.0,51.43,0.54534,GCGAAATTCTTTGCCGCGCTGGC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1649,21,0.0,0.0,6.0,15.0,52.86,0.45854,GCGAAATTCTTTGCCGCGCTGGC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1650,11,0.0,0.0,9.0,2.0,51.43,0.54534,ATCGGTATTGAACAGCATCTGAT,3,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1652,46,0.0,0.0,27.0,19.0,50.0,0.6349,ATCGGTATTGAACAGCATCTGAT,3,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1656,7,0.0,0.0,1.0,6.0,51.43,0.54534,GCCGCGCTGGCCCGCGCCAATAT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1657,42,0.0,0.0,0.0,42.0,50.0,0.6349,GCCGCGCTGGCCCGCGCCAATAT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1659,147,0.0,0.0,24.0,123.0,51.43,0.54534,GCCGCGCTGGCCCGCGCCAATAT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1661,11,0.0,0.0,0.0,11.0,52.86,0.45854,GCCGCGCTGGCCCGCGCCAATAT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1662,25,0.0,0.0,0.0,25.0,54.29,0.377,CGCTGGCCCGCGCCAATATCAAC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1663,20,0.0,0.0,0.0,20.0,52.86,0.45854,GGCCCGCGCCAATATCAACATTG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1664,35,0.0,0.0,0.0,35.0,51.43,0.54534,GGCCCGCGCCAATATCAACATTG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1665,2,0.0,0.0,0.0,2.0,51.43,0.54534,GGCCCGCGCCAATATCAACATTG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1669,9,0.0,0.0,0.0,9.0,54.29,0.377,CGCCAATATCAACATTGTCGCCA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1670,7,0.0,0.0,6.0,1.0,54.29,0.377,AACACTTCGATAACCTGATCGGT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1671,56,0.0,0.0,6.0,50.0,54.29,0.377,CGCCAATATCAACATTGTCGCCA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1672,7,0.0,0.0,0.0,7.0,55.71,0.30824,CGCCAATATCAACATTGTCGCCA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1673,4,0.0,0.0,0.0,4.0,57.14,0.24828,CGCCAATATCAACATTGTCGCCA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1674,8,0.0,0.0,8.0,0.0,57.14,0.24828,CACAAACACTTCGATAACCTGAT,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1680,35,0.0,0.0,1.0,34.0,54.29,0.377,ATCAACATTGTCGCCATTGCTCA,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1682,10,0.0,0.0,0.0,10.0,51.43,0.54534,ATCAACATTGTCGCCATTGCTCA,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1683,1,0.0,0.0,1.0,0.0,52.86,0.45854,CGCCAATCACAAACACTTCGATA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1685,22,0.0,0.0,0.0,22.0,51.43,0.54534,AACATTGTCGCCATTGCTCAGGG,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1689,27,0.0,0.0,14.0,13.0,51.43,0.54534,CGCCACCGACGCCAATCACAAAC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1690,16,0.0,0.0,14.0,2.0,50.0,0.6349,CGCCACCGACGCCAATCACAAAC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1692,1,0.0,0.0,0.0,1.0,51.43,0.54534,CGCCATTGCTCAGGGATCTTCTG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1695,10,0.0,0.0,0.0,10.0,52.86,0.45854,CTCAGGGATCTTCTGAACGCTCA,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1697,1,0.0,0.0,0.0,1.0,50.0,0.6349,CTCAGGGATCTTCTGAACGCTCA,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1698,1,0.0,0.0,0.0,1.0,48.57,0.72442,AGGGATCTTCTGAACGCTCAATC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1700,14,0.0,0.0,0.0,14.0,48.57,0.72442,GGGATCTTCTGAACGCTCAATCT,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1706,17,0.0,0.0,0.0,17.0,50.0,0.6349,ATCTTCTGAACGCTCAATCTCTG,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1708,3,0.0,0.0,0.0,3.0,50.0,0.6349,TGAACGCTCAATCTCTGTCGTGG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1710,22,0.0,0.0,0.0,22.0,48.57,0.72442,TGAACGCTCAATCTCTGTCGTGG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1715,5,0.0,0.0,0.0,5.0,50.0,0.6349,CTCAATCTCTGTCGTGGTAAATA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1723,2,0.0,0.0,0.0,2.0,50.0,0.6349,ATCTCTGTCGTGGTAAATAACGA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1725,6,0.0,0.0,0.0,6.0,50.0,0.6349,GTCGTGGTAAATAACGATGATGC,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1727,25,0.0,0.0,0.0,25.0,50.0,0.6349,GTCGTGGTAAATAACGATGATGC,3,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1731,14,0.0,0.0,0.0,14.0,52.86,0.45854,GGTAAATAACGATGATGCGACCA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1733,1,0.0,0.0,0.0,1.0,52.86,0.45854,GGTAAATAACGATGATGCGACCA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1734,5,0.0,0.0,0.0,5.0,51.43,0.54534,ATAACGATGATGCGACCACTGGC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1736,5,0.0,0.0,0.0,5.0,51.43,0.54534,ATAACGATGATGCGACCACTGGC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1773,7,0.0,0.0,7.0,0.0,52.86,0.45854,GGCAACACCGCAGACACGTAAGT,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1796,7,0.0,0.0,7.0,0.0,51.43,0.54534,GAGCAGTGCCTTCGAGTTGGCAA,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1798,1,0.0,0.0,0.0,1.0,50.0,0.6349,AGGTTATCGAAGTGTTTGTGATT,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1817,9,0.0,0.0,0.0,9.0,48.57,0.72442,TGATTGGCGTCGGTGGCGTTGGC,2,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1824,9,0.0,0.0,0.0,9.0,50.0,0.6349,CGTCGGTGGCGTTGGCGGTGCGC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1829,6,0.0,0.0,0.0,6.0,50.0,0.6349,GTGGCGTTGGCGGTGCGCTGCTG,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1832,4,0.0,0.0,0.0,4.0,50.0,0.6349,TGGCGGTGCGCTGCTGGAGCAAC,3,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1838,4,0.0,0.0,0.0,4.0,51.43,0.54534,GGTGCGCTGCTGGAGCAACTGAA,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1839,1,0.0,0.0,0.0,1.0,50.0,0.6349,GGTGCGCTGCTGGAGCAACTGAA,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1840,19,0.0,0.0,0.0,19.0,50.0,0.6349,GGTGCGCTGCTGGAGCAACTGAA,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1852,1,0.0,0.0,0.0,1.0,54.29,0.377,AGCAACTGAAGCGTCAACAAAGC,6,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1859,4,0.0,0.0,0.0,4.0,51.43,0.54534,CTGAAGCGTCAACAAAGCTGGCT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1881,9,0.0,0.0,0.0,9.0,51.43,0.54534,ATAAACATATCGACTTACGTGTC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1894,12,0.0,0.0,0.0,12.0,50.0,0.6349,ATCGACTTACGTGTCTGCGGTGT,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1925,14,0.0,0.0,0.0,14.0,52.86,0.45854,AGGCACTGCTCACCAATGTGCAT,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1933,4,0.0,0.0,0.0,4.0,51.43,0.54534,CACCAATGTGCATGGCCTAAATC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1937,4,0.0,0.0,0.0,4.0,51.43,0.54534,ACCAATGTGCATGGCCTAAATCT,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1952,16,0.0,0.0,16.0,0.0,50.0,0.6349,ATATTGATCCGCCACTGCCTGGC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1960,9,0.0,0.0,9.0,0.0,48.57,0.72442,GGCATATTGATCCGCCACTGCCT,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1973,3,0.0,0.0,3.0,0.0,51.43,0.54534,CGCGCAAGAAGTCGGCATATTGA,2,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+1997,1,0.0,0.0,1.0,0.0,52.86,0.45854,TCGGCGTGACAACGTGGAAACCT,2,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2011,2,0.0,0.0,2.0,0.0,50.0,0.6349,AGGTGTTGGCCTTTTTGTTCGGC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2019,3,0.0,0.0,0.0,3.0,48.57,0.72442,CGCCTCGTGAAAGAATATCATCT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2020,2,0.0,0.0,2.0,0.0,47.14,0.80038,GACGAGGTGTTGGCCTTTTTGTT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2023,11,0.0,0.0,1.0,10.0,48.57,0.72442,CGCCTCGTGAAAGAATATCATCT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2028,9,0.0,0.0,4.0,5.0,51.43,0.54534,TGAAAGAATATCATCTGCTGAAC,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2047,2,0.0,0.0,2.0,0.0,51.43,0.54534,CGCATGACGCAACAGATGGTAGT,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2053,8,0.0,0.0,8.0,0.0,47.14,0.80038,CGCCGCATGACGCAACAGATGGT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2056,7,0.0,0.0,7.0,0.0,47.14,0.80038,TTCCGCCGCATGACGCAACAGAT,1,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2068,9,0.0,0.0,2.0,7.0,47.14,0.80038,TGCACTTCCAGCCAGGCAGTGGC,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2090,2,0.0,0.0,0.0,2.0,51.43,0.54534,ATCAATATGCCGACTTCTTGCGC,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2092,5,0.0,0.0,0.0,5.0,51.43,0.54534,ATCAATATGCCGACTTCTTGCGC,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2109,3,0.0,0.0,0.0,3.0,48.57,0.72442,GCGAAGGTTTCCACGTTGTCACG,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2116,2,0.0,0.0,0.0,2.0,50.0,0.6349,CGAAGGTTTCCACGTTGTCACGC,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2133,1,0.0,0.0,1.0,0.0,52.86,0.45854,AGCAGATTTTGCAGGTTCTCAAT,6,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2138,1,0.0,0.0,0.0,1.0,55.71,0.30824,AAAAAGGCCAACACCTCGTCGAT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2177,6,0.0,0.0,0.0,6.0,58.57,0.20056,CATCTGTTGCGTCATGCGGCGGA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2178,1,0.0,0.0,0.0,1.0,58.57,0.20056,TGCGTCATGCGGCGGAAAAATCG,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2181,2,0.0,0.0,0.0,2.0,57.14,0.24828,TGCGTCATGCGGCGGAAAAATCG,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2186,3,0.0,0.0,0.0,3.0,57.14,0.24828,GTCATGCGGCGGAAAAATCGCGG,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2196,13,0.0,0.0,9.0,4.0,60.0,0.16144,CCGAAGATATAAGAAAGCGAACC,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2206,6,0.0,0.0,6.0,0.0,58.57,0.20056,TCTAACTTGCCGAAGATATAAGA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2233,2,0.0,0.0,2.0,0.0,55.71,0.30824,AGTCGCCTCGGAGAAACTCATGC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2245,5,0.0,0.0,5.0,0.0,57.14,0.24828,CGCCAGAGTAGTCGCCTCGGAGA,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2250,7,0.0,0.0,7.0,0.0,58.57,0.20056,TTCCCGCGCCAGAGTAGTCGCCT,2,5,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2262,4,0.0,0.0,0.0,4.0,60.0,0.16144,TGCAAAATCTGCTCAATGCTGGT,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2295,34,0.0,0.0,0.0,34.0,57.14,0.24828,ATGAAGTTCTCCGGCATTCTTTC,6,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2310,2,0.0,0.0,0.0,2.0,52.86,0.45854,TTTCAGGTTCGCTTTCTTATATC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2355,15,0.0,0.0,4.0,11.0,48.57,0.72442,GGCATGAGTTTCTCCGAGGCGAC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2378,8,0.0,0.0,8.0,0.0,51.43,0.54534,CACAGGTTCAATTTCAATATCCG,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2439,2,0.0,0.0,0.0,2.0,50.0,0.6349,TGGATGTAGCGCGTAAGCTATTG,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2446,2,0.0,0.0,0.0,2.0,52.86,0.45854,AGCGCGTAAGCTATTGATTCTCG,5,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2449,1,0.0,0.0,0.0,1.0,51.43,0.54534,AGCTATTGATTCTCGCTCGTGAA,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2454,5,0.0,0.0,5.0,0.0,50.0,0.6349,GGCAAAGAGATCGTCGAGCTGTG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2464,2,0.0,0.0,0.0,2.0,48.57,0.72442,CGCTCGTGAAACGGGACGTGAAC,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2469,1,0.0,0.0,1.0,0.0,47.14,0.80038,GGGCCTTCGCCACGCGCGCGGCA,2,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2479,2,0.0,0.0,2.0,0.0,48.57,0.72442,ATCACGGGCCTTCGCCACGCGCG,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2520,1,0.0,0.0,1.0,0.0,48.57,0.72442,ACCATCTTCATCAATATTGCCAA,5,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2527,3,0.0,0.0,0.0,3.0,48.57,0.72442,GCAGAGTTTAACGCTGAGGGTGA,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2532,9,0.0,0.0,9.0,0.0,50.0,0.6349,GGCAGGCACCATCTTCATCAATA,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2536,1,0.0,0.0,1.0,0.0,50.0,0.6349,TTCACGCGGCAGGCACCATCTTC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2539,1,0.0,0.0,0.0,1.0,50.0,0.6349,AGGGTGATGTTGCCGCTTTTATG,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2541,1,0.0,0.0,0.0,1.0,52.86,0.45854,AGGGTGATGTTGCCGCTTTTATG,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2542,2,0.0,0.0,0.0,2.0,54.29,0.377,AGGGTGATGTTGCCGCTTTTATG,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2543,1,0.0,0.0,0.0,1.0,54.29,0.377,AGGGTGATGTTGCCGCTTTTATG,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2544,4,0.0,0.0,0.0,4.0,54.29,0.377,AGGGTGATGTTGCCGCTTTTATG,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2549,5,0.0,0.0,1.0,4.0,52.86,0.45854,TGCCGCTTTTATGGCGAATCTGT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2550,3,0.0,0.0,0.0,3.0,54.29,0.377,TGCCGCTTTTATGGCGAATCTGT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2553,23,0.0,0.0,20.0,3.0,52.86,0.45854,ATCCACTTCGGCAATCTTCACGC,5,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2562,16,0.0,0.0,16.0,0.0,51.43,0.54534,GGATCATTACCATCCACTTCGGC,3,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2564,1,0.0,0.0,1.0,0.0,51.43,0.54534,AGCGGATCATTACCATCCACTTC,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2571,3,0.0,0.0,1.0,2.0,51.43,0.54534,TCACAGCTCGACGATCTCTTTGC,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2572,5,0.0,0.0,4.0,1.0,50.0,0.6349,AACAGCGGATCATTACCATCCAC,3,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2576,4,0.0,0.0,4.0,0.0,52.86,0.45854,TTCACTTTGAACAGCGGATCATT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2577,1,0.0,0.0,1.0,0.0,52.86,0.45854,TTCACTTTGAACAGCGGATCATT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2579,6,0.0,0.0,6.0,0.0,51.43,0.54534,TTCACTTTGAACAGCGGATCATT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2580,4,0.0,0.0,4.0,0.0,51.43,0.54534,TTCACTTTGAACAGCGGATCATT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2584,10,0.0,0.0,10.0,0.0,52.86,0.45854,CGCCATTTTTCACTTTGAACAGC,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2599,1,0.0,0.0,0.0,1.0,50.0,0.6349,CGCGCGTGGCGAAGGCCCGTGAT,4,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2602,1,0.0,0.0,0.0,1.0,50.0,0.6349,CGCGTGGCGAAGGCCCGTGATGA,3,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2609,1,0.0,0.0,0.0,1.0,55.71,0.30824,GGCCCGTGATGAAGGAAAAGTTT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2610,1,0.0,0.0,0.0,1.0,54.29,0.377,GGCCCGTGATGAAGGAAAAGTTT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2613,1,0.0,0.0,0.0,1.0,54.29,0.377,GGCCCGTGATGAAGGAAAAGTTT,4,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2617,2,0.0,0.0,0.0,2.0,55.71,0.30824,ATGAAGGAAAAGTTTTGCGCTAT,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2622,1,0.0,0.0,0.0,1.0,58.57,0.20056,GAAAAGTTTTGCGCTATGTTGGC,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2628,10,0.0,0.0,1.0,9.0,54.29,0.377,GAAAAGTTTTGCGCTATGTTGGC,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2631,1,0.0,0.0,0.0,1.0,51.43,0.54534,TGCGCTATGTTGGCAATATTGAT,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2639,13,0.0,0.0,0.0,13.0,51.43,0.54534,CGCTATGTTGGCAATATTGATGA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2644,7,0.0,0.0,0.0,7.0,51.43,0.54534,GGCAATATTGATGAAGATGGTGC,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2645,13,0.0,0.0,0.0,13.0,52.86,0.45854,GGCAATATTGATGAAGATGGTGC,5,10,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2655,26,0.0,0.0,5.0,21.0,51.43,0.54534,ATGAAGATGGTGCCTGCCGCGTG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2658,6,0.0,0.0,0.0,6.0,48.57,0.72442,ATGAAGATGGTGCCTGCCGCGTG,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2660,17,0.0,0.0,0.0,17.0,50.0,0.6349,AGATGGTGCCTGCCGCGTGAAGA,4,11,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2663,3,0.0,0.0,0.0,3.0,51.43,0.54534,TGCCTGCCGCGTGAAGATTGCCG,3,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2682,4,0.0,0.0,0.0,4.0,51.43,0.54534,CCGAAGTGGATGGTAATGATCCG,4,6,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2691,1,0.0,0.0,0.0,1.0,57.14,0.24828,TGGATGGTAATGATCCGCTGTTC,4,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2698,7,0.0,0.0,7.0,0.0,54.29,0.377,AGCAGATCGGCAAAGACACCGGC,5,8,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+2701,7,0.0,0.0,4.0,3.0,51.43,0.54534,GGTACGTAGCAGATCGGCAAAGA,4,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False

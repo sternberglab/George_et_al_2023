@@ -1,0 +1,3 @@
+Sample,chisquare_statistic_at_pct_distribution,chisquare_pval_at_pct_distribution,at_pct_dist_ks_pval,at_pct_dist_mannu_pval,total_reads,reads_ct_for_at_enrichment,essential_offtarget_reads,essential_offtarget_reads_pct,at_weighted_avg_enrichment_70bp,chisquare_statistic_essentialInsertions,chisquare_pval_essentialInsertions
+A3937,183896.9405986792,0.0,0.0,0.0,503882,302385,8481,2.8047,0.3459,9232.682614465593,0.0
+A3933,332658.3737110921,0.0,0.0,0.0,45743,45743,0,0.0,0.8714,3639.680233942627,0.0

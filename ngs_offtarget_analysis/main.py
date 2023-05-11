@@ -1,9 +1,10 @@
 import os
 import time
+import random
 import csv
 from pathlib import Path
 from Bio.SeqUtils import GC
-from scipy.stats import chisquare
+from scipy.stats import chisquare, mannwhitneyu, ks_2samp
 
 from utils.io import read_info_file, read_ngs_output, get_genome
 from utils.methods import get_target_site, add_cds_to_reads
@@ -141,14 +142,9 @@ def main():
                 )
                 expected_dist = []
                 actual_dist = []
+                expected_dist_full = []
+                actual_dist_full = []
                 for possible_pct in possible_at_pcts:
-                    read_counts_at_pct = sum(
-                        [
-                            int(r["reads"])
-                            for r in offtarget_reads
-                            if r[at_pct_key] == possible_pct
-                        ]
-                    )
                     expected_dist += [
                         round(
                             at_sampling.get(possible_pct, 0)
@@ -156,18 +152,41 @@ def main():
                             8,
                         )
                     ]
+                    # Need to convert the distributions to full lists of values
+                    # for mann-whitney test and kolmogorov-smirnov test
+                    expected_dist_full += [possible_pct] * int(
+                        at_sampling.get(possible_pct)
+                        * (offtarget_reads_ct / AT_PCT_TEST_SIZE)
+                    )
+                    read_counts_at_pct = sum(
+                        [
+                            int(r["reads"])
+                            for r in offtarget_reads
+                            if r[at_pct_key] == possible_pct
+                        ]
+                    )
                     actual_dist += [read_counts_at_pct]
-                chisquare_probability = chisquare(actual_dist, expected_dist)
-                sample_results["chisquare_statistic_at_pct_distribution"] = round(
-                    chisquare_probability.statistic, 6
-                )
-                sample_results["chisquare_pval_at_pct_distribution"] = round(
-                    chisquare_probability.pvalue, 6
-                )
+                    actual_dist_full += [possible_pct] * read_counts_at_pct
+                chisquare_test = chisquare(actual_dist, expected_dist)
+                sample_results[
+                    "chisquare_statistic_at_pct_distribution"
+                ] = chisquare_test.statistic
+
+                sample_results[
+                    "chisquare_pval_at_pct_distribution"
+                ] = chisquare_test.pvalue
+
+                ks_test = ks_2samp(expected_dist_full, actual_dist_full)
+                mannwhitneyu_test = mannwhitneyu(expected_dist_full, actual_dist_full)
+                sample_results["at_pct_dist_ks_pval"] = ks_test.pvalue
+                sample_results["at_pct_dist_mannu_pval"] = mannwhitneyu_test.pvalue
 
             # Evaluate off-target Cascade binding sites
             for row in reads:
                 position = int(row["position"])
+                read_is_fwd_strand = int(float(row["fwd strand"])) > int(
+                    float(row["rev strand"])
+                )
                 if abs(position - target_site) < TARGET_WINDOW:
                     row["offtarget_seq"] = ""
                     row["best_offtarget_seed_match"] = "In target window"
@@ -177,12 +196,14 @@ def main():
                         position,
                         buffered_genome,
                         sample_info["Spacer"],
-                        INTEGRATION_SITE_DISTANCE,
+                        read_is_fwd_strand,
+                        target_distance=INTEGRATION_SITE_DISTANCE,
                     )
                     row["offtarget_seq"] = tgt["seq"]
                     row["best_offtarget_seed_match"] = tgt["seed_match"]
                     row["best_offtarget_total_match"] = tgt["total_match"]
 
+            # Add CDS information to the reads
             reads = add_cds_to_reads(reads, genome, essential_genes)
 
             # Write the position-level analyses to an output file
@@ -195,6 +216,29 @@ def main():
                 writer = csv.DictWriter(sample_out, fieldnames=fieldnames)
                 writer.writeheader()
                 for row in reads:
+                    writer.writerow(row)
+
+            # evaluate random sites for off-target potential for comparison
+            random_offtargets_path = Path(
+                os.path.join(outputs_directory, sample, f"offtargets_randomsample.csv")
+            )
+            with open(random_offtargets_path, "w") as random_out:
+                rows = []
+                for i in range(10000):
+                    position = random.randint(0, len(genome))
+                    read_is_fwd_strand = random.randint(0, 1)
+                    rows += [
+                        get_likely_target(
+                            position,
+                            buffered_genome,
+                            sample_info["Spacer"],
+                            read_is_fwd_strand,
+                            target_distance=INTEGRATION_SITE_DISTANCE,
+                        )
+                    ]
+                writer = csv.DictWriter(random_out, fieldnames=rows[0].keys())
+                writer.writeheader()
+                for row in rows:
                     writer.writerow(row)
 
             # Calculate the sample-level AT enrichment:
@@ -267,12 +311,14 @@ def main():
                 at_enrichment_reads - essential_gene_reads,
             ]
             chisquare_probability = chisquare(actual_dist, expected_dist)
-            sample_results["chisquare_statistic_essentialInsertions"] = round(
-                chisquare_probability.statistic, 6
-            )
-            sample_results["chisquare_pval_essentialInsertions"] = round(
-                chisquare_probability.pvalue, 6
-            )
+
+            sample_results[
+                "chisquare_statistic_essentialInsertions"
+            ] = chisquare_probability.statistic
+
+            sample_results[
+                "chisquare_pval_essentialInsertions"
+            ] = chisquare_probability.pvalue
 
             # Persist the sample-level results
             results[sample] = sample_results
