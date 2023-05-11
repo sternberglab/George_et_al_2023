@@ -12,8 +12,8 @@ dependencies:
   - brotli-bin=1.0.9=h5eb16cf_7
   - brotlipy=0.7.0=py39h63b48b0_1004
   - bzip2=1.0.8=h0d85af4_4
-  - ca-certificates=2022.9.24=h033912b_0
-  - certifi=2022.9.24=pyhd8ed1ab_0
+  - ca-certificates=2023.5.7=h8857fd0_0
+  - certifi=2023.5.7=pyhd8ed1ab_0
   - cffi=1.15.0=py39he338e87_0
   - cryptography=37.0.1=py39hf6deb26_0
   - cycler=0.11.0=pyhd8ed1ab_0
@@ -52,7 +52,7 @@ dependencies:
   - ncurses=6.3=h96cf925_1
   - numpy=1.22.4=py39h677350a_0
   - openjpeg=2.4.0=h6e7aa92_1
-  - openssl=3.0.7=hfd90126_0
+  - openssl=3.1.0=h8a1eda9_3
   - packaging=21.3=pyhd8ed1ab_0
   - pandas=1.4.2=py39hf72b562_2
   - perl=5.32.1=2_h0d85af4_perl5
@@ -69,6 +69,7 @@ dependencies:
   - pytz=2022.1=pyhd8ed1ab_0
   - readline=8.1=h05e3726_0
   - s3transfer=0.6.0=pyhd8ed1ab_0
+  - scipy=1.8.1=py39h29d19b3_2
   - setuptools=62.3.2=py39h6e9494a_0
   - simplesam=0.1.4.1=pyh5e36f6f_0
   - six=1.16.0=pyh6c4a22f_0
@@ -87,4 +88,3 @@ dependencies:
   - xz=5.2.5=haf1e3a3_1
   - zlib=1.2.12=h6c3fc93_0
   - zstd=1.5.2=ha9df2e0_1
-prefix: /Users/chris/opt/anaconda3/envs/Illumina
