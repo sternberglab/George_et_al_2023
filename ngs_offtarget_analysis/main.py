@@ -61,6 +61,7 @@ def main():
             sample_info = all_samples[sample]
             reads = read_ngs_output(sample)
             genome = get_genome(sample_info)
+            spacer = sample_info["Spacer"].upper()
 
             target_site = get_target_site(
                 sample_info, genome, INTEGRATION_SITE_DISTANCE
@@ -143,7 +144,14 @@ def main():
                 expected_dist = []
                 actual_dist = []
                 expected_dist_full = []
-                actual_dist_full = []
+                # For Mann-Whitney U test, use 1 value per site
+                sites_dist_without_read_counts = [
+                    r[at_pct_key] for r in offtarget_reads
+                ]
+                # Get the count so can make the expected distribution
+                # the same size
+                sites_dist_counts = len(sites_dist_without_read_counts)
+
                 for possible_pct in possible_at_pcts:
                     expected_dist += [
                         round(
@@ -156,7 +164,7 @@ def main():
                     # for mann-whitney test and kolmogorov-smirnov test
                     expected_dist_full += [possible_pct] * int(
                         at_sampling.get(possible_pct, 0)
-                        * (offtarget_reads_ct / AT_PCT_TEST_SIZE)
+                        * (sites_dist_counts / AT_PCT_TEST_SIZE)
                     )
                     read_counts_at_pct = sum(
                         [
@@ -166,7 +174,7 @@ def main():
                         ]
                     )
                     actual_dist += [read_counts_at_pct]
-                    actual_dist_full += [possible_pct] * read_counts_at_pct
+
                 chisquare_test = chisquare(actual_dist, expected_dist)
                 sample_results[
                     "chisquare_statistic_at_pct_distribution"
@@ -176,8 +184,10 @@ def main():
                     "chisquare_pval_at_pct_distribution"
                 ] = chisquare_test.pvalue
 
-                ks_test = ks_2samp(expected_dist_full, actual_dist_full)
-                mannwhitneyu_test = mannwhitneyu(expected_dist_full, actual_dist_full)
+                ks_test = ks_2samp(expected_dist_full, sites_dist_without_read_counts)
+                mannwhitneyu_test = mannwhitneyu(
+                    expected_dist_full, sites_dist_without_read_counts
+                )
                 sample_results["at_pct_dist_ks_pval"] = ks_test.pvalue
                 sample_results["at_pct_dist_mannu_pval"] = mannwhitneyu_test.pvalue
 
@@ -195,11 +205,12 @@ def main():
                     tgt = get_likely_target(
                         position,
                         buffered_genome,
-                        sample_info["Spacer"],
+                        spacer,
                         read_is_fwd_strand,
                         target_distance=INTEGRATION_SITE_DISTANCE,
                     )
                     row["offtarget_seq"] = tgt["seq"]
+                    row["is_PAM_match"] = tgt["is_PAM_match"]
                     row["best_offtarget_seed_match"] = tgt["seed_match"]
                     row["best_offtarget_total_match"] = tgt["total_match"]
 
@@ -231,7 +242,7 @@ def main():
                         get_likely_target(
                             position,
                             buffered_genome,
-                            sample_info["Spacer"],
+                            spacer,
                             read_is_fwd_strand,
                             target_distance=INTEGRATION_SITE_DISTANCE,
                         )

@@ -9,12 +9,12 @@ analysis_type = "both"
 
 # The directory where the _read_locations.csv files are located
 # If unmoved, they will be in '{your tnseq-pipeline directory}/outputs/samples'
-pipeline_outputs_directory = "../typeV_tnseq_pipeline/outputs/samples"
+pipeline_outputs_directory = "../../samples"
 
 # The input information csv with information correlating
 # to the samples and the outputs produced
 # This is the same file used to run the typeV_tnseq_pipeline
-info_file = "../../test/test_input.csv"
+info_file = "../../Input.csv"
 
 # If a genbank file is provided, then the target fasta
 # from the info file is ignored and this is used instead
@@ -48,8 +48,8 @@ AT_enrichment_sizes = [70]
 TARGET_WINDOW = 100
 
 # The expected integration site distance from the end of the protospacer
-# Type 1 is usually 49 or 50bp
-INTEGRATION_SITE_DISTANCE = 49
+# Type V is usually 40bp
+INTEGRATION_SITE_DISTANCE = 40
 
 # The bin size to use for looking for areas of correlation
 CORRELATIONS_BIN_SIZE = 100

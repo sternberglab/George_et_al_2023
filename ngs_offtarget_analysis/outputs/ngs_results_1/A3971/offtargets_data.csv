@@ -1,0 +1,1494 @@
+position,reads,tRL,tLR,fwd strand,rev strand,at_pct_70bp,at_pct_70bp_odds,offtarget_seq,is_PAM_match,best_offtarget_seed_match,best_offtarget_total_match,CDS,Essential
+364,13,0.0,0.0,0.0,13.0,51.43,0.54206,GGCTTTTTTTTCGACCAAAGGTA,False,0,7,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+646,4,0.0,0.0,0.0,4.0,51.43,0.54206,GATTCCCGCTGGCGCAATTGAAA,False,5,9,['thrA CDS (Bifunctional aspartokinase/homoserine dehydrogenase 1)'],False
+6700,10,0.0,0.0,10.0,0.0,55.71,0.30824,ATCGGCGGCACCTTGCTAAGTCT,True,4,6,['yaaJ CDS (putative transporter)'],False
+8068,15,0.0,0.0,0.0,15.0,64.29,0.08678,ACCAATTGTTTAAGAAGTATATA,True,3,11,intergenic / no CDS,False
+11462,10,0.0,0.0,10.0,0.0,64.29,0.08678,TCAGAAATAAAAGAAGGGCAAAC,False,2,6,['yaaI CDS (UPF0412 family protein)'],False
+11514,18,0.0,0.0,0.0,18.0,58.57,0.205,AGACGCAGCGTTTATTGTCGTTA,False,3,8,['yaaI CDS (UPF0412 family protein)'],False
+11955,6,0.0,0.0,6.0,0.0,67.14,0.0552,ATCAAGGGGGAGATGCAAAAATT,True,2,4,intergenic / no CDS,False
+14426,6,0.0,0.0,0.0,6.0,48.57,0.72238,ACGATCAGTATGGTCATGCTGCG,False,4,9,"['dnaJ CDS (chaperone Hsp40, DnaK co-chaperone)']",False
+16981,3,0.0,0.0,3.0,0.0,51.43,0.54206,CTTGAGGCTATCTGTCTCAGGCA,True,2,5,intergenic / no CDS,False
+17103,5,0.0,0.0,5.0,0.0,74.29,0.01462,AATTAAAGTTAAATAATTAAATC,False,3,9,intergenic / no CDS,False
+17531,42,0.0,0.0,0.0,42.0,58.57,0.205,GAAAGAGAAATAAAAAGTGAAAC,False,0,6,['nhaA CDS (sodium-proton antiporter)'],False
+18305,10,0.0,0.0,0.0,10.0,48.57,0.72238,AGCATGTGTTACACCCGTGGGTG,False,2,8,['nhaA CDS (sodium-proton antiporter)'],False
+18957,4,0.0,0.0,4.0,0.0,61.43,0.13318,CATCAGCCACACCAACGTCAAAC,True,2,7,['nhaR CDS (transcriptional activator of nhaA)'],False
+19429,3,0.0,0.0,3.0,0.0,58.57,0.205,AATTTCTACGACAGTTTTATCGG,False,3,7,['nhaR CDS (transcriptional activator of nhaA)'],False
+24102,7,0.0,0.0,0.0,7.0,72.86,0.01998,AGTTGGAGTCATTACCATCTCTT,False,3,9,['ECD_00025 CDS (hypothetical protein)'],False
+24652,45,0.0,0.0,45.0,0.0,72.86,0.01998,GAACCATCGGCTGATACATTCTG,True,1,8,intergenic / no CDS,False
+31813,2,0.0,0.0,0.0,2.0,50.0,0.63384,GCTGTTACTTTCACAATGCCCGG,False,3,9,['rihC CDS (ribonucleoside hydrolase 3)'],False
+33359,1,0.0,0.0,1.0,0.0,77.14,0.00636,ACATTAAAACAACAAAAACCAAA,False,2,4,intergenic / no CDS,False
+33395,31,0.0,0.0,29.0,2.0,75.71,0.00962,AGGGAAAAGTGGACCAAATGGTC,False,2,7,intergenic / no CDS,False
+39057,5,0.0,0.0,5.0,0.0,54.29,0.37626,ACACTGGAAACGGTTGAATACCA,True,2,5,['caiE CDS (stimulator of CaiD and CaiB enzyme activities)'],False
+40371,6,0.0,0.0,6.0,0.0,62.86,0.1076,TAATCACGCTCTAAAACAATATG,False,3,8,['caiD CDS (carnitinyl-CoA dehydratase)'],False
+47134,1,0.0,0.0,0.0,1.0,51.43,0.54206,TGAGCGCGAACTGGAAGATGAAA,False,4,8,['fixA CDS (anaerobic carnitine reduction putative electron transfer flavoprotein subunit)'],False
+50531,21,0.0,0.0,21.0,0.0,47.14,0.80236,GCGGGGAGATTCAGGCAGTTCGA,False,3,10,['yaaU CDS (putative MFS sugar transporter; membrane protein)'],False
+51183,3,0.0,0.0,0.0,3.0,54.29,0.37626,GGCGTGATTATGTCCTTAAGCCG,True,1,4,['yaaU CDS (putative MFS sugar transporter; membrane protein)'],False
+54137,17,0.0,0.0,17.0,0.0,48.57,0.72238,GATAATATTTTTGCGTCCTGGCA,False,1,7,['folA CDS (dihydrofolate reductase)'],True
+54859,2,0.0,0.0,0.0,2.0,48.57,0.72238,TCAGTGGGGCAGGGGCCTCTTCC,True,3,8,['apaH CDS (diadenosine tetraphosphatase)'],False
+55778,2,0.0,0.0,2.0,0.0,62.86,0.1076,TCTGGCGGAGAACGCGCCTTTGC,False,5,8,['apaG CDS (protein associated with Co2+ and Mg2+ efflux)'],False
+66006,1,0.0,0.0,1.0,0.0,54.29,0.37626,TATGCCTTTTACACTTGGTCAAC,False,4,10,"['rapA CDS (RNA polymerase remodeling/recycling factor ATPase; RNA polymerase-associated, ATP-dependent RNA translocase)']",False
+70987,4,0.0,0.0,4.0,0.0,50.0,0.63384,CGAGCACGTTGTTAATGCGCTGA,False,4,8,['araA CDS (L-arabinose isomerase)'],False
+71089,7,0.0,0.0,7.0,0.0,62.86,0.1076,AGGACACGATAATGACGATTTTT,False,4,9,['araA CDS (L-arabinose isomerase)'],False
+81429,12,0.0,0.0,12.0,0.0,58.57,0.205,CCAGCCAGAATTACCCCGGTAGA,False,5,7,['setA CDS (broad specificity sugar efflux system)'],False
+81781,24,0.0,0.0,24.0,0.0,47.14,0.80236,CCAATCCGGGGATCCATTTCGAC,False,4,8,['leuD CDS (3-isopropylmalate dehydratase small subunit)'],False
+93109,5,0.0,0.0,5.0,0.0,41.43,0.97364,AGATCGCGCTCGGCAACGTATTC,False,4,10,"['rsmH CDS (16S rRNA m(4)C1402 methyltransferase, SAM-dependent)']",False
+107621,1,0.0,0.0,0.0,1.0,45.71,0.86572,AAAGTTCGCCACGGTTGTGCGCT,False,4,8,['ftsA CDS (ATP-binding cell division FtsK recruitment protein)'],True
+113562,19,0.0,0.0,0.0,19.0,57.14,0.25056,AATCGTTCTCCATGTTTGCAGCG,True,2,3,"['secA CDS (preprotein translocase subunit, ATPase)']",True
+113997,14,0.0,0.0,0.0,14.0,57.14,0.25056,TGGCGAATAAACTGGAGTTTCCC,False,0,9,['mutT CDS (dGTP-preferring nucleoside triphosphate pyrophosphohydrolase)'],False
+118921,5,0.0,0.0,0.0,5.0,47.14,0.80236,CTGGGCTATTACCAGCGTAAGCG,False,2,9,['hofB CDS (T2SE secretion family protein; P-loop ATPase superfamily protein)'],False
+126029,10,0.0,0.0,0.0,10.0,47.14,0.80236,TAAACGTAGCCGCAGGCACAGGT,True,1,3,"['aceE CDS (pyruvate dehydrogenase, decarboxylase component E1, thiamine triphosphate-binding)']",False
+127685,8,0.0,0.0,0.0,8.0,40.0,0.98666,ATGTTCGGCTTCCAGCGTATTGG,False,3,11,"['aceE CDS (pyruvate dehydrogenase, decarboxylase component E1, thiamine triphosphate-binding)']",False
+134121,2,0.0,0.0,0.0,2.0,64.29,0.08678,ATTTTCATAATTCGGATCTCAAG,True,3,7,intergenic / no CDS,False
+139876,33,0.0,0.0,33.0,0.0,54.29,0.37626,AAAGCCGAAGCCACACCCAGCGC,False,4,7,intergenic / no CDS,False
+141456,16,0.0,0.0,16.0,0.0,57.14,0.25056,CGTAGCGCATCAGGCAGATTTGC,False,2,9,intergenic / no CDS,False
+148172,7,0.0,0.0,7.0,0.0,50.0,0.63384,TCGGCGCGTTATAGACCGGCGTA,False,5,8,['yadE CDS (putative polysaccharide deacetylase lipoprotein)'],False
+148422,25,0.0,0.0,0.0,25.0,50.0,0.63384,TCAGCGCACTGGATGCCCAACCC,False,4,8,['yadE CDS (putative polysaccharide deacetylase lipoprotein)'],False
+156086,14,0.0,0.0,14.0,0.0,54.29,0.37626,CTCAAGGAGCGCGAATAAATTAT,True,0,4,['htrE CDS (putative outer membrane usher protein)'],False
+158850,27,0.0,0.0,27.0,0.0,54.29,0.37626,CGTCTGGAAAATAAAGGGAATAA,True,1,3,['yadV CDS (putative periplasmic pilin chaperone)'],False
+159245,13,0.0,0.0,13.0,0.0,58.57,0.205,ACAACCCTGGCGATGTGTATACT,False,5,9,['yadN CDS (putative fimbrial-like adhesin protein)'],False
+161285,33,0.0,0.0,33.0,0.0,44.29,0.9145,GCGGTACGTTTTGCCGCCAAATT,False,4,9,['pcnB CDS (poly(A) polymerase)'],False
+165093,3,0.0,0.0,0.0,3.0,38.57,0.99312,ATTAAGTGCGCCGACCGGAGCCG,False,3,8,['hrpB CDS (putative ATP-dependent helicase)'],False
+169061,4,0.0,0.0,4.0,0.0,44.29,0.9145,GCTGGTTTTGCAAGGGAACCAAT,True,3,5,['mrcB CDS (fused glycosyl transferase and transpeptidase)'],False
+172443,12,0.0,0.0,12.0,0.0,51.43,0.54206,TTAAAGCAGCTGGCGACGTATTC,True,1,8,['fhuA CDS (ferrichrome outer membrane transporter)'],False
+185342,9,0.0,0.0,9.0,0.0,52.86,0.4541,TTCGCCCACGGGCATCCATTACG,False,4,7,['cdaR CDS (carbohydrate diacid regulon transcriptional regulator; autoregulator)'],False
+208944,4,0.0,0.0,0.0,4.0,54.29,0.37626,TGGCCTTTTTATTCCCTGACGAG,True,1,3,['dnaE CDS (DNA polymerase III alpha subunit)'],True
+213229,22,0.0,0.0,22.0,0.0,51.43,0.54206,ACTACATCGTTCATCATCAACAG,False,4,9,"['ldcC CDS (lysine decarboxylase 2, constitutive)']",False
+214777,7,0.0,0.0,0.0,7.0,57.14,0.25056,ACGTTATGCTGGGTTTAAAACAG,False,3,6,['yaeR CDS (putative lyase)'],False
+217494,6,0.0,0.0,0.0,6.0,51.43,0.54206,CCGCAGAAGTGGCGCTGTTTACC,False,1,7,['yaeQ CDS (PDDEXK superfamily protein)'],False
+218043,7,0.0,0.0,0.0,7.0,51.43,0.54206,AAAGCCCGACGACCCACGCGGCC,False,6,8,"['arfB CDS (alternative stalled-ribosome rescue factor B; peptidyl-tRNA hydrolase, ribosome-attached)']",False
+221713,18,0.0,0.0,0.0,18.0,58.57,0.205,AAGGCGAGCCTGGGACAAAAAAA,False,4,6,intergenic / no CDS,False
+233698,16,0.0,0.0,16.0,0.0,48.57,0.72238,GAAAGCGGCAGCTTTAGCCGGGC,True,2,6,['yafC CDS (LysR family putative transcriptional regulator)'],False
+233739,9,0.0,0.0,9.0,0.0,47.14,0.80236,AAAGCCACGTCGGAAGAACTCGC,False,4,10,['yafC CDS (LysR family putative transcriptional regulator)'],False
+233747,15,0.0,0.0,15.0,0.0,51.43,0.54206,AATGAAAGCCACGTCGGAAGAAC,False,4,8,['yafC CDS (LysR family putative transcriptional regulator)'],False
+233872,21,0.0,0.0,21.0,0.0,71.43,0.02674,GCTTACACCGGTCAGAATTTTGC,False,3,10,intergenic / no CDS,False
+233882,7,0.0,0.0,7.0,0.0,67.14,0.0552,ATGTAAGCAAGTGCTTACACCGG,True,1,3,intergenic / no CDS,False
+234152,4,0.0,0.0,4.0,0.0,51.43,0.54206,CGTTGCTGTTTGTATATGTTCCA,False,3,11,['yafD CDS (endo/exonuclease/phosphatase family protein)'],False
+234395,11,0.0,0.0,11.0,0.0,45.71,0.86572,CCGACTTCGCCAGACGCAAAATG,True,2,5,['yafD CDS (endo/exonuclease/phosphatase family protein)'],False
+240721,17,0.0,0.0,0.0,17.0,61.43,0.13318,CGAGGATGTTGCCAGTGCTGAGA,False,2,9,['yafT CDS (lipoprotein)'],False
+242050,20,0.0,0.0,20.0,0.0,61.43,0.13318,TACGCCACCATCAGGAGCGGGTA,False,3,9,['ECD_00212 CDS (hypothetical protein)'],False
+244023,9,0.0,0.0,0.0,9.0,47.14,0.80236,ACTCTCCCCGTCCTTAAACACAA,False,5,9,['yafV CDS (putative NAD(P)-binding C-N hydrolase family amidase)'],False
+246548,8,0.0,0.0,0.0,8.0,47.14,0.80236,AATAATCGACTGCTGCCCGCGGT,False,4,6,['fadE CDS (acyl coenzyme A dehydrogenase)'],False
+251538,11,0.0,0.0,0.0,11.0,48.57,0.72238,GAAGGCAATGCCGAAAGCAGAAG,True,2,8,['yafL CDS (putative lipoprotein and C40 family peptidase)'],False
+265378,11,0.0,0.0,0.0,11.0,48.57,0.72238,GTCGGCGATAACGATAACCTTTC,False,2,10,['proB CDS (gamma-glutamate kinase)'],False
+271014,1,0.0,0.0,0.0,1.0,41.43,0.97364,ATGGCGGAACCGACGATATAGCC,False,3,7,"['paoC CDS (PaoABC aldehyde oxidoreductase, Moco-containing subunit)']",False
+272957,4,0.0,0.0,0.0,4.0,57.14,0.25056,AAATTCATGTTCGCCGGGATGTT,False,2,9,intergenic / no CDS,False
+276215,8,0.0,0.0,0.0,8.0,50.0,0.63384,GGCGATCGCCGGGAATATATGGA,True,3,7,['ecpD CDS (polymerized tip adhesin of ECP fibers)'],False
+277838,21,0.0,0.0,21.0,0.0,50.0,0.63384,TATAACAACGGCGACAGCAACGC,False,2,9,['ecpC CDS (ECP production outer membrane protein)'],False
+278843,13,0.0,0.0,13.0,0.0,51.43,0.54206,ACATCATGTGGTGCTCGACGGCT,False,4,7,['ecpC CDS (ECP production outer membrane protein)'],False
+282239,7,0.0,0.0,7.0,0.0,61.43,0.13318,GCAGCCTGCATTTTCACTCAAAC,False,5,9,intergenic / no CDS,False
+285136,5,0.0,0.0,0.0,5.0,54.29,0.37626,ATGGCGGGGGTGAATACTTTTAT,False,4,10,"['eaeH CDS (attaching and effacing protein, pathogenesis factor)']",False
+287240,27,0.0,0.0,27.0,0.0,71.43,0.02674,TCTGATGATGAAGCCTGACGCCA,False,3,7,intergenic / no CDS,False
+289735,14,0.0,0.0,0.0,14.0,78.57,0.00402,ATAGACGCAAAAGAGCAAATAAC,False,3,8,intergenic / no CDS,False
+291834,13,0.0,0.0,0.0,13.0,50.0,0.63384,CTCGGTCAAAATGGCCGAAATAT,True,2,4,['ykgE CDS (cysteine-rich LutA family protein; putative electron transport chain YkgEFG component)'],False
+293887,9,0.0,0.0,9.0,0.0,47.14,0.80236,CCTGCGCTTTCTGATGCAATTTT,False,5,11,['ykgG CDS (LutC family protein; putative electron transport chain YkgEFG component)'],False
+294828,11,0.0,0.0,11.0,0.0,70.0,0.03492,TGGTGCTGTTGTTTCTGTATATC,False,2,9,['ykgH CDS (putative inner membrane protein)'],False
+296305,2,0.0,0.0,0.0,2.0,37.14,0.99676,AGGACGCGATTTGGCCTGATCGA,True,4,9,"['betA CDS (choline dehydrogenase, a flavoprotein)']",False
+298856,13,0.0,0.0,13.0,0.0,45.71,0.86572,ACGCCACGCTGGAAGCAATAAAT,False,5,9,['betI CDS (choline-inducible betIBA-betT divergent operon transcriptional repressor)'],False
+301440,24,0.0,0.0,24.0,0.0,77.14,0.00636,TCAGCAAATGATAACCAATATTA,False,3,7,intergenic / no CDS,False
+301452,2,0.0,0.0,2.0,0.0,74.29,0.01462,ACTGAATCCATTCAGCAAATGAT,False,4,8,intergenic / no CDS,False
+302011,6,0.0,0.0,0.0,6.0,61.43,0.13318,TCGACAGGTAATCACTCATACTG,False,3,8,['yahA CDS (c-di-GMP-specific phosphodiesterase)'],False
+309819,2,0.0,0.0,0.0,2.0,51.43,0.54206,GGTCATAACCCCATCACCCTCTG,True,1,6,['yahI CDS (carbamate kinase-like protein)'],False
+312935,3,0.0,0.0,0.0,3.0,42.86,0.95038,CCGGGCCATACTCTGGGCGGCTA,False,4,9,"['yahK CDS (broad specificity NADPH-dependent aldehyde reductase, Zn-containing)']",False
+314017,4,0.0,0.0,0.0,4.0,67.14,0.0552,GATTATCCTTATGATTGTCGTGA,False,2,8,['yahL CDS (uncharacterized protein)'],False
+315311,7,0.0,0.0,0.0,7.0,51.43,0.54206,ATTCGGCAAATCAGGTTGATTAC,True,3,8,"['yahN CDS (amino acid exporter for proline, lysine, glutamate, homoserine)']",False
+315570,9,0.0,0.0,0.0,9.0,65.71,0.06942,ATTTAATGTTACTGAGAAAATAC,False,3,7,"['yahN CDS (amino acid exporter for proline, lysine, glutamate, homoserine)']",False
+318426,5,0.0,0.0,0.0,5.0,50.0,0.63384,AAATCCATTGCAGATTGTTGGCA,False,3,9,['prpB CDS (2-methylisocitrate lyase)'],False
+320851,32,0.0,0.0,0.0,32.0,58.57,0.205,TGTCGCGCTGGATAAGCGCCAGT,True,2,4,['prpD CDS (2-methylcitrate dehydratase)'],False
+321354,1,0.0,0.0,1.0,0.0,47.14,0.80236,GCGGGTCAGGCCGAGCATTTCGG,False,3,11,['prpD CDS (2-methylcitrate dehydratase)'],False
+328698,15,0.0,0.0,15.0,0.0,42.86,0.95038,TTTGACGGTAAATCGGAATGCGG,False,4,8,['cynT CDS (carbonic anhydrase)'],False
+335092,1,0.0,0.0,1.0,0.0,47.14,0.80236,CGGCGAGTTGCGTGACTACCTAC,True,0,2,['lacZ CDS (beta-D-galactosidase)']['Translation 335895-332766'],False
+335945,40,0.0,0.0,0.0,40.0,61.43,0.13318,ATCATGGTCATAGCTGTTTCCTG,True,1,7,intergenic / no CDS,False
+335950,10,0.0,0.0,0.0,10.0,58.57,0.205,ATCATGGTCATAGCTGTTTCCTG,True,1,7,intergenic / no CDS,False
+335955,12,0.0,0.0,0.0,12.0,57.14,0.25056,ATAGCTGTTTCCTGTGTGAAATT,True,3,7,intergenic / no CDS,False
+335964,15,0.0,0.0,0.0,15.0,58.57,0.205,TCCTGTGTGAAATTGTTATCCGC,True,1,5,intergenic / no CDS,False
+345812,9,0.0,0.0,9.0,0.0,45.71,0.86572,CCCACACCTGTTGCGCGGATCTG,True,3,11,['mhpT CDS (3-hydroxyphenylpropionic transporter)'],False
+346272,14,0.0,0.0,0.0,14.0,51.43,0.54206,ACCAGCAAAAAAGCGGCGAAGGT,True,3,5,['yaiL CDS (DUF2058 family protein)'],False
+349368,26,0.0,0.0,0.0,26.0,64.29,0.08678,ATAGGGGGGTATGCTATATGTCA,False,3,7,intergenic / no CDS,False
+355669,3,0.0,0.0,0.0,3.0,51.43,0.54206,ACATAGCGCGCAGCGCAGGAGAT,False,4,6,['hemB CDS (5-aminolevulinate dehydratase (porphobilinogen synthase))'],True
+356324,13,0.0,0.0,13.0,0.0,61.43,0.13318,ATAGACAAAACCACTATAGTTTA,True,3,7,['yaiT CDS (hypothetical protein)'],False
+356454,1,0.0,0.0,0.0,1.0,67.14,0.0552,ACAACACCAATGGTGATTTCGAT,False,4,10,['yaiT CDS (hypothetical protein)'],False
+356738,11,0.0,0.0,0.0,11.0,68.57,0.04426,ACTACTATTGATGATGATTATGA,False,4,9,['yaiT CDS (hypothetical protein)'],False
+364135,9,0.0,0.0,9.0,0.0,68.57,0.04426,ATTGTTAATAAATTTAACTTAAG,True,3,7,intergenic / no CDS,False
+365960,18,0.0,0.0,0.0,18.0,71.43,0.02674,ATATTTTGTGTGGGTAGTTATTT,False,2,10,intergenic / no CDS,False
+365988,22,0.0,0.0,0.0,22.0,71.43,0.02674,GAGAAACGTTTCGCTGGTAATCA,False,2,9,intergenic / no CDS,False
+367989,7,0.0,0.0,0.0,7.0,58.57,0.205,AACGCTCATGGTTAAAACATGAA,False,4,8,['psiF CDS (PsiF family protein)'],False
+384451,1,0.0,0.0,1.0,0.0,42.86,0.95038,TAATCCGCTACCGCCGGTTTGCC,False,2,10,['phoR CDS (sensory histidine kinase in two-component regulatory system with PhoB)'],False
+384647,1,0.0,0.0,1.0,0.0,58.57,0.205,TTTTGACTGCAAAGAAAATAAGC,True,2,5,intergenic / no CDS,False
+384885,25,0.0,0.0,25.0,0.0,60.0,0.16548,ACTCCCAACCAGGCGCGGCGAAG,False,5,8,intergenic / no CDS,False
+387253,1,0.0,0.0,1.0,0.0,51.43,0.54206,AGCACAACAAAGTTAAGAATGCT,True,2,5,['proY CDS (proline-specific permease)'],False
+390226,15,0.0,0.0,15.0,0.0,47.14,0.80236,AAATCCTGAAGAAAGTTTTCCGC,False,4,10,['acpH CDS (acyl carrier protein (ACP) phosphodiesterase; ACP hydrolyase)'],False
+390747,3,0.0,0.0,3.0,0.0,45.71,0.86572,AATACTTTCGTCATCGCCCAGCA,True,3,5,['queA CDS (S-adenosylmethionine:tRNA ribosyltransferase-isomerase)'],False
+395792,6,0.0,0.0,6.0,0.0,51.43,0.54206,TCAGAGCCAACGCAGATGCCACA,True,3,6,['secF CDS (SecYEG protein translocase auxillary subunit)'],False
+396686,2,0.0,0.0,2.0,0.0,47.14,0.80236,TATTCTGGCTCTGAACTACGATC,False,3,8,"['tsx CDS (nucleoside channel, receptor of phage T6 and colicin K)']",False
+396726,20,0.0,0.0,0.0,20.0,57.14,0.25056,CTGCATCGTCGTTCCACTGACCA,True,2,6,"['tsx CDS (nucleoside channel, receptor of phage T6 and colicin K)']",False
+397491,24,0.0,0.0,24.0,0.0,60.0,0.16548,GCTCCTCTGTATACGAAATATTT,False,4,9,intergenic / no CDS,False
+397515,1,0.0,0.0,1.0,0.0,72.86,0.01998,TATTTTTGTGAGCAATGATTTTT,False,2,8,intergenic / no CDS,False
+397599,2,0.0,0.0,2.0,0.0,70.0,0.03492,AAAGTCAGTACAATCCCTGCCCG,True,4,7,intergenic / no CDS,False
+397775,3,0.0,0.0,3.0,0.0,58.57,0.205,ACAGTTAAAGGGGATTTCTGTGG,True,3,6,['yajI CDS (putative lipoprotein)'],False
+403094,1,0.0,0.0,0.0,1.0,50.0,0.63384,ATTGTAGTGATCCTGCATACTGA,False,3,7,['yajO CDS (2-carboxybenzaldehyde reductase)'],False
+403235,4,0.0,0.0,4.0,0.0,51.43,0.54206,ATTATCCCGTGCACAAATTTTGC,False,4,11,['yajO CDS (2-carboxybenzaldehyde reductase)'],False
+403550,2,0.0,0.0,2.0,0.0,50.0,0.63384,TGACGAGTATGGCAGGAGTGGCA,True,0,4,['yajO CDS (2-carboxybenzaldehyde reductase)'],False
+406784,6,0.0,0.0,6.0,0.0,55.71,0.30824,CGTTACCATGACGGGGCGAAAAA,True,3,7,['xseB CDS (exonuclease VII small subunit)'],False
+408660,3,0.0,0.0,3.0,0.0,50.0,0.63384,GCTTCCCGACGCTGAAAGACAAA,False,6,8,['yajL CDS (oxidative-stress-resistance chaperone)'],False
+411665,1,0.0,0.0,1.0,0.0,48.57,0.72238,CCGCACCAAAGCGATGGCGTTTA,False,3,9,['yajR CDS (putative transporter)'],False
+412224,6,0.0,0.0,6.0,0.0,75.71,0.00962,AATTCATTTTTTCAACATATAGA,False,3,9,intergenic / no CDS,False
+412582,3,0.0,0.0,0.0,3.0,71.43,0.02674,AGGACATAAAGGTATACATGTTA,True,2,6,['ECD_00376 CDS (hypothetical protein)'],False
+412629,9,0.0,0.0,0.0,9.0,58.57,0.205,ATGCTGATAGTTTCACCAAGCGT,True,1,3,['ECD_00376 CDS (hypothetical protein)'],False
+413612,3,0.0,0.0,3.0,0.0,57.14,0.25056,ATTACCAATTAAAGGGGTTTATC,False,4,13,['ECD_00377 CDS (putative acetyltransferase)'],False
+413846,2,0.0,0.0,0.0,2.0,54.29,0.37626,AACACCAATTTCTGAAGGTTGTG,False,3,12,['ECD_00377 CDS (putative acetyltransferase)'],False
+419589,28,0.0,0.0,0.0,28.0,65.71,0.06942,AAGGGGAGTGCAGAAGGAGTTTG,False,3,9,intergenic / no CDS,False
+433162,12,0.0,0.0,12.0,0.0,45.71,0.86572,CTGGCATTATTAATGCTGACCCG,False,2,6,['ybaV CDS (putative competence-suppressing periplasmic helix-hairpin-helix DNA-binding protein)'],False
+435883,5,0.0,0.0,0.0,5.0,50.0,0.63384,ACTGCATCGCCGTTATGCCAGTG,False,5,7,['ybaE CDS (putative ABC transporter periplasmic binding protein)'],False
+436484,16,0.0,0.0,16.0,0.0,68.57,0.04426,CCATCCATATCAAATGCTGCCAG,True,3,7,intergenic / no CDS,False
+442296,3,0.0,0.0,3.0,0.0,50.0,0.63384,GCCGAAGAAGTTGTTGCCCTCAC,True,2,7,['amtB CDS (ammonium transporter)'],False
+443308,10,0.0,0.0,10.0,0.0,47.14,0.80236,GCTGTTTTTTGCAGTGCTTGTTA,False,3,9,['amtB CDS (ammonium transporter)'],False
+444319,2,0.0,0.0,2.0,0.0,55.71,0.30824,ACGCATTTCTGCCTGTAATTAGC,False,2,8,intergenic / no CDS,False
+446532,1,0.0,0.0,0.0,1.0,52.86,0.4541,ATGGCCCGCCTCCCGGTAGCGAG,False,6,9,['ylaB CDS (putative membrane-anchored cyclic-di-GMP phosphodiesterase)'],False
+466292,9,0.0,0.0,0.0,9.0,65.71,0.06942,TATCGCTTTTTCAAAAAATTCGA,True,2,11,['adk CDS (adenylate kinase)'],True
+467128,13,0.0,0.0,0.0,13.0,62.86,0.1076,TTTTTCTGATTTGACCTCTCACA,False,3,8,intergenic / no CDS,False
+467912,4,0.0,0.0,0.0,4.0,48.57,0.72238,CCTTTCAGTCGCGCTTTGGTCGG,False,4,9,['hemH CDS (ferrochelatase)'],True
+468931,4,0.0,0.0,0.0,4.0,48.57,0.72238,ATATTTTGTTGGAACCATGTAAG,False,2,7,['aes CDS (acetyl esterase)'],False
+473065,7,0.0,0.0,0.0,7.0,61.43,0.13318,CTGAGCATTCTGGATAGATAATC,False,1,10,['fsr CDS (putative fosmidomycin efflux system protein)'],False
+473754,23,0.0,0.0,23.0,0.0,50.0,0.63384,AACCCTGAAAAAGTGACTTTCCT,False,2,9,['fsr CDS (putative fosmidomycin efflux system protein)'],False
+474281,6,0.0,0.0,6.0,0.0,45.71,0.86572,ATAGCCCACCAGATTCATACCGC,True,5,8,"[""ushA CDS (bifunctional UDP-sugar hydrolase/5'-nucleotidase)""]",False
+474943,19,0.0,0.0,0.0,19.0,51.43,0.54206,CATGAGTGGGGCAAATACGTGGG,False,3,6,"[""ushA CDS (bifunctional UDP-sugar hydrolase/5'-nucleotidase)""]",False
+481182,2,0.0,0.0,2.0,0.0,50.0,0.63384,GTTCAACATTTTCAGCGTTAATC,True,2,12,['glsA CDS (glutaminase 1)'],False
+482419,6,0.0,0.0,0.0,6.0,44.29,0.9145,CGTTCTTCTCCTGTATCGGGATA,True,2,5,['ybaT CDS (putative amino acid transporter)'],False
+485954,2,0.0,0.0,2.0,0.0,55.71,0.30824,ACGCCGCATTAAAGCAGATAAAT,False,4,9,['fetB CDS (iron export ABC transporter permease; peroxide resistance protein)'],False
+486295,3,0.0,0.0,3.0,0.0,51.43,0.54206,CAACCGTTTTTGCTGAATCGACC,False,1,8,['fetB CDS (iron export ABC transporter permease; peroxide resistance protein)'],False
+486418,1,0.0,0.0,1.0,0.0,57.14,0.25056,GACAAGCTGGCGGTTGAGAGCAG,True,1,3,['fetB CDS (iron export ABC transporter permease; peroxide resistance protein)'],False
+496114,15,0.0,0.0,15.0,0.0,47.14,0.80236,CATCCCCCTTTCAACCCCATCGG,False,4,11,['rhsD CDS (Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor)'],False
+497618,8,0.0,0.0,0.0,8.0,60.0,0.16548,TTTCCATTGTATGGCATTTTGTC,False,2,10,"['rhsH CDS (conserved protein, rhs-like protein)']",False
+497936,1,0.0,0.0,0.0,1.0,82.86,0.00078,ATATTTATTTTTGCTATTATAAT,False,1,8,['ybbD CDS (hypothetical protein)'],False
+497946,45,0.0,0.0,0.0,45.0,81.43,0.00146,TTTGCTATTATAATCATTGTTGT,False,3,8,['ybbD CDS (hypothetical protein)'],False
+500524,18,0.0,0.0,0.0,18.0,54.29,0.37626,ATTTTACGCGCCAACGCGCAAGG,False,4,6,['allS CDS (allD operon transcriptional activator)'],False
+501292,9,0.0,0.0,0.0,9.0,58.57,0.205,GATGCTCGCCAGCCGCTGTCAAC,True,5,8,['allS CDS (allD operon transcriptional activator)'],False
+502801,14,0.0,0.0,0.0,14.0,54.29,0.37626,ACCGGTTTGCAGCAGTTTACGCC,False,3,7,['allR CDS (glyoxylate-inducible transcriptional repressor of all and gcl operons)'],False
+506175,6,0.0,0.0,0.0,6.0,54.29,0.37626,ACTGGGCGGCGATTATCTCGATG,False,6,8,"['glxR CDS (tartronate semialdehyde reductase, NADH-dependent)']",False
+507723,3,0.0,0.0,3.0,0.0,51.43,0.54206,ATCAGAATAACCAGTACCGCAAA,True,1,3,['ybbW CDS (putative allantoin transporter)'],False
+509347,2,0.0,0.0,0.0,2.0,51.43,0.54206,TCCGACCACTCACCATGCCCTCC,True,4,7,['allB CDS (allantoinase)'],False
+511096,6,0.0,0.0,0.0,6.0,68.57,0.04426,ATAACCTTATTCCGTGGGAACGT,False,3,8,['glxK CDS (glycerate kinase II)'],False
+517070,10,0.0,0.0,0.0,10.0,47.14,0.80236,ATTGATCTGGGCGATGATTTCTA,False,4,12,['fdrA CDS (putative NAD(P)-binding acyl-CoA synthetase)'],False
+520656,4,0.0,0.0,0.0,4.0,44.29,0.9145,AGGCCTACAATGGGTACCGGAGC,False,2,6,intergenic / no CDS,False
+523663,10,0.0,0.0,10.0,0.0,55.71,0.30824,TGGGTAATTGAGTTGCGTATAAT,True,1,6,intergenic / no CDS,False
+532072,1,0.0,0.0,0.0,1.0,51.43,0.54206,TATACCATTAGTTTTGGTGGCCG,True,3,7,['sfmH CDS (FimA-like protein)'],False
+532606,41,0.0,0.0,0.0,41.0,60.0,0.16548,CCTTTAGGAACGATTAATATCAA,False,3,7,['sfmF CDS (FimA-like protein)'],False
+533594,4,0.0,0.0,4.0,0.0,65.71,0.06942,ATTGTCCGCTCCTATGAGACTGG,False,6,9,['sfmZ CDS (response regulator family protein)'],False
+542458,2,0.0,0.0,2.0,0.0,57.14,0.25056,ATACTCCTGCTCCTGTCAGTGTT,False,3,8,"['ylcG CDS (uncharacterized protein, DLP12 prophage)']",False
+555915,24,0.0,0.0,0.0,24.0,64.29,0.08678,ACTCCAGGAGAGAATAAATGAAA,False,5,8,['cusF CDS (periplasmic copper- and silver-binding protein)'],False
+565208,2,0.0,0.0,0.0,2.0,47.14,0.80236,CGGAAGGGGCGATTTTTTCCAGC,True,1,3,['ybdK CDS (weak gamma-glutamyl:cysteine ligase)'],False
+569938,4,0.0,0.0,4.0,0.0,48.57,0.72238,ATTGACAACATCTGGTACGATTC,False,4,9,intergenic / no CDS,False
+574834,15,0.0,0.0,15.0,0.0,42.86,0.95038,CGTTATCTTCCGTAAAACGCATC,False,2,7,"['entF CDS (enterobactin synthase multienzyme complex component, ATP-dependent)']",False
+576502,1,0.0,0.0,1.0,0.0,41.43,0.97364,GGTTGACGATAGCCGTCTGCCCG,False,3,7,"['entF CDS (enterobactin synthase multienzyme complex component, ATP-dependent)']",False
+576961,4,0.0,0.0,4.0,0.0,42.86,0.95038,ACCAATCGGCACACTGCTGCCGC,False,4,8,"['entF CDS (enterobactin synthase multienzyme complex component, ATP-dependent)']",False
+579195,38,0.0,0.0,38.0,0.0,55.71,0.30824,GCTTTCATTTTTTCGCTCAATGC,False,3,8,['fepE CDS (regulator of length of O-antigen component of lipopolysaccharide chains)'],False
+588258,1,0.0,0.0,1.0,0.0,47.14,0.80236,GCGGTTCAAAGGCCCAGTCGACT,True,3,6,['entB CDS (isochorismatase)'],False
+592888,3,0.0,0.0,0.0,3.0,47.14,0.80236,AACGCCGATGACCTACGAAGAGT,False,4,7,['ybdD CDS (DUF466 family protein)'],False
+593411,23,0.0,0.0,23.0,0.0,51.43,0.54206,TGAAGCGGTGGTGCTGGCTCCGC,True,2,8,['ybdH CDS (putative oxidoreductase)'],False
+595458,1,0.0,0.0,1.0,0.0,54.29,0.37626,TGGAAGGTACGCGTAATCAACGC,True,0,5,"['ybdM CDS (Spo0J family protein, ParB-like nuclease domain)']",False
+596326,21,0.0,0.0,21.0,0.0,45.71,0.86572,CCTCTGCGTCATATGCGAATTTG,True,4,9,['ybdN CDS (PAPS reductase-like domain protein)'],False
+596340,6,0.0,0.0,0.0,6.0,48.57,0.72238,GACTCGTGCGCACATAGCAGCCC,False,2,7,['ybdN CDS (PAPS reductase-like domain protein)'],False
+596845,2,0.0,0.0,2.0,0.0,50.0,0.63384,ACTGGGAGGCGCAATTCTCTTGC,False,5,10,['ybdN CDS (PAPS reductase-like domain protein)'],False
+598704,12,0.0,0.0,0.0,12.0,64.29,0.08678,GTTCAGATTACACGGTCACCTGG,True,1,3,intergenic / no CDS,False
+603017,4,0.0,0.0,0.0,4.0,54.29,0.37626,GTCGTTTAAAATGGGACAGACCC,True,1,6,['ybdR CDS (putative Zn-dependent NAD(P)-binding oxidoreductase)'],False
+604847,12,0.0,0.0,12.0,0.0,51.43,0.54206,TATGTATGAGTTCCACACCCATT,True,3,5,['rna CDS (ribonuclease I)'],False
+609882,7,0.0,0.0,0.0,7.0,44.29,0.9145,CGAACAGCAGTTCAGTTCCTTCC,True,1,6,"['citE CDS (citrate lyase, citryl-ACP lyase (beta) subunit)']",False
+614420,16,0.0,0.0,0.0,16.0,54.29,0.37626,ACATTCCCGGATTCAGTCAGATA,True,4,5,['citB CDS (response regulator in two-component regulatory system with CitA)'],False
+614464,14,0.0,0.0,14.0,0.0,48.57,0.72238,ACACCACGTCGCCGGGATAATGC,False,5,10,['citB CDS (response regulator in two-component regulatory system with CitA)'],False
+621043,7,0.0,0.0,0.0,7.0,54.29,0.37626,TAAACAGGTTATAAAAACGGCTG,False,2,8,['ybeF CDS (LysR family putative transcriptional regulator)'],False
+622025,1,0.0,0.0,1.0,0.0,65.71,0.06942,ACAATCCTGACTTCGAATATATT,False,4,9,intergenic / no CDS,False
+622333,1,0.0,0.0,1.0,0.0,48.57,0.72238,AACTGGTGACCTTGCTTGAGCAA,True,2,3,['lipB CDS (octanoyltransferase; octanoyl-[ACP]:protein N-octanoyltransferase)'],False
+622851,1,0.0,0.0,0.0,1.0,57.14,0.25056,GAAGCGAGTTACAGAACCATGCG,False,3,8,['ybeD CDS (UPF0250 family protein)'],False
+627554,3,0.0,0.0,0.0,3.0,50.0,0.63384,TGTGACATTCAGACGCCCGTGGC,False,3,7,"['mrdA CDS (penicillin-binding protein 2, transpeptidase involved in peptidoglycan synthesis)']",True
+635804,4,0.0,0.0,0.0,4.0,47.14,0.80236,CGCGAAGTTTTCCAGGACCTCAA,False,1,9,['ybeL CDS (DUF1451 family protein)'],False
+640255,7,0.0,0.0,7.0,0.0,51.43,0.54206,CTTGTACGCCTGTGTGGAAGCGG,False,4,7,['hscC CDS (Hsp70 family chaperone Hsc62; RpoD-binding transcription inhibitor)'],False
+644190,14,0.0,0.0,14.0,0.0,47.14,0.80236,AGTGAAAAAAGGCGAAGTGGTGG,False,3,6,intergenic / no CDS,False
+645968,2,0.0,0.0,2.0,0.0,62.86,0.1076,AAGCGGAAAAATGGTTTGATAAG,True,1,3,['gltI CDS (glutamate/aspartate periplasmic binding protein)'],False
+646785,11,0.0,0.0,11.0,0.0,58.57,0.205,TCCATGCGTTCTTAACGCAGAAG,True,3,7,['gltI CDS (glutamate/aspartate periplasmic binding protein)'],False
+647547,16,0.0,0.0,0.0,16.0,50.0,0.63384,GTTTTTCCCATTTGCTGATGAAT,True,2,5,['ECD_00624 CDS (hypothetical protein)'],False
+648124,1,0.0,0.0,0.0,1.0,51.43,0.54206,AGCGGAGGAACGCAACGCCCTCA,True,3,5,['ECD_00624 CDS (hypothetical protein)'],False
+649330,7,0.0,0.0,0.0,7.0,45.71,0.86572,ACATCAACGTTTACGTGCTCGCA,False,3,8,['lnt CDS (apolipoprotein N-acyltransferase)'],True
+654195,3,0.0,0.0,0.0,3.0,50.0,0.63384,CACTTCGATGATATCGTCGGTGA,True,1,2,['miaB CDS (tRNA-i(6)A37 methylthiotransferase)'],False
+657124,9,0.0,0.0,9.0,0.0,52.86,0.4541,CCACGCTGTTCGCAACCTAACCA,False,3,8,intergenic / no CDS,False
+659777,1,0.0,0.0,1.0,0.0,48.57,0.72238,CACGTTTTATCGCCACCAATCCG,True,1,4,['umpH CDS (UMP phosphatase)'],False
+667889,4,0.0,0.0,4.0,0.0,60.0,0.16548,TATGGATAAATTGCGAAGCGGAA,False,2,6,intergenic / no CDS,False
+667967,11,0.0,0.0,11.0,0.0,70.0,0.03492,AAGAATAAAAGCGTGAAATTCCA,False,1,8,intergenic / no CDS,False
+668028,16,0.0,0.0,16.0,0.0,75.71,0.00962,ACCGCACATATTTTGATGATTTT,False,5,11,intergenic / no CDS,False
+668111,34,0.0,0.0,34.0,0.0,64.29,0.08678,TCGCTGACTACAGGAACAGACTA,True,1,6,intergenic / no CDS,False
+668377,39,0.0,0.0,6.0,33.0,48.57,0.72238,TTACAGCAATGTCGGGCTTTATG,True,1,7,['chiP CDS (chitoporin)'],False
+673108,8,0.0,0.0,8.0,0.0,50.0,0.63384,CGCTTTTGCTCTGCGTATTCGTC,False,1,8,['seqA CDS (negative modulator of initiation of replication)'],False
+676512,9,0.0,0.0,0.0,9.0,60.0,0.16548,TGTGGCGTCTTTTAACCAGTTCT,True,3,7,['ybfGH CDS (hypothetical protein)'],False
+691669,16,0.0,0.0,0.0,16.0,70.0,0.03492,ATAATATGGCTTTATTTTCTGTC,False,2,8,['ybfB CDS (putative membrane protein)'],False
+697507,2,0.0,0.0,0.0,2.0,65.71,0.06942,AATTTCCGCTGAAAGAATTAAAT,False,5,11,['ybfD CDS (H repeat-associated putative transposase)'],False
+706775,1,0.0,0.0,1.0,0.0,62.86,0.1076,AAGAGCCAAAACGATCAATGCAC,False,3,9,['ybgO CDS (putative fimbrial protein)'],False
+708005,1,0.0,0.0,0.0,1.0,50.0,0.63384,AATGGCGACTTGCAGAACGGCAT,False,4,10,['ybgP CDS (putative periplasmic pilin chaperone)'],False
+708942,10,0.0,0.0,0.0,10.0,50.0,0.63384,ACCGCTCCAGCTGCTGCTGACGG,False,5,8,['ybgQ CDS (putative outer membrane protein)'],False
+710395,25,0.0,0.0,25.0,0.0,58.57,0.205,CCCGACCTGAAATGCTCTTCAAT,True,4,6,['ybgQ CDS (putative outer membrane protein)'],False
+711629,48,0.0,0.0,0.0,48.0,71.43,0.02674,TAATGAGATGAAGGATGGGGTGG,True,0,3,intergenic / no CDS,False
+714378,4,0.0,0.0,4.0,0.0,48.57,0.72238,GTTTAACGTAGTCGGTCAACACC,False,3,6,"['sdhD CDS (succinate dehydrogenase, membrane subunit, binds cytochrome b556)']",False
+724044,9,0.0,0.0,9.0,0.0,62.86,0.1076,AATATCACTTTATTGAAGAAGTG,False,3,9,['mngR CDS (transcriptional repressor for the mannosyl-D-glycerate catabolic operon)'],False
+730615,36,0.0,0.0,0.0,36.0,52.86,0.4541,GTGTCACCTGGCTGGTGGCGCTC,False,2,9,"['cydA CDS (cytochrome d terminal oxidase, subunit I)']",True
+742175,13,0.0,0.0,13.0,0.0,57.14,0.25056,AACGCCCTGAAGTGCAAAAATAA,True,5,6,['pnuC CDS (nicotinamide riboside transporter)'],False
+744944,6,0.0,0.0,0.0,6.0,58.57,0.205,ATGATCGATTTCAGCCATGCTAA,True,2,7,"['aroG CDS (3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, phenylalanine repressible)']",False
+748672,39,0.0,0.0,0.0,39.0,55.71,0.30824,TATGCCCGAGAAGATGTTGAGCA,False,6,9,intergenic / no CDS,False
+749905,17,0.0,0.0,17.0,0.0,54.29,0.37626,ATCCGCTCACAATTCCACACATT,True,2,3,intergenic / no CDS,False
+750418,17,0.0,0.0,17.0,0.0,60.0,0.16548,TTCATTTAGTGCCTCTTCCAGTT,True,0,3,['Translation 749996-750445'],False
+750614,17,0.0,0.0,0.0,17.0,45.71,0.86572,CCATTACGGTGAGCGTTTAGCTC,False,3,10,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+750965,4,0.0,0.0,0.0,4.0,55.71,0.30824,GGGCCATTGAGGACGAGGCTCGC,True,1,7,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+751107,5,0.0,0.0,0.0,5.0,51.43,0.54206,CATGCTCTCTAAGGGTCTACTCG,False,4,8,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+751193,2,0.0,0.0,2.0,0.0,51.43,0.54206,CCAGCGCACCTGCACGGGTTGCG,False,4,9,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+751359,10,0.0,0.0,0.0,10.0,51.43,0.54206,CCTCCTAAGCCGTGGACTGGCAT,True,3,7,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+751426,1,0.0,0.0,0.0,1.0,55.71,0.30824,CGTACTCACAGTAAGAAAGCACT,True,3,6,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+751546,1,0.0,0.0,0.0,1.0,45.71,0.86572,GCCAACGTAATCACCAAGTGGAA,True,2,6,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+752631,9,0.0,0.0,9.0,0.0,52.86,0.4541,TATTCCTGCCACACAGGGAAACC,False,4,7,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+752775,6,0.0,0.0,6.0,0.0,51.43,0.54206,TCTTGGCTGTGTACAAAGTTAGG,False,3,7,['1 CDS (T7 DNA-directed RNA polymerase)'],False
+753913,33,0.0,0.0,33.0,0.0,58.57,0.205,CAAGGACGGGTAAAGAGTTTGGA,False,3,11,intergenic / no CDS,False
+756628,4,0.0,0.0,0.0,4.0,50.0,0.63384,CCTCGTCCATTTTTTCGATGAAC,True,3,8,['exo CDS (exonuclease)'],False
+758024,12,0.0,0.0,0.0,12.0,52.86,0.4541,AGCCAGCGTTGCGAGTGCAGTAC,False,3,11,['gam CDS (host-nuclease inhibitor protein Gam)'],False
+761069,28,0.0,0.0,28.0,0.0,54.29,0.37626,GCTGATGTTTGCTCACCCGGTTA,False,3,7,['cro CDS (Regulatory protein cro (Antirepressor))'],False
+761388,17,0.0,0.0,17.0,0.0,51.43,0.54206,TTGCACACCGGGCGTTTTTTCTT,True,1,6,['cII CDS (antitermination protein)'],False
+761389,1,0.0,0.0,1.0,0.0,51.43,0.54206,TTGCACACCGGGCGTTTTTTCTT,True,1,6,['cII CDS (antitermination protein)'],False
+761391,1,0.0,0.0,1.0,0.0,52.86,0.4541,CTTGCACACCGGGCGTTTTTTCT,False,4,9,['cII CDS (antitermination protein)'],False
+763389,17,0.0,0.0,0.0,17.0,57.14,0.25056,ACGAACCTGATGAACAAACTGGA,False,4,8,['ren CDS (ren exclusion protein)'],False
+763475,1,0.0,0.0,0.0,1.0,54.29,0.37626,GTGCAGAGAACGTTGAATGCCTG,True,1,6,['ren CDS (ren exclusion protein)'],False
+763762,2,0.0,0.0,0.0,2.0,52.86,0.4541,TGGAAAGCCAGTTGATCATCAGC,True,0,2,['ren CDS (ren exclusion protein)'],False
+764106,14,0.0,0.0,0.0,14.0,55.71,0.30824,ACAAGCCGGATTCGGTATGGCTG,False,5,10,['Q CDS (late gene regulator)'],False
+769479,2,0.0,0.0,0.0,2.0,57.14,0.25056,ATGAATGCGATGGGCAGCGACTA,False,1,7,['A CDS (DNA packaging protein)'],False
+775983,4,0.0,0.0,0.0,4.0,45.71,0.86572,AAAATGAGGTGGGATCAGCGCAG,False,2,6,['Fi CDS (DNA packaging protein)'],False
+787122,7,0.0,0.0,7.0,0.0,44.29,0.9145,CTGCCGCTGACAGTACGCTTACT,True,2,6,['J CDS (tail:host specificity protein)'],False
+798915,11,0.0,0.0,11.0,0.0,47.14,0.80236,CTTCGAGATATTCGGTAAGATCT,True,1,4,"['uvrB CDS (exision nuclease of nucleotide excision repair, DNA damage recognition component)']",False
+805667,2,0.0,0.0,0.0,2.0,51.43,0.54206,TTCGCCCGTAGCTTCTTCGCCTG,False,5,9,['ybhN CDS (UPF0104 family inner membrane protein)'],False
+805671,1,0.0,0.0,1.0,0.0,48.57,0.72238,ACATCCAAAGGGAGCATTATCGC,False,4,9,['ybhN CDS (UPF0104 family inner membrane protein)'],False
+805731,13,0.0,0.0,13.0,0.0,48.57,0.72238,CATATTCCGGCGGGGATTGGTGT,True,2,6,['ybhN CDS (UPF0104 family inner membrane protein)'],False
+810276,1,0.0,0.0,1.0,0.0,48.57,0.72238,ATCCGCGCGGTGACGTACATTAT,True,2,5,['ybhS CDS (putative ABC transporter permease)'],False
+820346,10,0.0,0.0,0.0,10.0,60.0,0.16548,ATCCGGCTTTTACCCCACCGCAA,True,2,6,intergenic / no CDS,False
+821666,4,0.0,0.0,0.0,4.0,51.43,0.54206,AACGCCTGATCCGTCCAACGGTT,True,5,9,intergenic / no CDS,False
+824417,36,0.0,0.0,36.0,0.0,55.71,0.30824,AATACCAAAGATGTGAGTAATAA,False,4,9,['fiu CDS (catecholate siderophore receptor)'],False
+824428,14,0.0,0.0,14.0,0.0,52.86,0.4541,ACGCACGGCGAATACCAAAGATG,True,4,6,['fiu CDS (catecholate siderophore receptor)'],False
+825887,11,0.0,0.0,0.0,11.0,51.43,0.54206,GCAGTTACGTTGGTGGGGTTATT,False,2,10,['mcbA CDS (colanic acid mucoidy stimulation protein)'],False
+832348,9,0.0,0.0,0.0,9.0,67.14,0.0552,TGTAACGATTGTGTGATGATGTG,False,2,9,intergenic / no CDS,False
+832516,1,0.0,0.0,1.0,0.0,51.43,0.54206,AATCGTCGCTAATGACGTACGCA,False,4,7,['dps CDS (Fe-binding and storage protein; stress-inducible DNA-binding protein)'],False
+834030,2,0.0,0.0,0.0,2.0,50.0,0.63384,AAAGAACGCGATGAGGATCAGCG,False,4,8,['rhtA CDS (threonine and homoserine efflux system)'],False
+835275,2,0.0,0.0,2.0,0.0,58.57,0.205,CTTGCCCATGATGATAAATATCA,False,5,10,['opgE CDS (OPG biosynthetic transmembrane phosphoethanolamine transferase)'],False
+835422,16,0.0,0.0,16.0,0.0,54.29,0.37626,TCGTGCTATCTCTATACCATGAC,False,2,9,['opgE CDS (OPG biosynthetic transmembrane phosphoethanolamine transferase)'],False
+836136,21,0.0,0.0,0.0,21.0,61.43,0.13318,TCACCTCGTTATTATTGACGATG,False,4,9,['opgE CDS (OPG biosynthetic transmembrane phosphoethanolamine transferase)'],False
+842034,10,0.0,0.0,0.0,10.0,48.57,0.72238,CCTTGTTGATTTTCAACGGGGGC,False,3,7,['ybiU CDS (DUF1479 family protein)'],False
+847132,10,0.0,0.0,10.0,0.0,48.57,0.72238,AACCGTGTGTGGTGAAGTGAAAA,True,1,5,['ybiY CDS (putative pyruvate formate lyase activating enzyme)'],False
+853005,14,0.0,0.0,0.0,14.0,50.0,0.63384,ATCATTGCCGACGAAGCCGTTTC,True,1,7,['gsiA CDS (glutathione ABC transporter ATPase)'],False
+857850,1,0.0,0.0,1.0,0.0,65.71,0.06942,TTAACCAGCTCTGTCATTTCAGA,True,3,8,['yliE CDS (putative membrane-anchored cyclic-di-GMP phosphodiesterase)'],False
+858255,26,0.0,0.0,0.0,26.0,57.14,0.25056,TTGATGAACGCAATAAAATCGTC,True,0,4,['yliE CDS (putative membrane-anchored cyclic-di-GMP phosphodiesterase)'],False
+859206,17,0.0,0.0,17.0,0.0,52.86,0.4541,GCGGAGAATGGCATGGGTTTCTG,False,2,11,['yliE CDS (putative membrane-anchored cyclic-di-GMP phosphodiesterase)'],False
+861331,10,0.0,0.0,10.0,0.0,48.57,0.72238,ACTGGCTTCCACAACGGCGAGCC,False,5,9,['rimO CDS (ribosomal protein S12 methylthiotransferase)'],False
+864434,40,0.0,0.0,40.0,0.0,64.29,0.08678,GAGTCCTGTTCAGCCTGTGGCTG,False,3,10,['gstB CDS (glutathione S-transferase)'],False
+869637,5,0.0,0.0,5.0,0.0,62.86,0.1076,GATAACTTTGACAACTTAGAGGA,True,2,5,['ybjI CDS (5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase; pyrimidine phosphatase; riboflavin synthesis)'],False
+871372,5,0.0,0.0,0.0,5.0,62.86,0.1076,ATAGATCACGTCAAAATAAGAAG,True,3,7,intergenic / no CDS,False
+871650,22,0.0,0.0,0.0,22.0,52.86,0.4541,AGATCATGTCCCGGCAATATCAG,False,3,10,['rcdA CDS (transcriptional regulator of csgD and ybiJI; autoregulator)'],False
+871858,16,0.0,0.0,0.0,16.0,45.71,0.86572,ACGCTCGAACAATGGTTTGAACC,False,3,6,['rcdA CDS (transcriptional regulator of csgD and ybiJI; autoregulator)'],False
+873589,29,0.0,0.0,29.0,0.0,61.43,0.13318,AGATGTATGGTCGCAGGATTTCA,True,1,7,intergenic / no CDS,False
+874620,3,0.0,0.0,0.0,3.0,64.29,0.08678,TCTTGACGATTTCACTGTGCGAT,False,4,9,intergenic / no CDS,False
+876879,4,0.0,0.0,0.0,4.0,58.57,0.205,AATTCGCATTCGCAAAGGTAGCT,False,4,10,['ECD_00827 CDS (Prophage protein)'],False
+877039,1,0.0,0.0,0.0,1.0,57.14,0.25056,GGGGCTAGTTTGGGCAATGAGTG,False,3,10,intergenic / no CDS,False
+877294,1,0.0,0.0,1.0,0.0,60.0,0.16548,CCTGATGATGAATTGTTTTATTT,False,3,8,['ECD_00828 CDS (hypothetical protein)'],False
+877594,40,0.0,0.0,0.0,40.0,61.43,0.13318,AACTGTGAATATGGAAAGAATCG,True,1,4,intergenic / no CDS,False
+878863,14,0.0,0.0,0.0,14.0,67.14,0.0552,ATTATGAATTTTGAAAACCGTAG,False,2,8,['ECD_00830 CDS (hypothetical protein)'],False
+881412,9,0.0,0.0,9.0,0.0,42.86,0.95038,CTTGAGCGTCACCAGTGGCGCGG,False,4,10,"['ECD_00833 CDS (Terminase, ATPase subunit)']",False
+888689,30,0.0,0.0,30.0,0.0,52.86,0.4541,CGCCCTCATTTTCAGGGATTACC,False,2,11,['ECD_00845 CDS (hypothetical protein)'],False
+889313,1,0.0,0.0,0.0,1.0,50.0,0.63384,TGCGCTGGCACTGAAAGCGCCGC,False,3,9,['ECD_00845 CDS (hypothetical protein)'],False
+889551,20,0.0,0.0,0.0,20.0,60.0,0.16548,ACCGTTGGACAATACGCTGACTA,False,4,8,['ECD_00845 CDS (hypothetical protein)'],False
+889958,26,0.0,0.0,0.0,26.0,54.29,0.37626,ACTGGAGAGATCTTTATTACGTT,False,4,9,['ECD_00845 CDS (hypothetical protein)'],False
+895098,7,0.0,0.0,7.0,0.0,48.57,0.72238,CCCAGCGCACACCAGAACACCGC,False,2,8,['ybjM CDS (inner membrane protein)'],False
+901490,14,0.0,0.0,0.0,14.0,51.43,0.54206,ACCATTCTGCATACCAATCTGGC,False,3,7,['potH CDS (putrescine ABC transporter permease)'],False
+901556,18,0.0,0.0,0.0,18.0,51.43,0.54206,CTGCCGATTTATACCGCGTTGAT,True,1,5,['potH CDS (putrescine ABC transporter permease)'],False
+904890,13,0.0,0.0,0.0,13.0,62.86,0.1076,CCCATCAATACGACCATTTTTCA,False,2,7,['artJ CDS (arginine ABC transporter periplasmic binding protein)'],False
+909268,3,0.0,0.0,3.0,0.0,67.14,0.0552,CCTTCGATCTCAAAAGCATTATC,False,3,9,intergenic / no CDS,False
+911757,3,0.0,0.0,0.0,3.0,48.57,0.72238,AGTAAAACAGCCCCGGCATACCG,False,2,6,['ybjT CDS (putative NAD-dependent oxidoreductase)'],False
+914156,5,0.0,0.0,5.0,0.0,57.14,0.25056,AGTTAGCCATTCCACCGCAGATC,False,3,10,"['poxB CDS (pyruvate dehydrogenase, thiamine triphosphate-binding, FAD-binding)']",False
+929790,10,0.0,0.0,0.0,10.0,51.43,0.54206,GCACCCTGACGTGTTCAATATTC,False,4,8,"['clpA CDS (ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity)']",False
+934052,4,0.0,0.0,4.0,0.0,42.86,0.95038,CGTGCGTGGCGCAGCAATCACCC,False,4,9,['cydC CDS (glutathione/cysteine ABC transporter export permease/ATPase)'],True
+948714,18,0.0,0.0,0.0,18.0,51.43,0.54206,GACGCCAGAAGTCAGCTTCCGCC,False,4,8,"['dmsB CDS (dimethyl sulfoxide reductase, anaerobic, subunit B)']",False
+950103,1,0.0,0.0,0.0,1.0,61.43,0.13318,AATCATAACAACCGGGGTTTCGG,False,2,9,['ycaC CDS (putative isochorismatase family hydrolase)'],False
+952371,1,0.0,0.0,1.0,0.0,57.14,0.25056,ATAAAAGACATCAGCGCAATGTT,True,1,5,intergenic / no CDS,False
+954532,22,0.0,0.0,0.0,22.0,60.0,0.16548,TCTAACATGATCTGAATTTCGTC,False,3,10,['ycaN CDS (LysR family putative transcriptional regulator)'],False
+954846,10,0.0,0.0,0.0,10.0,58.57,0.205,CGCTCCAGAACTTAACGTGGAGG,True,3,6,['ycaK CDS (putative NAD(P)H-dependent oxidoreductase)'],False
+956221,5,0.0,0.0,5.0,0.0,50.0,0.63384,GCCTTCGAGCTGCGCACCAACAC,True,2,6,['pflA CDS (pyruvate formate-lyase 1-activating enzyme; [formate-C-acetyltransferase 1]-activating enzyme; PFL activase)'],False
+971334,7,0.0,0.0,0.0,7.0,54.29,0.37626,TCAGCGCGCACTGGCCTTTACAA,True,5,9,['ycaI CDS (ComEC family inner membrane protein)'],False
+973879,18,0.0,0.0,18.0,0.0,48.57,0.72238,ACGATGATCTGCACATCAGGGTG,True,2,5,"[""lpxK CDS (lipid A 4'kinase)""]",True
+976539,7,0.0,0.0,7.0,0.0,50.0,0.63384,ACGGACTTGGCTGCCAGTTGACG,False,4,9,['kdsB CDS (3-deoxy-manno-octulosonate cytidylyltransferase)'],True
+978059,3,0.0,0.0,3.0,0.0,45.71,0.86572,GGTGCCAGAGTTGCGCAATCGCT,True,5,9,['elyC CDS (envelope biogenesis factor; DUF218 superfamily protein)'],False
+986068,19,0.0,0.0,19.0,0.0,65.71,0.06942,CAACGCCAATACTCACGAAAGTA,True,2,6,intergenic / no CDS,False
+986143,3,0.0,0.0,3.0,0.0,60.0,0.16548,ATATTAAGCAACATCCCTTGCCC,False,2,7,intergenic / no CDS,False
+987881,22,0.0,0.0,22.0,0.0,50.0,0.63384,TCTGCACCAACAAAGGCCGTCAG,False,5,9,"['ldtD CDS (murein L,D-transpeptidase)']",False
+988247,22,0.0,0.0,22.0,0.0,60.0,0.16548,TTGCAAACGCAGGGGTCGGCAGG,True,0,2,['ycbK CDS (M15A protease-related family periplasmic protein)'],False
+992411,6,0.0,0.0,0.0,6.0,71.43,0.02674,TGTGAACACCGTCATATTTCCAT,False,3,8,intergenic / no CDS,False
+992424,9,0.0,0.0,0.0,9.0,71.43,0.02674,ATATTTCCATAGAGACGTGATGA,True,2,5,intergenic / no CDS,False
+999047,9,0.0,0.0,0.0,9.0,44.29,0.9145,ATCGCCTGCGGTTGGCGTTTCCA,False,5,11,['ssuB CDS (aliphatic sulfonate ABC transporter ATPase)'],False
+1006055,5,0.0,0.0,0.0,5.0,55.71,0.30824,TATTACAGTTTGGCTACAACACG,False,3,8,['elfC CDS (putative outer membrane fimbrial subunit export usher protein)'],False
+1006897,10,0.0,0.0,0.0,10.0,58.57,0.205,TACCGGCGAAGGGAACAATAAGC,True,2,6,['elfC CDS (putative outer membrane fimbrial subunit export usher protein)'],False
+1020571,3,0.0,0.0,3.0,0.0,67.14,0.0552,ACCGGAGACGGTTATATTTACAA,False,3,8,['pqiC CDS (DUF330 family putative lipoprotein)'],False
+1021101,13,0.0,0.0,13.0,0.0,61.43,0.13318,GATGGTCGTCTGATCTATACCGC,True,4,9,['fabA CDS (beta-hydroxydecanoyl thioester dehydrase)'],True
+1031031,2,0.0,0.0,0.0,2.0,50.0,0.63384,CATTACGCAAGCAAAACAGTCAG,False,2,7,['helD CDS (DNA helicase IV)'],False
+1046976,7,0.0,0.0,7.0,0.0,47.14,0.80236,TGCGTGCTTCATTCACGATTTGC,True,2,7,['appA CDS (phosphoanhydride phosphorylase)'],False
+1049325,1,0.0,0.0,0.0,1.0,57.14,0.25056,TGATCCCATAACTCGCCGACCAG,False,3,7,"['etk CDS (tyrosine-protein kinase, role in O-antigen capsule formation)']",False
+1049326,17,0.0,0.0,0.0,17.0,57.14,0.25056,TGATCCCATAACTCGCCGACCAG,False,3,7,"['etk CDS (tyrosine-protein kinase, role in O-antigen capsule formation)']",False
+1059910,9,0.0,0.0,9.0,0.0,54.29,0.37626,AGGCTGCTGAAAGTGCACTCGAT,True,2,5,['torS CDS (hybrid sensory histidine kinase in two-component regulatory system with TorR)'],False
+1074741,7,0.0,0.0,0.0,7.0,51.43,0.54206,GATCGACAATGTTCATAGTTTGC,True,2,6,['rutE CDS (putative malonic semialdehyde reductase)'],False
+1076333,10,0.0,0.0,10.0,0.0,47.14,0.80236,CGCTGGCTTTTGATCAACATAAT,True,1,6,"['rutC CDS (putative aminoacrylate deaminase, reactive intermediate detoxification; weak enamine/imine deaminase activity)']",False
+1081749,7,0.0,0.0,7.0,0.0,47.14,0.80236,CGAAAAAGCTGCTGGCGGTGCCG,True,1,7,['putA CDS (fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase)'],False
+1090823,18,0.0,0.0,18.0,0.0,62.86,0.1076,AGTCCCGATCGCGGGATTCTGAG,True,4,11,"['pgaD CDS (biofilm PGA synthase PgaCD, regulatory subunit; c-di-GMP-stimulated activity and dimerization)']",False
+1095163,7,0.0,0.0,7.0,0.0,54.29,0.37626,ATATTAATCTGGAGGTTGAACAA,True,1,4,"['pgaA CDS (biofilm adhesin polysaccharide PGA secretin; OM porin; poly-beta-1,6-N-acetyl-D-glucosamine export protein)']",False
+1098395,46,0.0,0.0,46.0,0.0,58.57,0.205,TAACGCATTTTCCTGAGTCACAA,True,1,10,"['ycdT CDS (diguanylate cyclase, membrane-anchored)']",False
+1098402,22,0.0,0.0,0.0,22.0,60.0,0.16548,CGAAAGCTTTAGCGGAAAGGATT,True,1,6,"['ycdT CDS (diguanylate cyclase, membrane-anchored)']",False
+1099876,4,0.0,0.0,4.0,0.0,38.57,0.99312,AGAAGCCCCGACCGGGGTTCGAC,False,3,9,intergenic / no CDS,False
+1103148,2,0.0,0.0,0.0,2.0,54.29,0.37626,CCTGCTTAGTGGCGTGGTGTGGG,False,4,8,['ycdZ CDS (DUF1097 family inner membrane protein)'],False
+1105525,46,0.0,0.0,46.0,0.0,61.43,0.13318,AAACAACAATATCAAAATATTGT,False,2,7,['csgD CDS (csgBAC operon transcriptional regulator)'],False
+1108985,17,0.0,0.0,0.0,17.0,52.86,0.4541,AAAACGCCCACCTCTACGAAAGA,False,3,5,['clsC CDS (stationary phase cardiolipin synthase 3)'],False
+1120388,18,0.0,0.0,18.0,0.0,55.71,0.30824,TTGTATTCAGACGTCCACGAGAC,True,0,3,['yceA CDS (putative rhodanese-related sulfurtransferase)'],False
+1121507,36,0.0,0.0,36.0,0.0,52.86,0.4541,TGTGGATGGTCACGCTCAGTTAT,True,3,5,['yceJ CDS (putative cytochrome b561)'],False
+1121534,34,0.0,0.0,34.0,0.0,55.71,0.30824,ATTGTCTACGGCATGTTTGCTTT,False,4,8,['yceJ CDS (putative cytochrome b561)'],False
+1121923,6,0.0,0.0,0.0,6.0,68.57,0.04426,CATTCAATTTTTCACGCTAAATG,False,2,8,intergenic / no CDS,False
+1132420,4,0.0,0.0,4.0,0.0,52.86,0.4541,CAGCAAGACTTGCAGAGTAACTG,False,0,9,['flgN CDS (export chaperone for FlgK and FlgL)'],False
+1132498,12,0.0,0.0,12.0,0.0,52.86,0.4541,GAAGCGTTAAAACTGGCGATTCG,True,2,4,['flgM CDS (anti-sigma factor for FliA (sigma 28))'],False
+1139309,16,0.0,0.0,16.0,0.0,42.86,0.95038,CAGTTGGTTAACCTGAACACTGC,True,0,5,['flgI CDS (putative flagellar basal body protein)'],False
+1141137,2,0.0,0.0,2.0,0.0,54.29,0.37626,ACTCACGCTGCACACCAGAAACG,False,4,6,['flgK CDS (flagellar hook-filament junction protein 1)'],False
+1143542,32,0.0,0.0,32.0,0.0,58.57,0.205,GTTGAGCTGGAAGAGCGACAATC,False,3,9,['flgL CDS (flagellar hook-filament junction protein)'],False
+1152937,10,0.0,0.0,0.0,10.0,50.0,0.63384,GAGCGTGCTGGCGCTGCCTGTAA,True,0,4,['fabD CDS (malonyl-CoA-[acyl-carrier-protein] transacylase)'],True
+1158748,3,0.0,0.0,0.0,3.0,47.14,0.80236,TGAGCACGCACGCTTAGGTGGTG,False,4,8,"['holB CDS (DNA polymerase III, delta prime subunit)']",True
+1160296,1,0.0,0.0,0.0,1.0,62.86,0.1076,AGTAAAGTTCACCGCCGAAAATT,False,2,6,intergenic / no CDS,False
+1164160,4,0.0,0.0,4.0,0.0,55.71,0.30824,ATCACCCTCCTCCGGCATGAGCC,False,4,9,['fhuE CDS (ferric-rhodotorulic acid outer membrane transporter)'],False
+1172511,1,0.0,0.0,1.0,0.0,45.71,0.86572,CAAACCCAACCTGGACGCCAACG,True,3,5,"['ldtC CDS (L,D-transpeptidase linking Lpp to murein)']",False
+1182912,20,0.0,0.0,0.0,20.0,52.86,0.4541,TTCCGCGCATTGAACGCGCGCGC,True,1,6,intergenic / no CDS,False
+1183038,6,0.0,0.0,6.0,0.0,57.14,0.25056,CCGCAGAAATTCCTGCCCCTGTC,False,1,8,"['cobB CDS (deacetylase of acs and cheY, chemotaxis regulator)']",False
+1188084,16,0.0,0.0,16.0,0.0,51.43,0.54206,ATGTTCTGCTGCGCCCGGAAGAC,False,3,8,['potA CDS (spermidine/putrescine ABC transporter ATPase)'],False
+1200730,1,0.0,0.0,1.0,0.0,72.86,0.01998,AATCACCATGCCAATACTATCAA,False,4,11,intergenic / no CDS,False
+1200795,49,0.0,0.0,49.0,0.0,72.86,0.01998,AATAAAAGTACAGAGACTATCCC,False,3,12,intergenic / no CDS,False
+1200806,1,0.0,0.0,0.0,1.0,71.43,0.02674,AAAGTCAAGTGATCACATTTCAA,False,3,8,intergenic / no CDS,False
+1204766,11,0.0,0.0,11.0,0.0,71.43,0.02674,TATCGCAACACGATTTCCAGTGT,True,2,2,['ariR CDS (RcsB connector protein for regulation of biofilm and acid-resistance)'],False
+1208259,10,0.0,0.0,0.0,10.0,58.57,0.205,AGTGAATTTGGTGGCACCATCTT,True,3,9,intergenic / no CDS,False
+1209560,9,0.0,0.0,0.0,9.0,50.0,0.63384,GCTGGAAGTTACGTCGCTAACCT,False,4,10,intergenic / no CDS,False
+1214446,1,0.0,0.0,1.0,0.0,64.29,0.08678,AATAAGAACAATCAAAAGTACGA,True,2,6,intergenic / no CDS,False
+1215890,27,0.0,0.0,27.0,0.0,61.43,0.13318,GCTGCTTCGATAAATCACACAAA,False,4,6,intergenic / no CDS,False
+1225951,2,0.0,0.0,0.0,2.0,44.29,0.9145,GTGCCGCGAATGCCGGGCAAATC,False,3,8,['dadA CDS (D-amino acid dehydrogenase)'],False
+1234432,12,0.0,0.0,0.0,12.0,52.86,0.4541,CGGCCGCGGTTAACTGATTGCGC,False,3,9,['treA CDS (periplasmic trehalase)'],False
+1238243,19,0.0,0.0,19.0,0.0,54.29,0.37626,AATGGCTCATACCATCGCACTTT,True,4,9,"['dhaK CDS (dihydroxyacetone kinase, PTS-dependent, dihydroxyacetone-binding subunit)']",False
+1240843,2,0.0,0.0,0.0,2.0,54.29,0.37626,GCTGGTGAATAACAAATTACGCA,False,3,7,['dhaR CDS (dhaKLM operon transcription activator)'],False
+1241661,2,0.0,0.0,2.0,0.0,57.14,0.25056,CTGGAAGCCGGGCAGAGGTTCAA,False,1,8,['ycgV CDS (putative adhesin)'],False
+1244705,1,0.0,0.0,0.0,1.0,65.71,0.06942,GCCAGCATATTGGAGCGTGATCA,False,2,9,intergenic / no CDS,False
+1244731,4,0.0,0.0,0.0,4.0,64.29,0.08678,ATCAGCTGTGAAGGGGGCTGATG,False,3,9,intergenic / no CDS,False
+1255443,11,0.0,0.0,0.0,11.0,58.57,0.205,TTATATCGTTTTGGGTTTTATTG,False,2,10,['ychQ CDS (SIRB family inner membrane protein)'],False
+1258941,4,0.0,0.0,4.0,0.0,57.14,0.25056,GCAGCGCATCTGGCACTGTTTGC,False,4,10,intergenic / no CDS,False
+1260052,2,0.0,0.0,2.0,0.0,70.0,0.03492,TCTGTTATTTTTCCTACCTATTT,False,3,9,intergenic / no CDS,False
+1260494,33,0.0,0.0,0.0,33.0,61.43,0.13318,ATAAAGAGGATCGGCGTGATGAC,False,2,7,['chaB CDS (cation transport regulator)'],False
+1260533,3,0.0,0.0,0.0,3.0,55.71,0.30824,ACCGCGCATAAAGTGGCCTGGGC,False,5,10,['chaB CDS (cation transport regulator)'],False
+1262995,2,0.0,0.0,0.0,2.0,52.86,0.4541,ACAACTTTCTGCGGGCGAGGTTG,False,3,9,['ychO CDS (putative invasin)'],False
+1265482,40,0.0,0.0,40.0,0.0,52.86,0.4541,ACGGACAACTGGCGCAATTACAG,False,4,9,['narX CDS (sensory histidine kinase in two-component regulatory system with NarL)'],False
+1267765,17,0.0,0.0,17.0,0.0,65.71,0.06942,ATGGGTATTAAGGAGTATTCCCC,False,2,10,intergenic / no CDS,False
+1280235,6,0.0,0.0,0.0,6.0,64.29,0.08678,AAGCCTGGCTTGAAGAAGAGATG,False,3,9,intergenic / no CDS,False
+1281125,30,0.0,0.0,0.0,30.0,60.0,0.16548,ATTCCCTATTAAGCGAATGATGA,False,4,10,intergenic / no CDS,False
+1290669,5,0.0,0.0,5.0,0.0,57.14,0.25056,CTGAAAAATCATTGAGATTTGTT,True,0,5,['oppD CDS (oligopeptide ABC transporter ATPase)'],False
+1294081,12,0.0,0.0,12.0,0.0,48.57,0.72238,AGTCGGAATTATTGCCTATCTTG,True,2,6,['clsA CDS (cardiolipin synthase 1)'],False
+1295971,26,0.0,0.0,0.0,26.0,62.86,0.1076,ACTCACTGATACCTCTGTAACCA,True,5,10,intergenic / no CDS,False
+1299379,32,0.0,0.0,0.0,32.0,52.86,0.4541,CCTTGAGTTTTATGCAGGTGTTA,False,2,9,intergenic / no CDS,False
+1299550,5,0.0,0.0,0.0,5.0,72.86,0.01998,GCGAAAATATTTAAAAATTGATT,True,1,8,intergenic / no CDS,False
+1307897,1,0.0,0.0,0.0,1.0,54.29,0.37626,TTTGCAACAAACGCACTACGCCA,False,3,6,['trpE CDS (component I of anthranilate synthase)'],False
+1312471,16,0.0,0.0,16.0,0.0,61.43,0.13318,AAGGCTTGTCATCATCGCAGGCA,False,4,7,intergenic / no CDS,False
+1320181,16,0.0,0.0,0.0,16.0,67.14,0.0552,CCTTTTTTATTGCATATTATTTT,False,2,9,intergenic / no CDS,False
+1320976,1,0.0,0.0,0.0,1.0,50.0,0.63384,GCGCAGGGTTAACGCCGCGTATC,False,2,8,['cysB CDS (N-acetylserine-responsive cysteine regulon transcriptional activator; autorepressor)'],False
+1322105,3,0.0,0.0,0.0,3.0,57.14,0.25056,TTCTCTGTCGATGCTCTTCTGGG,True,1,4,intergenic / no CDS,False
+1329621,9,0.0,0.0,0.0,9.0,45.71,0.86572,ACCACCGACAGCTGCACCACCTA,False,4,8,['osmB CDS (osmotically and stress inducible lipoprotein)'],False
+1329728,21,0.0,0.0,21.0,0.0,67.14,0.0552,AGAGCTTACTTCCGTGAATCATA,False,3,8,['osmB CDS (osmotically and stress inducible lipoprotein)'],False
+1331981,1,0.0,0.0,0.0,1.0,60.0,0.16548,CTTTACGAAAGTTGGTATCCAGC,True,2,5,['gmr CDS (cyclic-di-GMP phosphodiesterase; csgD regulator; modulator of RNase II stability)'],False
+1332985,1,0.0,0.0,0.0,1.0,51.43,0.54206,CTACCAGATGCACAGAAAGATCG,True,1,5,['gmr CDS (cyclic-di-GMP phosphodiesterase; csgD regulator; modulator of RNase II stability)'],False
+1333096,1,0.0,0.0,0.0,1.0,54.29,0.37626,AACATACGTTCAGGTTCTGTGGT,False,3,8,['gmr CDS (cyclic-di-GMP phosphodiesterase; csgD regulator; modulator of RNase II stability)'],False
+1335636,2,0.0,0.0,0.0,2.0,62.86,0.1076,GCGTGCTCAACAGAATGACGGTC,True,2,7,['yciW CDS (putative oxidoreductase)'],False
+1355075,16,0.0,0.0,0.0,16.0,54.29,0.37626,AACGTCGTATTGACCAGATGGAA,False,3,8,['pspA CDS (regulatory protein for phage-shock-protein operon)'],False
+1362123,1,0.0,0.0,1.0,0.0,42.86,0.95038,CGAGGTTAAAACCTTCGGCAAAC,True,1,4,['ycjQ CDS (putative Zn-dependent NAD(P)-binding oxidoreductase)'],False
+1373300,4,0.0,0.0,4.0,0.0,58.57,0.205,CATCCACGGGACAGTACGCACAT,False,4,7,['tyrR CDS (aromatic amino acid biosynthesis and transport regulon transcriptional regulator; autorepressor; ATPase; phosphatase)'],False
+1377306,2,0.0,0.0,0.0,2.0,61.43,0.13318,GGCTATCTGACCGCCAGCACCAA,False,1,6,intergenic / no CDS,False
+1381004,15,0.0,0.0,0.0,15.0,52.86,0.4541,ATCCGCGCCTCGTGGGTGGGGGA,True,2,4,['mppA CDS (murein tripeptide (L-ala-gamma-D-glutamyl-meso-DAP) transporter subunit)'],False
+1381426,1,0.0,0.0,1.0,0.0,58.57,0.205,ATTGAATATTATGGTTTATTGCT,False,3,8,"['ynaI CDS (mechanosensitive channel protein, very small conductance)']",False
+1389794,2,0.0,0.0,2.0,0.0,61.43,0.13318,GTTAGTGATAAGTAAAAACTATC,False,1,7,intergenic / no CDS,False
+1392614,15,0.0,0.0,0.0,15.0,55.71,0.30824,AGCATCGACGATTTGTCCATCTC,True,2,7,"['ydaM CDS (diguanylate cyclase, csgD regulator)']",False
+1397495,3,0.0,0.0,0.0,3.0,57.14,0.25056,ATTCCACCTTGCCCCCAAACTGC,False,4,8,['intR CDS (Rac prophage; integrase)'],False
+1407176,12,0.0,0.0,0.0,12.0,51.43,0.54206,AACCCGGGCAAAGCTGATTCGGG,False,3,6,['ynaK CDS (Rac prophage; conserved protein)'],False
+1421983,22,0.0,0.0,22.0,0.0,60.0,0.16548,TTTAAGCAACGCTTTGGGATGAC,True,2,6,intergenic / no CDS,False
+1424156,3,0.0,0.0,0.0,3.0,48.57,0.72238,ACACGCTGGTTAGTGGATTTGAG,False,4,11,['feaB CDS (phenylacetaldehyde dehydrogenase)'],False
+1431075,16,0.0,0.0,16.0,0.0,52.86,0.4541,GGCAATAGCATAAAGAGGATGGG,False,1,7,['ynbA CDS (inner membrane protein)'],False
+1436278,6,0.0,0.0,6.0,0.0,58.57,0.205,CCACATCGCGGCTTTCTATGCGT,True,3,6,intergenic / no CDS,False
+1436360,9,0.0,0.0,0.0,9.0,64.29,0.08678,TGTTCGAATTTATTGAACAACGC,False,2,9,intergenic / no CDS,False
+1440343,14,0.0,0.0,14.0,0.0,68.57,0.04426,TTTTTCTGAATTCCTGAATTTTT,True,3,7,intergenic / no CDS,False
+1440372,22,0.0,0.0,22.0,0.0,68.57,0.04426,ATTATTCATCTTGCAGCTGAGAA,False,3,7,intergenic / no CDS,False
+1441584,2,0.0,0.0,0.0,2.0,61.43,0.13318,AATTAACAATGCATTCACCGAAA,True,3,5,"['aldA CDS (aldehyde dehydrogenase A, NAD-linked)']",False
+1443861,18,0.0,0.0,18.0,0.0,57.14,0.25056,ACCTGCTGAAACATGATTCAAAC,False,4,9,['gapC CDS (glyceraldehyde-3-phosphate dehydrogenase)'],False
+1443966,17,0.0,0.0,0.0,17.0,57.14,0.25056,GTTTGAATCATGTTTCAGCAGGT,True,1,2,['gapC CDS (glyceraldehyde-3-phosphate dehydrogenase)'],False
+1463244,4,0.0,0.0,4.0,0.0,58.57,0.205,AATGCCATGCAAAATCAGGAAGG,False,5,6,intergenic / no CDS,False
+1467548,1,0.0,0.0,0.0,1.0,51.43,0.54206,TCTCGGTATCACTTTTATCTTCG,True,2,6,['ydcT CDS (putative ABC transporter ATPase)'],False
+1471224,17,0.0,0.0,0.0,17.0,62.86,0.1076,CTGTCAGAGCACTGATTTCTCTG,True,1,6,['yncL CDS (stress-induced small inner membrane enterobacterial protein)'],False
+1475003,12,0.0,0.0,0.0,12.0,62.86,0.1076,ACTCGCTGCGTTAAAAGCAAAAG,True,5,9,"['mcbR CDS (colanic acid and biofilm gene transcriptional regulator, MqsR-controlled)']",False
+1495086,13,0.0,0.0,13.0,0.0,51.43,0.54206,GCTTATCGCCCGCCTATCGACAC,True,4,7,"['narZ CDS (nitrate reductase 2 (NRZ), alpha subunit)']",False
+1501419,17,0.0,0.0,0.0,17.0,65.71,0.06942,TTGTAGTGTTTTTGGCGTTTAAA,True,1,9,['yddK CDS (hypothetical protein)'],False
+1505148,9,0.0,0.0,0.0,9.0,48.57,0.72238,AAATTCTGGCGGGTATCTACCAT,True,3,6,"['fdnG CDS (formate dehydrogenase-N, alpha subunit, nitrate-inducible)']",False
+1530700,1,0.0,0.0,1.0,0.0,58.57,0.205,CCGGGTAAATTCGCCCGGTTTTC,False,2,11,['pqqL CDS (putative periplasmic M16 family zinc metalloendopeptidase)'],False
+1535448,10,0.0,0.0,0.0,10.0,68.57,0.04426,TTCGCTGGAATCCGTTTTTTTTG,False,3,9,['ydeM CDS (putative YdeN-specific sulfatase-maturating enzyme)'],False
+1537720,4,0.0,0.0,4.0,0.0,57.14,0.25056,ACCTACAAAATAGGGATAGATAA,False,3,7,['ydeN CDS (putative Ser-type periplasmic non-aryl sulfatase)'],False
+1538026,5,0.0,0.0,5.0,0.0,68.57,0.04426,ATTAAGTACAATAAGAAGAGGAA,False,2,5,['ydeN CDS (putative Ser-type periplasmic non-aryl sulfatase)'],False
+1538345,2,0.0,0.0,0.0,2.0,67.14,0.0552,AAATGCCGAATTGAGATCATAAA,False,4,10,intergenic / no CDS,False
+1553354,1,0.0,0.0,1.0,0.0,51.43,0.54206,ATTAATCAACTGTACCTGACCAG,True,3,6,['lsrB CDS (autoinducer 2-binding protein)'],False
+1557824,15,0.0,0.0,0.0,15.0,61.43,0.13318,CGGGTTACGGAAACGCCCGGTGA,True,1,2,"['uxaB CDS (altronate oxidoreductase, NAD-dependent)']",False
+1558040,3,0.0,0.0,0.0,3.0,55.71,0.30824,CTTTGTACGGTTTAATATCGTCA,True,1,4,"['uxaB CDS (altronate oxidoreductase, NAD-dependent)']",False
+1566525,4,0.0,0.0,4.0,0.0,47.14,0.80236,ATCGCGATCCCCCAGAAAATACT,False,3,8,"['ydeA CDS (arabinose efflux transporter, arabinose-inducible)']",False
+1567938,1,0.0,0.0,1.0,0.0,62.86,0.1076,AGACCCCTAAGACTCCGAAGGCC,False,4,6,['ECD_01487 CDS (phage N15 gp48-like protein)']['ECD_01488 CDS (putative phage protein)'],False
+1568307,55,0.0,0.0,0.0,55.0,68.57,0.04426,GCTCATACATAGCTTCCCCCTGT,True,2,3,intergenic / no CDS,False
+1570843,21,0.0,0.0,21.0,0.0,57.14,0.25056,ATATAGCGTTTCTTGTCGAACTT,False,3,10,['ydeE CDS (putative transporter)'],False
+1575500,26,0.0,0.0,26.0,0.0,52.86,0.4541,TACCATCCTGACGTTCGTGTGTG,True,1,8,['dcp CDS (dipeptidyl carboxypeptidase II)'],False
+1578522,9,0.0,0.0,9.0,0.0,67.14,0.0552,ACGATCGTAGGTCGTCATAGGTG,True,3,5,intergenic / no CDS,False
+1581286,8,0.0,0.0,8.0,0.0,55.71,0.30824,TGCGTATTATTCAGGGGTTGGGT,False,1,8,['ydfJ CDS (putative transporter)'],False
+1585576,15,0.0,0.0,15.0,0.0,60.0,0.16548,ATGTTACGACACCACAATTTGAA,False,3,9,['stfR CDS (Rac prophage; putative tail fiber protein)'],False
+1598000,8,0.0,0.0,8.0,0.0,74.29,0.01462,ACTAAGGATTTGGTGAAAGCAGC,False,3,10,intergenic / no CDS,False
+1598013,1,0.0,0.0,1.0,0.0,80.0,0.0024,AAAACACGAAAGAAGCACTAAGG,False,4,7,intergenic / no CDS,False
+1600248,2,0.0,0.0,2.0,0.0,54.29,0.37626,TTACGGGCCTTGGGGATGCCACC,True,0,6,['rspA CDS (bifunctional D-altronate/D-mannonate dehydratase)'],False
+1605123,2,0.0,0.0,0.0,2.0,60.0,0.16548,AGGAACAATGGTTACAACATCTG,False,2,8,"['ynfE CDS (putative selenate reductase, periplasmic)']",False
+1605128,8,0.0,0.0,0.0,8.0,61.43,0.13318,AACAATGGTTACAACATCTGTAC,False,2,9,"['ynfE CDS (putative selenate reductase, periplasmic)']",False
+1610453,12,0.0,0.0,12.0,0.0,57.14,0.25056,AATGAAACACGGGCGACTATTTT,False,3,9,intergenic / no CDS,False
+1612329,6,0.0,0.0,6.0,0.0,50.0,0.63384,AGCCTCCCAGGGAAAAACGGTTG,True,3,6,['ynfK CDS (putative dethiobiotin synthetase)'],False
+1617099,2,0.0,0.0,2.0,0.0,62.86,0.1076,AATACTATAGACGGGACGGGATG,False,3,8,intergenic / no CDS,False
+1624567,1,0.0,0.0,0.0,1.0,54.29,0.37626,AGTCTCCTATCAGGTTGCGAAAC,False,4,8,['ydgH CDS (DUF1471 family periplasmic protein)'],False
+1624629,8,0.0,0.0,8.0,0.0,51.43,0.54206,GCGGGGAAATTTGTGACTAAAAA,True,2,8,intergenic / no CDS,False
+1630135,3,0.0,0.0,0.0,3.0,54.29,0.37626,ACAGCTGGAAAAAAGCCTGAAAT,False,5,8,"['tus CDS (inhibitor of replication at Ter, DNA-binding protein)']",False
+1631664,1,0.0,0.0,1.0,0.0,48.57,0.72238,AATGCCCACCTCACTGATTCATG,False,6,11,"['fumC CDS (fumarate hydratase (fumarase C),aerobic Class II)']",False
+1632714,4,0.0,0.0,4.0,0.0,44.29,0.9145,TGGGTGCGCAGTTTGGTGGTAAA,True,3,5,"['fumA CDS (fumarate hydratase (fumarase A), aerobic Class I)']",False
+1633721,15,0.0,0.0,0.0,15.0,60.0,0.16548,ATGCTCTGGGCGGGTGTTCCGTT,True,3,6,intergenic / no CDS,False
+1636489,22,0.0,0.0,22.0,0.0,61.43,0.13318,CAAAATCTTCTAACGACATTTTC,False,1,9,['ydgA CDS (DUF945 family protein)'],False
+1637473,13,0.0,0.0,13.0,0.0,58.57,0.205,ATGAAGGGGTGTATAACAGCCAG,True,2,5,['uidC CDS (putative outer membrane porin for beta-glucuronides porin protein)'],False
+1639253,11,0.0,0.0,0.0,11.0,50.0,0.63384,ACTTTGCTGCTATGGCTCCAGTC,False,4,8,['uidB CDS (glucuronide transporter)'],False
+1641266,13,0.0,0.0,13.0,0.0,50.0,0.63384,CCTTATGTTACGTCCTGTAGAAA,True,2,5,['uidA CDS (beta-D-glucuronidase)'],False
+1642307,29,0.0,0.0,29.0,0.0,58.57,0.205,ACAGCAATGATAGGCGCTCACCT,False,4,8,intergenic / no CDS,False
+1642316,42,0.0,0.0,42.0,0.0,54.29,0.37626,ACTATTCAACAGCAATGATAGGC,False,4,8,intergenic / no CDS,False
+1646024,2,0.0,0.0,0.0,2.0,52.86,0.4541,CCGGCAATCCTCGAAGCATTAGG,True,3,9,['malX CDS (maltose and glucose-specific PTS enzyme IIB component and IIC component)'],False
+1646154,14,0.0,0.0,14.0,0.0,62.86,0.1076,ATCGAACATATCTTATCCTTATG,False,3,9,['malX CDS (maltose and glucose-specific PTS enzyme IIB component and IIC component)'],False
+1647452,3,0.0,0.0,0.0,3.0,60.0,0.16548,GCGCAACGTAAAAAATCGTTGCG,False,3,7,intergenic / no CDS,False
+1647928,6,0.0,0.0,6.0,0.0,47.14,0.80236,ACCGGCTAAATCAAGTGCGGTAA,False,4,9,['add CDS (adenosine deaminase)'],False
+1657589,10,0.0,0.0,10.0,0.0,71.43,0.02674,TGTAAATTTAAATGATTTTAACC,True,1,5,intergenic / no CDS,False
+1675766,15,0.0,0.0,0.0,15.0,44.29,0.9145,ACCGCATAATCCTCTCGACGTCC,False,4,8,['lhr CDS (putative ATP-dependent helicase)'],False
+1682929,19,0.0,0.0,19.0,0.0,65.71,0.06942,CTTGACGAAAAGGGGAAGTGGTA,False,3,8,intergenic / no CDS,False
+1688026,2,0.0,0.0,0.0,2.0,51.43,0.54206,CCGCCAGCACACGTTCTACCGTA,True,2,5,"['ribC CDS (riboflavin synthase, alpha subunit)']",True
+1688084,6,0.0,0.0,0.0,6.0,52.86,0.4541,GTTGACGCGTGCGCCAAGTTTTT,False,3,10,"['ribC CDS (riboflavin synthase, alpha subunit)']",True
+1694204,1,0.0,0.0,0.0,1.0,47.14,0.80236,AATGGCGACGGCGAAGCGAACTC,False,4,10,"['ydhT CDS (FNR, Nar, NarP-regulated protein; putative subunit of YdhYVWXUT oxidoreductase complex)']",False
+1695588,4,0.0,0.0,0.0,4.0,50.0,0.63384,AAGGCATGCAGCCCCAGCACCAA,False,4,8,['ydhU CDS (putative cytochrome b subunit of YdhYVWXUT oxidoreductase complex)'],False
+1697196,7,0.0,0.0,0.0,7.0,51.43,0.54206,GGACAACCAAGCTGTGGGTCCCA,True,1,5,['ydhV CDS (putative oxidoreductase subunit)'],False
+1699112,5,0.0,0.0,5.0,0.0,62.86,0.1076,TGAATCTTGCAAAGGAAAAAATC,True,1,5,['ydhV CDS (putative oxidoreductase subunit)'],False
+1713632,1,0.0,0.0,1.0,0.0,52.86,0.4541,ACCGGCCAGGTGGCGATAACCAC,False,5,11,['ydiK CDS (UPF0118 family inner membrane protein)'],False
+1715781,7,0.0,0.0,7.0,0.0,60.0,0.16548,AAGCCAAAACATAAGCGATAATG,False,2,7,intergenic / no CDS,False
+1726292,4,0.0,0.0,0.0,4.0,47.14,0.80236,GCGCACAGTTTATCCCGGGCGTT,False,3,8,['ydiS CDS (putative oxidoreductase)'],False
+1733814,1,0.0,0.0,1.0,0.0,54.29,0.37626,GGTAATGGATTGACCGTAAGTGA,True,2,4,"['aroH CDS (3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tryptophan repressible)']",False
+1736291,9,0.0,0.0,9.0,0.0,67.14,0.0552,GGGTTATAGCGCAACTTACCGAG,True,0,2,"['ydiV CDS (anti-FlhD4C2 factor, inactive EAL family phosphodiesterase)']",False
+1739161,1,0.0,0.0,0.0,1.0,54.29,0.37626,GCTGACGCAAATCAACTGAGGTG,False,4,6,['btuC CDS (vitamin B12 ABC transporter permease)'],False
+1758186,4,0.0,0.0,0.0,4.0,64.29,0.08678,TCTTCATTACTGGCTTCACTAAA,True,3,6,intergenic / no CDS,False
+1762635,1,0.0,0.0,1.0,0.0,51.43,0.54206,GGCCAATTACCGGCGCGTGAACT,True,0,4,['chbF CDS (phospho-chitobiase; general 6-phospho-beta-glucosidase activity)'],False
+1769703,2,0.0,0.0,0.0,2.0,55.71,0.30824,GCTGGACGTTCTGTCAGACGCTT,False,5,12,"['spy CDS (periplasmic ATP-independent protein refolding chaperone, stress-induced)']",False
+1772318,5,0.0,0.0,0.0,5.0,54.29,0.37626,TCTCTTCGTCGTTAAAAATCGCT,False,4,8,['astB CDS (succinylarginine dihydrolase)'],False
+1778499,1,0.0,0.0,0.0,1.0,48.57,0.72238,GCTTTATTTTACAACTCTGTCTG,False,2,10,['ydjX CDS (TVP38/TMEM64 family inner membrane protein)'],False
+1780112,2,0.0,0.0,2.0,0.0,44.29,0.9145,AACTCACACAGGCACATTTGCGC,False,3,9,['ynjA CDS (carboxymuconolactone decarboxylase family protein)'],False
+1784346,2,0.0,0.0,0.0,2.0,47.14,0.80236,GCTAAGCGAACCTTCCCGTCTGC,False,4,7,['ynjE CDS (molybdopterin synthase sulfurtransferase)'],False
+1785397,13,0.0,0.0,13.0,0.0,55.71,0.30824,TTCTCGCCTTTGCTGCACTGGCA,True,2,7,['ynjF CDS (CDP-alcohol phosphatidyltransferase family inner membrane protein)'],False
+1788821,13,0.0,0.0,13.0,0.0,61.43,0.13318,CCTGAACCTGGCAAAGATACCTT,False,4,10,['ynjI CDS (inner membrane protein)'],False
+1789609,5,0.0,0.0,5.0,0.0,44.29,0.9145,ACTGGGAATCGGTGCTGACGCAA,False,4,7,['topB CDS (DNA topoisomerase III)'],False
+1799474,1,0.0,0.0,1.0,0.0,50.0,0.63384,TCTTAGTGGGGCTACTGCACCGG,False,3,7,"['ydjG CDS (methylglyoxal reductase, NADH-dependent)']",False
+1805860,3,0.0,0.0,0.0,3.0,65.71,0.06942,ATGGCCATCATACTTACCCACAT,False,4,7,intergenic / no CDS,False
+1812723,4,0.0,0.0,4.0,0.0,52.86,0.4541,ACTCGGCATATTTCGGGATCAGA,False,4,9,"['yeaG CDS (protein kinase, endogenous substrate unidentified; autokinase)']",False
+1819230,1,0.0,0.0,1.0,0.0,54.29,0.37626,CGGCCTTTATTACTATGTTTAAG,False,1,7,['yeaL CDS (UPF0756 family putative inner membrane protein)']['yeaM CDS (putative DNA-binding transcriptional regulator)'],False
+1825720,1,0.0,0.0,0.0,1.0,54.29,0.37626,CCGGCAGGCGCAGTTTGTTTATT,False,4,10,intergenic / no CDS,False
+1840461,4,0.0,0.0,0.0,4.0,57.14,0.25056,TCTGCCACCAGCGCGATTGCCTG,False,5,12,['yoaH CDS (UPF0181 family protein)'],False
+1840518,16,0.0,0.0,0.0,16.0,54.29,0.37626,GGATCCGCTCGACAGCTTTTTGC,False,2,9,intergenic / no CDS,False
+1841638,3,0.0,0.0,0.0,3.0,44.29,0.9145,GTGGAACCCTTCCCTGCCGTGCA,True,2,6,"['pabB CDS (aminodeoxychorismate synthase, subunit I)']",False
+1855306,19,0.0,0.0,0.0,19.0,45.71,0.86572,GGTACCGCAATGCATCGCAGCCC,False,3,8,['kdgR CDS (KDG regulon transcriptional repressor)'],False
+1856313,1,0.0,0.0,0.0,1.0,57.14,0.25056,ATCTCCCTGCTCTCGTTTTCGTT,True,4,10,['yebQ CDS (putative transporter)'],False
+1858790,5,0.0,0.0,5.0,0.0,52.86,0.4541,GATCCTGAGTTCCAGAACATCAT,False,2,10,['prc CDS (carboxy-terminal protease for penicillin-binding protein 3)'],False
+1866133,5,0.0,0.0,0.0,5.0,52.86,0.4541,CGCTCTCATTTGATGATTTTCTT,False,2,12,"['rsmF CDS (16S rRNA m(5)C1407 methyltransferase, SAM-dependent)']",False
+1867561,9,0.0,0.0,9.0,0.0,48.57,0.72238,CCCGGCGATTCACCGTGTAATTC,False,3,10,['yebV CDS (uncharacterized protein)'],False
+1875632,3,0.0,0.0,0.0,3.0,62.86,0.1076,AATAAGCGGGGCGGTAGGCCGTT,False,4,9,intergenic / no CDS,False
+1876916,12,0.0,0.0,0.0,12.0,54.29,0.37626,ATGCATTACGCCGTGTGGTTGAA,True,1,7,['purT CDS (phosphoribosylglycinamide formyltransferase 2)'],False
+1882153,2,0.0,0.0,0.0,2.0,61.43,0.13318,CATGTCATTCTCCTTAAGTTAAC,False,3,10,intergenic / no CDS,False
+1885005,2,0.0,0.0,0.0,2.0,57.14,0.25056,TCTGAAGCAAACTTGAACTTATC,False,3,10,['lpxM CDS (myristoyl-acyl carrier protein (ACP)-dependent acyltransferase)'],False
+1885940,35,0.0,0.0,0.0,35.0,67.14,0.0552,GCTACGCCCAGCCATGCTCCCCA,False,4,8,['lpxM CDS (myristoyl-acyl carrier protein (ACP)-dependent acyltransferase)'],False
+1892071,40,0.0,0.0,40.0,0.0,78.57,0.00402,ATTTTTTCACTGAATATGTAATA,False,2,7,intergenic / no CDS,False
+1892233,28,0.0,0.0,0.0,28.0,77.14,0.00636,AATAAATTTTTTATGCTATTACG,False,2,8,['yebB CDS (DUF830 family protein)'],False
+1899820,2,0.0,0.0,2.0,0.0,44.29,0.9145,AAAAGTTGCGTAGGGTCGATCCC,False,2,8,"['cmoB CDS (tRNA (cmo5U34)-carboxymethyltransferase, carboxy-SAM-dependent)']",False
+1900973,1,0.0,0.0,0.0,1.0,51.43,0.54206,AGTTCCGCATAGTTAAGCTGACT,False,4,8,"['torZ CDS (trimethylamine N-oxide reductase system III, catalytic subunit)']",False
+1901882,16,0.0,0.0,0.0,16.0,45.71,0.86572,ACCAAAACCGCCGCCCGGTGTAC,False,2,7,"['torZ CDS (trimethylamine N-oxide reductase system III, catalytic subunit)']",False
+1907629,14,0.0,0.0,14.0,0.0,45.71,0.86572,TCAGACGGCTGTTACGCACTTCT,True,4,7,['argS CDS (arginyl-tRNA synthetase)'],True
+1907726,11,0.0,0.0,11.0,0.0,54.29,0.37626,GCTTCACTCTCACGAAAAATCGA,False,4,8,['argS CDS (arginyl-tRNA synthetase)'],True
+1916360,10,0.0,0.0,0.0,10.0,51.43,0.54206,ATGGCCAGTGGTTGAACAATCAT,False,5,9,['tap CDS (methyl-accepting protein IV)'],False
+1920004,2,0.0,0.0,2.0,0.0,47.14,0.80236,GCGGCAACATTTGCATTGAAGTG,False,3,7,['cheA CDS (fused chemotactic sensory histidine kinase in two-component regulatory system with CheB and CheY: sensory histidine kinase/signal sensing protein)'],False
+1924116,6,0.0,0.0,6.0,0.0,62.86,0.1076,GGAATAATGCATACCTCCGAGTT,True,0,1,"['flhD CDS (flagellar class II regulon transcriptional activator, with FlhC)']",False
+1924569,39,0.0,0.0,0.0,39.0,68.57,0.04426,TTTCAATCTGTTAAAAAGTTTTT,True,1,8,intergenic / no CDS,False
+1933725,21,0.0,0.0,21.0,0.0,60.0,0.16548,ACCGCTATTTATTTAATCAGCGA,False,4,8,"['yecR CDS (lipoprotein, function unknown)']",False
+1935717,3,0.0,0.0,3.0,0.0,52.86,0.4541,ACAAATCAGCCAGATAATCAAAT,False,3,7,['tyrP CDS (tyrosine transporter)'],False
+1936519,5,0.0,0.0,5.0,0.0,48.57,0.72238,TTTCAACATATGGCCGATACCGC,False,2,8,['yecA CDS (UPF0149 family protein)'],False
+1944439,6,0.0,0.0,6.0,0.0,67.14,0.0552,CACTTTATTAATATGAAATTCAA,True,0,6,['hiuH CDS (hydroxyisourate hydrolase)'],False
+1952293,16,0.0,0.0,0.0,16.0,52.86,0.4541,TATAAGGCGACCTATACCGCCTA,True,1,6,['yeeJ CDS (putative adhesin)'],False
+1953412,18,0.0,0.0,0.0,18.0,52.86,0.4541,AATCATCCGGTGGCGGGGATAAC,False,3,9,['yeeJ CDS (putative adhesin)'],False
+1956869,1,0.0,0.0,1.0,0.0,54.29,0.37626,TGAAAGCCTCGCCGGCGTTCACC,False,1,8,['yeeJ CDS (putative adhesin)'],False
+1958378,26,0.0,0.0,26.0,0.0,72.86,0.01998,GTCATCCATATTCCCGATCAGAT,True,2,5,intergenic / no CDS,False
+1958546,2,0.0,0.0,2.0,0.0,65.71,0.06942,CGCATATGCACAAAATGGCACCC,True,1,5,intergenic / no CDS,False
+1961414,7,0.0,0.0,0.0,7.0,57.14,0.25056,AGGAAGTCAAACAGCGGCTACGT,True,1,5,['amn CDS (AMP nucleosidase)'],False
+1967204,1,0.0,0.0,1.0,0.0,67.14,0.0552,TCTATCATAATCTCTTATTTGAC,False,3,9,intergenic / no CDS,False
+1967258,11,0.0,0.0,11.0,0.0,64.29,0.08678,ACCCTCCTTTTATAGGGCAGGGG,False,4,10,intergenic / no CDS,False
+1969809,5,0.0,0.0,5.0,0.0,47.14,0.80236,ACTCGGCTTAGCCGCTATTTTTG,False,4,10,['cobS CDS (cobalamin synthase)'],False
+1985718,13,0.0,0.0,0.0,13.0,67.14,0.0552,AACACAATGTTCTTGAGGGTTTT,False,2,10,intergenic / no CDS,False
+1986197,9,0.0,0.0,9.0,0.0,52.86,0.4541,AATCCCAAGGTCTACCACGCCGT,False,4,8,['hisG CDS (ATP phosphoribosyltransferase)'],False
+1994751,30,0.0,0.0,30.0,0.0,55.71,0.30824,AAAGTTTAGGTCTGAATTCCCGT,False,2,7,['ugd CDS (UDP-glucose 6-dehydrogenase)'],False
+1998976,19,0.0,0.0,19.0,0.0,67.14,0.0552,AGGACGTAAAGAACATAAAGAAC,True,2,3,['manC CDS (Mannose-1-phosphate guanylyltransferase)'],False
+2003241,1,0.0,0.0,1.0,0.0,82.86,0.00078,ACAATTTATGAAGGTTGTTGGCA,False,2,7,['wzy CDS (O antigen polymerase (Wzy))'],False
+2016175,4,0.0,0.0,4.0,0.0,52.86,0.4541,CTTGAACGCATCGGGGAGGCGAA,True,4,8,['wcaL CDS (putative glycosyl transferase)'],False
+2024583,5,0.0,0.0,5.0,0.0,48.57,0.72238,TCCGCCTGGCGCTACAAACGAGA,False,5,8,['wcaI CDS (putative glycosyl transferase)'],False
+2033166,1,0.0,0.0,1.0,0.0,45.71,0.86572,ACTGGCGGTGGGGAATCCAACCG,False,6,10,['wzc CDS (colanic acid production tyrosine-protein kinase; autokinase; Ugd phosphorylase)'],False
+2047316,6,0.0,0.0,6.0,0.0,44.29,0.9145,ACCGCCGATATCCACCACCAGCA,False,5,9,['yegD CDS (Hsp70 chaperone family protein)'],False
+2051450,23,0.0,0.0,0.0,23.0,65.71,0.06942,GCAACGTGGTTCCGGGTTACTGG,False,3,8,intergenic / no CDS,False
+2060224,2,0.0,0.0,2.0,0.0,42.86,0.95038,CCGTCGCCGCCCGACAATACTAG,False,3,8,"['mdtC CDS (multidrug efflux system, subunit C)']",False
+2061141,7,0.0,0.0,7.0,0.0,48.57,0.72238,TCAGACTGAACAGGGCACGGTTG,True,4,7,['iceT CDS (putative citrate/iron-citrate/zinc-citrate efflux transporter)'],False
+2064077,35,0.0,0.0,0.0,35.0,62.86,0.1076,CAGACCAGATCCGGCAACATTAT,True,3,8,intergenic / no CDS,False
+2066291,9,0.0,0.0,9.0,0.0,57.14,0.25056,TGACATTCAAATGTGGAGAGTGA,True,0,2,['ECD_02013 CDS (conserved hypothetical protein; putative exported protein)'],False
+2066434,9,0.0,0.0,9.0,0.0,62.86,0.1076,TTTAGCCAGGGGTAGAATATCTG,False,3,10,['yegR CDS (uncharacterized protein)'],False
+2066864,16,0.0,0.0,16.0,0.0,64.29,0.08678,GCTTGCAATGGGGACAGCGAATA,False,3,9,intergenic / no CDS,False
+2072075,8,0.0,0.0,8.0,0.0,61.43,0.13318,ACCTATGTTTTCAGAAGTCATGC,True,2,10,['gatC CDS (galactitol-specific enzyme IIC component of PTS)'],False
+2085183,3,0.0,0.0,3.0,0.0,52.86,0.4541,CCCGATAGAGTGGAGATGTTCGA,False,3,11,['ECD_02036 CDS (hypothetical protein)'],False
+2085205,3,0.0,0.0,3.0,0.0,50.0,0.63384,CGGGCGCGTAAGAGTGAACAGCC,True,4,6,['ECD_02036 CDS (hypothetical protein)'],False
+2102087,8,0.0,0.0,0.0,8.0,55.71,0.30824,GCTGGACGCGGGTGGAATCGGCA,False,5,8,['yehM CDS (uncharacterized protein)'],False
+2111709,2,0.0,0.0,0.0,2.0,45.71,0.86572,GCCGGACGAGTCAGCATCGTCAG,False,4,9,['yehX CDS (putative ABC transporter ATPase)'],False
+2114173,4,0.0,0.0,4.0,0.0,57.14,0.25056,ACGGTGAATAAAGTGCAACTCGG,False,3,8,['osmF CDS (putative ABC transporter periplasmic binding protein)'],False
+2124454,4,0.0,0.0,4.0,0.0,64.29,0.08678,GTTGAGTTATTTGCGTAAAGAAT,True,2,6,['dusC CDS (tRNA-dihydrouridine synthase C)'],False
+2131006,7,0.0,0.0,0.0,7.0,45.71,0.86572,GCTTCATTCAGCAAATGCGCACC,False,3,7,"['preA CDS (dihydropyrimidine dehydrogenase, NADH-dependent, subunit C)']",False
+2131376,1,0.0,0.0,1.0,0.0,51.43,0.54206,TTCTTTCTCGCCTTTCTTAAACT,True,1,3,"['preA CDS (dihydropyrimidine dehydrogenase, NADH-dependent, subunit C)']",False
+2134259,18,0.0,0.0,0.0,18.0,55.71,0.30824,ACCGCTCATTTCCAACAAGTATT,False,5,12,intergenic / no CDS,False
+2135420,15,0.0,0.0,0.0,15.0,57.14,0.25056,GTAGAGTTAATGAAGTGTTACTG,False,1,9,intergenic / no CDS,False
+2136340,1,0.0,0.0,0.0,1.0,52.86,0.4541,GCTGGCGAATTAACACCTCAATG,False,4,8,['galS CDS (galactose- and fucose-inducible galactose regulon transcriptional isorepressor; mgl operon transcriptional repressor; autorepressor)'],False
+2143554,4,0.0,0.0,0.0,4.0,58.57,0.205,GCTATCCATCTAAAAAATGAGGC,False,4,10,intergenic / no CDS,False
+2146452,6,0.0,0.0,0.0,6.0,52.86,0.4541,CGCTGATTTTGCCCGTATTGTCG,True,0,6,"[""nfo CDS (endonuclease IV with intrinsic 3'-5' exonuclease activity)""]",False
+2186220,8,0.0,0.0,8.0,0.0,47.14,0.80236,TGATGGCGACGGCATGTTAGGGC,True,2,5,['dsbE CDS (periplasmic thioredoxin of cytochrome c-type biogenesis)'],False
+2197266,33,0.0,0.0,0.0,33.0,61.43,0.13318,CATTGACCTTCCATCATTAACGC,False,2,9,intergenic / no CDS,False
+2197414,17,0.0,0.0,0.0,17.0,68.57,0.04426,GTGGCGGGAAGCGTGGCAAAAAC,False,3,7,['yojO CDS (hypothetical protein)'],False
+2197432,26,0.0,0.0,0.0,26.0,68.57,0.04426,GCAAAAACGGGCTTTTGCTCACA,True,1,4,['yojO CDS (hypothetical protein)'],False
+2202204,21,0.0,0.0,0.0,21.0,51.43,0.54206,AATGCGCTCGACGTGGGTATCCA,False,5,12,['yojI CDS (microcin J25 efflux ABC transporter permease/ATPase)'],False
+2222106,18,0.0,0.0,18.0,0.0,48.57,0.72238,GCAAAGCGTATTTCACGTTCCTG,False,3,10,['yfaS CDS (putative membrane protein)'],False
+2226302,1,0.0,0.0,0.0,1.0,48.57,0.72238,ATTAACCGCTGGTAGCCAAACCC,False,5,10,"['yfaA CDS (DUF2138 family protein, putative host defense protein)']",False
+2227580,1,0.0,0.0,0.0,1.0,45.71,0.86572,GATAACCCCTTTCGTCGCACGCG,False,3,6,"['gyrA CDS (DNA gyrase (type II topoisomerase), subunit A)']",True
+2238076,1,0.0,0.0,0.0,1.0,54.29,0.37626,AAAACACATCTTTATCAGCAACC,False,3,7,"['nrdB CDS (ribonucleoside-diphosphate reductase 1, beta subunit, ferritin-like protein)']",True
+2239932,2,0.0,0.0,0.0,2.0,65.71,0.06942,GTCGTACTTTGCTGAAACTGCCA,False,2,8,intergenic / no CDS,False
+2240301,40,0.0,0.0,40.0,0.0,58.57,0.205,GAGTAATGCTACTGCAGGATGGC,False,1,7,['yfaH CDS (hypothetical protein)'],False
+2240322,35,0.0,0.0,35.0,0.0,60.0,0.16548,GCAGTAAAATTCCTTAATAAAGA,False,2,7,intergenic / no CDS,False
+2240372,8,0.0,0.0,8.0,0.0,60.0,0.16548,GTATAACAAAGCGGGTGTAAATG,False,1,7,['glpQ CDS (periplasmic glycerophosphodiester phosphodiesterase)'],False
+2249463,4,0.0,0.0,0.0,4.0,44.29,0.9145,GAAAGCAGCCCGGACAGACCAAT,False,2,6,['rhmT CDS (putative L-rhamnonate transporter)'],False
+2251291,17,0.0,0.0,17.0,0.0,60.0,0.16548,TTAACCGTTTCATTGAGGGTAAA,False,2,8,['rhmD CDS (L-rhamnonate dehydratase)'],False
+2267122,5,0.0,0.0,5.0,0.0,45.71,0.86572,TCCGCGCCCTGGCGGCGGAACTG,False,4,9,"['menH CDS (2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase)']",False
+2269521,9,0.0,0.0,0.0,9.0,70.0,0.03492,AGCGTCGGTTAAATGCGCTTACT,False,4,10,intergenic / no CDS,False
+2270287,1,0.0,0.0,1.0,0.0,45.71,0.86572,ATTAATCGAACTGGCAACGAAAA,False,4,6,['menF CDS (isochorismate synthase 2)'],False
+2272738,21,0.0,0.0,21.0,0.0,55.71,0.30824,GCGATAACAGGGCAAGTTTCGCC,True,1,5,"['rbn CDS (RNase BN, tRNA processing enzyme)']",False
+2274308,1,0.0,0.0,1.0,0.0,52.86,0.4541,ATTGAGTTGACAGGGGGCAGAAC,False,3,7,intergenic / no CDS,False
+2275609,7,0.0,0.0,7.0,0.0,55.71,0.30824,GCCCCTCTAACTCTTCTGAAAAG,True,3,3,['yfbM CDS (DUF1877 family protein)'],False
+2293450,44,0.0,0.0,0.0,44.0,51.43,0.54206,AGGGATCGGCTCACCTTTTTGCA,False,4,9,"['lrhA CDS (transcriptional repressor of flagellar, motility and chemotaxis genes)']",False
+2294785,7,0.0,0.0,0.0,7.0,61.43,0.13318,ATTAAGTTATTAACAGCACAATC,False,2,6,intergenic / no CDS,False
+2295626,6,0.0,0.0,0.0,6.0,48.57,0.72238,CATTACCTTTAACGGACTGTCGA,False,3,10,['alaA CDS (glutamate-pyruvate aminotransferase; glutamic-pyruvic transaminase (GPT); alanine transaminase)'],False
+2296913,1,0.0,0.0,0.0,1.0,51.43,0.54206,TCATCACCACACAAACCGCCATC,False,3,7,['yfbS CDS (putative transporter)'],False
+2297648,8,0.0,0.0,0.0,8.0,54.29,0.37626,CCCCACCACATTCAGTCCGTAGC,False,3,8,['yfbS CDS (putative transporter)'],False
+2298385,16,0.0,0.0,16.0,0.0,48.57,0.72238,TGGTCCGTACCGGTGTTGCCACC,True,2,5,['yfbS CDS (putative transporter)'],False
+2304836,13,0.0,0.0,0.0,13.0,52.86,0.4541,CAGGAACCATTGATAACGGTATC,True,2,8,['yfcC CDS (putative inner membrane transporter; C4-dicarboxylate anaerobic carrier family protein)'],False
+2305263,9,0.0,0.0,0.0,9.0,54.29,0.37626,AAAAGCAGGCGGATGTTGAACAA,True,3,5,['yfcC CDS (putative inner membrane transporter; C4-dicarboxylate anaerobic carrier family protein)'],False
+2307066,2,0.0,0.0,0.0,2.0,60.0,0.16548,ACTGGGCACCGCTTTGGGCAAAC,False,5,8,['yfcE CDS (phosphodiesterase activity on bis-pNPP)'],False
+2307908,21,0.0,0.0,0.0,21.0,54.29,0.37626,ACTGTCACGTGACGAATACTCAC,True,5,10,intergenic / no CDS,False
+2309383,1,0.0,0.0,0.0,1.0,48.57,0.72238,GCGACACGCCACCGTCGGTACTC,False,4,10,['yfcH CDS (putative NAD-dependent nucleotide-sugar epimerase)'],False
+2309763,2,0.0,0.0,2.0,0.0,42.86,0.95038,GCGCGCGTTGTCCACCTAATACC,False,2,8,['yfcH CDS (putative NAD-dependent nucleotide-sugar epimerase)'],False
+2310457,3,0.0,0.0,3.0,0.0,55.71,0.30824,GCGGGCTATAAAGAGCTTCCATT,False,3,9,['yfcI CDS (transposase_31 family protein)'],False
+2311217,17,0.0,0.0,17.0,0.0,52.86,0.4541,ACCTCGGCGCTCGATCCTGAACT,False,3,8,['hisP CDS (histidine ABC transporter ATPase)'],False
+2311807,2,0.0,0.0,0.0,2.0,58.57,0.205,ATACCCCTTTCAGCACTTCATGT,True,4,8,['hisP CDS (histidine ABC transporter ATPase)'],False
+2312899,7,0.0,0.0,0.0,7.0,57.14,0.25056,AACGCCGTCGCCGCCTCTATATG,False,4,9,['hisQ CDS (histidine ABC transporter permease)'],False
+2318284,6,0.0,0.0,6.0,0.0,45.71,0.86572,ATGGGCTATACGCCGAATTAATA,True,3,9,intergenic / no CDS,False
+2320398,9,0.0,0.0,0.0,9.0,47.14,0.80236,CCTGATCCGGTACCGGGGGTACC,True,4,9,"['accD CDS (acetyl-CoA carboxylase, beta (carboxyltransferase) subunit)']",True
+2337069,2,0.0,0.0,0.0,2.0,52.86,0.4541,ACCACACTGTATACCGATGCCAG,True,4,7,['yfcO CDS (DUF2544 family putative outer membrane protein)'],False
+2338415,2,0.0,0.0,0.0,2.0,62.86,0.1076,GCTATCAAATTGCCATGAAACGT,False,3,7,['yfcQ CDS (putative fimbrial-like adhesin protein)'],False
+2338868,19,0.0,0.0,0.0,19.0,50.0,0.63384,GCTCCCCGTAACGGTACATGGTG,False,6,12,['yfcR CDS (putative fimbrial-like adhesin protein)'],False
+2348140,2,0.0,0.0,2.0,0.0,51.43,0.54206,AGAAGCAGAGCAAACGCTGGCGG,False,3,6,['yfcZ CDS (UPF0381 family protein)'],False
+2350843,7,0.0,0.0,0.0,7.0,67.14,0.0552,TCAGCGCATTAAAAGAAATATAT,False,4,10,intergenic / no CDS,False
+2354840,14,0.0,0.0,14.0,0.0,60.0,0.16548,GCGGTTAATTTGCCGACATCTTC,False,2,10,['dsdC CDS (dsd operon activator; autorepressor)'],False
+2364852,17,0.0,0.0,0.0,17.0,58.57,0.205,CCTCAGGCGTTTAAGCAGGTCTT,False,2,9,['evgS CDS (hybrid sensory histidine kinase in two-component regulatory system with EvgA)'],False
+2365247,2,0.0,0.0,2.0,0.0,58.57,0.205,ACTGACTTTGTGTAGCGCTTGCA,False,5,12,['evgS CDS (hybrid sensory histidine kinase in two-component regulatory system with EvgA)'],False
+2365258,1,0.0,0.0,1.0,0.0,58.57,0.205,GTTGCATACTGACTTTGTGTAGC,False,3,8,['evgS CDS (hybrid sensory histidine kinase in two-component regulatory system with EvgA)'],False
+2366247,10,0.0,0.0,0.0,10.0,61.43,0.13318,TTCTGGCTAACCAAACTTCAGCT,True,1,4,['yfdE CDS (acetyl-CoA:oxalate CoA-transferase)'],False
+2387213,11,0.0,0.0,0.0,11.0,50.0,0.63384,CCACCCAGTCACCGGTAATTGGG,False,4,9,['glk CDS (glucokinase)'],False
+2399554,7,0.0,0.0,7.0,0.0,48.57,0.72238,GCACGAAGGTGCTGCACATTACC,False,2,8,['yfeH CDS (putative inorganic ion transporter)'],False
+2403694,1,0.0,0.0,1.0,0.0,61.43,0.13318,CACTTGCACTTGAGGTAATCGGC,True,1,6,intergenic / no CDS,False
+2409884,7,0.0,0.0,0.0,7.0,55.71,0.30824,ACTCCCCGTTTACGCGAAGTTAA,False,7,11,['yfeK CDS (uncharacterized protein)'],False
+2418220,30,0.0,0.0,0.0,30.0,68.57,0.04426,TCTGTCAATTCGGGATATATGAT,False,4,9,intergenic / no CDS,False
+2418273,5,0.0,0.0,0.0,5.0,52.86,0.4541,AATAGTAAGGTCACCACCGATGC,True,2,6,['murQ CDS (N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase)'],False
+2427584,14,0.0,0.0,14.0,0.0,48.57,0.72238,AGGAGGCATCATGCCAGCTTTAG,False,2,8,['eutL CDS (putative ethanol utilization carboxysome structural protein)'],False
+2447538,11,0.0,0.0,11.0,0.0,52.86,0.4541,GCTAACGCCGGTGGCGGTGTCGA,False,3,8,['nudK CDS (GDP-mannose pyrophosphatase)'],False
+2452654,12,0.0,0.0,0.0,12.0,55.71,0.30824,ACAGGATATTGCTGATTATGTTG,False,3,8,['acrD CDS (aminoglycoside/multidrug efflux system)'],False
+2455472,22,0.0,0.0,22.0,0.0,67.14,0.0552,ACCGCAGGACCATAGTATTTACA,False,5,10,intergenic / no CDS,False
+2455562,5,0.0,0.0,5.0,0.0,70.0,0.03492,ATCTGTCTGTATTTTAACCAGAA,True,2,4,intergenic / no CDS,False
+2455649,29,0.0,0.0,0.0,29.0,81.43,0.00146,AATACTGATTTAATTCTGGTTAA,False,3,7,intergenic / no CDS,False
+2457446,9,0.0,0.0,0.0,9.0,51.43,0.54206,CTCAAGCGCGTCGACCATAAGAA,False,2,7,"['ypfN CDS (putative membrane protein, UPF0370 family)']",False
+2458361,5,0.0,0.0,0.0,5.0,60.0,0.16548,TGGTCATGTTTCATGGCGAACTC,False,2,10,intergenic / no CDS,False
+2460331,1,0.0,0.0,1.0,0.0,47.14,0.80236,ACTGCGCTTCACACATTAACAGC,False,6,9,['tmcA CDS (elongator methionine tRNA (ac4C34) acetyltransferase)'],False
+2472320,10,0.0,0.0,10.0,0.0,50.0,0.63384,CCGCTGTACCAGAATGAAAAATG,True,1,3,"['hyfF CDS (hydrogenase 4, membrane subunit)']",False
+2475977,5,0.0,0.0,0.0,5.0,51.43,0.54206,AACACCTGGTTGCGCGATGCCGA,True,4,8,"['hyfI CDS (hydrogenase 4, Fe-S subunit)']",False
+2477862,3,0.0,0.0,3.0,0.0,48.57,0.72238,TCAACCATTTGCCACAAATCACG,False,3,9,['hyfR CDS (hydrogenase-4 transcriptional activator)'],False
+2478287,10,0.0,0.0,0.0,10.0,50.0,0.63384,TAAATGAAGATTCAGCGCTTCGC,False,0,8,['hyfR CDS (hydrogenase-4 transcriptional activator)'],False
+2484624,29,0.0,0.0,29.0,0.0,50.0,0.63384,GCCGTGCTATCGGGGTGAGTGAA,False,3,8,['uraA CDS (uracil permease)'],False
+2491791,6,0.0,0.0,6.0,0.0,55.71,0.30824,CCCGATAGCTTCTTGCCGGTCGC,False,3,10,"['yfgF CDS (cyclic-di-GMP phosphodiesterase, anaerobic)']",False
+2492310,16,0.0,0.0,0.0,16.0,58.57,0.205,TTCAGTCGCAGCGCGAGATCGTT,True,2,9,"['yfgF CDS (cyclic-di-GMP phosphodiesterase, anaerobic)']",False
+2492691,10,0.0,0.0,0.0,10.0,54.29,0.37626,TTTGATAGCTGTGGATGCTGATC,False,3,9,"['yfgF CDS (cyclic-di-GMP phosphodiesterase, anaerobic)']",False
+2493632,35,0.0,0.0,0.0,35.0,81.43,0.00146,AGCATTGATTCTAAGTGTCATAT,False,1,7,intergenic / no CDS,False
+2494681,2,0.0,0.0,2.0,0.0,57.14,0.25056,CCCACCTGGGTAGAGGTATACAC,False,4,11,['yfgH CDS (outer membrane integrity lipoprotein)'],False
+2495174,1,0.0,0.0,0.0,1.0,51.43,0.54206,AGGATAAACTGGACGCCGAAGCC,True,1,4,"['yfgI CDS (nalidixic acid resistance protein, putative periplasmic protein)']",False
+2500635,7,0.0,0.0,7.0,0.0,54.29,0.37626,GGTACGCGGTCGTCGTGTGAAGC,False,4,9,['der CDS (GTPase; multicopy suppressor of ftsJ)'],True
+2500759,18,0.0,0.0,18.0,0.0,47.14,0.80236,CACGGCAGTGGTGTTGGTAACTT,False,3,9,['der CDS (GTPase; multicopy suppressor of ftsJ)'],True
+2519316,8,0.0,0.0,8.0,0.0,55.71,0.30824,CCAGACTAGCAATAAAAAACCGC,False,3,7,intergenic / no CDS,False
+2519338,6,0.0,0.0,6.0,0.0,54.29,0.37626,AACCTGCTGGAAAGGCCGCGAAC,True,2,4,intergenic / no CDS,False
+2519861,9,0.0,0.0,0.0,9.0,54.29,0.37626,AAAGAGAGTTATTATTGTTCTGT,False,3,9,intergenic / no CDS,False
+2520065,20,0.0,0.0,0.0,20.0,55.71,0.30824,TCGTACTTATTGTTTCTGGTGCG,True,2,5,intergenic / no CDS,False
+2522755,1,0.0,0.0,0.0,1.0,47.14,0.80236,GCTTTCCGGCTCCAGTCCCCAGG,False,5,9,['fdx CDS ([2Fe-2S] ferredoxin)'],True
+2538727,9,0.0,0.0,0.0,9.0,50.0,0.63384,ACTGCCAATGGCATTGTCATTGA,False,6,9,"['hcaD CDS (phenylpropionate dioxygenase, ferredoxin reductase subunit)']",False
+2538925,1,0.0,0.0,1.0,0.0,51.43,0.54206,AGCACGCCGTTTTGCAGATTAAA,False,3,9,"['hcaD CDS (phenylpropionate dioxygenase, ferredoxin reductase subunit)']",False
+2546926,18,0.0,0.0,0.0,18.0,48.57,0.72238,GCAGCCAGTCGTGCCAGGCCATA,False,5,10,['yphG CDS (DUF4380 domain-containing TPR repeat protein)'],False
+2549325,3,0.0,0.0,0.0,3.0,51.43,0.54206,CATTCGGGTGATGGTCGATAATG,False,3,8,['yphH CDS (putative DNA-binding transcriptional regulator)'],False
+2556263,9,0.0,0.0,9.0,0.0,54.29,0.37626,TGGGGGAAGGGCGTTCTCTGGGC,True,1,5,['glrK CDS (sensor protein kinase regulating glmY sRNA in two-component system with response regulator GlrR)'],False
+2556880,3,0.0,0.0,3.0,0.0,51.43,0.54206,TTTCCCCGCTCATTACGACAACT,True,5,7,['glrK CDS (sensor protein kinase regulating glmY sRNA in two-component system with response regulator GlrR)'],False
+2561187,25,0.0,0.0,25.0,0.0,41.43,0.97364,CCTGCTGAAATATGGTCCGGCAC,False,4,8,['purL CDS (phosphoribosylformyl-glycineamide synthetase)'],False
+2565027,1,0.0,0.0,1.0,0.0,54.29,0.37626,ACTTGTCCTGCCGTTGTTACCGA,True,4,9,"['pgpC CDS (phosphatidylglycerophosphatase C, membrane bound)']",False
+2566903,14,0.0,0.0,0.0,14.0,58.57,0.205,GCAATCAGTCATTCGTTTTTCCT,False,3,9,['ryfB CDS (hypothetical protein)'],False
+2568549,30,0.0,0.0,30.0,0.0,58.57,0.205,AGGGTTTATCGCAAGCGTCGTTA,False,2,9,['recO CDS (gap repair protein)'],False
+2571591,6,0.0,0.0,6.0,0.0,58.57,0.205,GAGAAGTTTGCTTATGGCATTAA,True,0,4,['lepB CDS (leader peptidase (signal peptidase I))'],True
+2572423,19,0.0,0.0,19.0,0.0,52.86,0.4541,AATATGGTTTACCACGGTAATCA,False,2,8,"['lepA CDS (back-translocating elongation factor EF4, GTPase)']",False
+2589485,2,0.0,0.0,2.0,0.0,54.29,0.37626,ACAGGGCGACAATGCAAATGCGC,False,5,9,['pssA CDS (phosphatidylserine synthase; CDP-diacylglycerol-serine O-phosphatidyltransferase)'],True
+2598049,3,0.0,0.0,0.0,3.0,71.43,0.02674,GCGGCGTGCTTGCCGTTGTTCCG,False,4,10,intergenic / no CDS,False
+2604286,1,0.0,0.0,0.0,1.0,60.0,0.16548,GCGTTTCGTCGTGTGAAACAGAA,False,3,7,intergenic / no CDS,False
+2604343,10,0.0,0.0,10.0,0.0,55.71,0.30824,TTCGCGCCGCTCTGCGAGTAATG,False,3,7,"['pheA CDS (chorismate mutase and prephenate dehydratase, P-protein)']",False
+2606471,1,0.0,0.0,0.0,1.0,44.29,0.9145,CCCGACGCAAAACATCCTCAATC,False,3,7,['tyrA CDS (fused chorismate mutase T/prephenate dehydrogenase)'],False
+2608647,1,0.0,0.0,0.0,1.0,52.86,0.4541,TATCAGGGCCACCAAAGTTATGT,False,2,8,['yfiR CDS (putative periplasmic inhibitor of YfiN activity)'],False
+2616250,2,0.0,0.0,2.0,0.0,51.43,0.54206,GATTTCCCGCACGTTGGCGGTGC,True,3,7,['yfjD CDS (UPF0053 family inner membrane protein)'],False
+2619611,2,0.0,0.0,0.0,2.0,48.57,0.72238,GTGAATTGTCCCGCATCGCACTG,True,1,6,['recN CDS (recombination and repair protein)'],False
+2623001,5,0.0,0.0,5.0,0.0,62.86,0.1076,GTTTAAGCATTTTAGGGCGAATC,False,1,8,['ECD_02509 CDS (Fels-2 prophage protein)'],False
+2624081,10,0.0,0.0,10.0,0.0,71.43,0.02674,TCCTCAAGTACTGCGCGACCCTA,False,3,9,intergenic / no CDS,False
+2624263,2,0.0,0.0,0.0,2.0,62.86,0.1076,TATGCTGAAAAGAACAATATGGA,False,3,7,['ECD_02510 CDS (Recombinase)'],False
+2624621,17,0.0,0.0,0.0,17.0,68.57,0.04426,AATTTAATAAAGCTTGGTTATCA,True,2,5,['ECD_02510 CDS (Recombinase)'],False
+2625881,23,0.0,0.0,23.0,0.0,65.71,0.06942,TTCTCCTTGCAATGTTTTCAACT,True,2,3,['ECD_02511 CDS (ParB family protein)'],False
+2626293,2,0.0,0.0,2.0,0.0,68.57,0.04426,CAGCGATACTATTTTCATAAAGC,True,0,3,['ECD_02511 CDS (ParB family protein)'],False
+2627629,11,0.0,0.0,11.0,0.0,55.71,0.30824,CTGGAGAGTTTTCTGTGCACTAC,False,2,8,intergenic / no CDS,False
+2627633,3,0.0,0.0,3.0,0.0,58.57,0.205,ACTGGAGAGTTTTCTGTGCACTA,False,4,8,intergenic / no CDS,False
+2627703,1,0.0,0.0,0.0,1.0,74.29,0.01462,CATCAGCGGCAGAACAGATGAAC,False,3,8,intergenic / no CDS,False
+2631038,22,0.0,0.0,22.0,0.0,50.0,0.63384,TTCAAAGGTTATTGATTAAATGC,True,1,4,['lhgO CDS (L-2-hydroxyglutarate oxidase)'],False
+2632999,7,0.0,0.0,7.0,0.0,35.71,0.99844,TCAGCCCCATGCCCGCAGAGTAC,False,5,9,"['gabT CDS (4-aminobutyrate aminotransferase, PLP-dependent)']",False
+2635199,10,0.0,0.0,10.0,0.0,55.71,0.30824,TATCAGGAATTTAAACACTTTCG,True,1,6,['gabP CDS (gamma-aminobutyrate transporter)'],False
+2635201,16,0.0,0.0,16.0,0.0,57.14,0.25056,GCTGTCTATCAGGAATTTAAACA,False,4,8,['gabP CDS (gamma-aminobutyrate transporter)'],False
+2635570,9,0.0,0.0,0.0,9.0,54.29,0.37626,ATGGCGCGCTGGAAAAAGCTGGT,False,5,9,intergenic / no CDS,False
+2637280,11,0.0,0.0,11.0,0.0,41.43,0.97364,GCATCCCGTTGGCTGTCGATAAG,False,5,9,['ygaV CDS (tributyltin-inducible repressor of ygaVP)'],False
+2637346,6,0.0,0.0,0.0,6.0,61.43,0.13318,TCTGCGACATCACAGCATCTCGC,False,4,11,['ygaV CDS (tributyltin-inducible repressor of ygaVP)'],False
+2641807,2,0.0,0.0,2.0,0.0,44.29,0.9145,GCCGCGTTTCGACAGCTGCAGTG,False,3,7,"['nrdE CDS (ribonucleoside-diphosphate reductase 2, alpha subunit)']",False
+2642346,2,0.0,0.0,2.0,0.0,52.86,0.4541,TATGCGCCCGGCGATAGGGTTAG,False,4,10,"['nrdE CDS (ribonucleoside-diphosphate reductase 2, alpha subunit)']",False
+2649590,20,0.0,0.0,0.0,20.0,62.86,0.1076,TTCGTGGCTTTACACTTATAAGG,True,1,6,intergenic / no CDS,False
+2650773,4,0.0,0.0,0.0,4.0,72.86,0.01998,TTTTTCTAAAACAATACATTTAC,False,2,8,intergenic / no CDS,False
+2658791,12,0.0,0.0,0.0,12.0,65.71,0.06942,ATATTACTTTCTGAGACTTATAA,False,2,10,intergenic / no CDS,False
+2664045,5,0.0,0.0,0.0,5.0,44.29,0.9145,GCGGGCAGTGGCAAAAGCAAACC,False,4,10,['pncC CDS (nicotinamide-nucleotide amidohydrolase; NMN amidohydrolase)'],False
+2665753,1,0.0,0.0,0.0,1.0,70.0,0.03492,TTTACATAACTCAACTCATTCTC,False,2,10,intergenic / no CDS,False
+2669169,10,0.0,0.0,0.0,10.0,52.86,0.4541,TCTGCAAAAGCAGGGTAAATGCT,True,4,7,['srlR CDS (sorbitol-inducible srl operon transcriptional repressor)'],False
+2670353,9,0.0,0.0,9.0,0.0,37.14,0.99676,AGCGCCCAGTGCCCCGGCTGGGT,False,5,9,['srlQ CDS (D-arabinose 5-phosphate isomerase)'],False
+2672493,45,0.0,0.0,0.0,45.0,64.29,0.08678,CTGGCACGCAATCTGCAATTAGC,False,4,8,intergenic / no CDS,False
+2672753,6,0.0,0.0,0.0,6.0,52.86,0.4541,ATGAAATCGATCTGGCGGATATC,True,1,8,['norV CDS (anaerobic nitric oxide reductase flavorubredoxin)'],False
+2672844,12,0.0,0.0,0.0,12.0,52.86,0.4541,AATTCCCGATACGCCGATCTACT,False,6,11,['norV CDS (anaerobic nitric oxide reductase flavorubredoxin)'],False
+2680131,1,0.0,0.0,1.0,0.0,54.29,0.37626,TATTTCACCGCGGTGACCGGGAT,True,2,5,"['ascF CDS (cellobiose/arbutin/salicin-specific PTS enzymes, IIB and IC components)']",False
+2685732,5,0.0,0.0,0.0,5.0,41.43,0.97364,ATGGCGCGGATCATCTGCGCACG,False,5,8,"['hycE CDS (hydrogenase 3, large subunit)']",False
+2688969,2,0.0,0.0,0.0,2.0,48.57,0.72238,ACGGCGGCAGCCATCAACATATT,False,4,8,"['hycC CDS (hydrogenase 3, membrane subunit)']",False
+2691750,11,0.0,0.0,0.0,11.0,51.43,0.54206,GCTGAAATATCCGCATATGTTTG,False,3,9,['hypB CDS (GTP hydrolase)'],False
+2695112,39,0.0,0.0,39.0,0.0,54.29,0.37626,GCAGCATCTCTTTACTTTTGAAC,False,3,9,['fhlA CDS (formate hydrogenlyase transcriptional activator)'],False
+2696047,7,0.0,0.0,7.0,0.0,45.71,0.86572,TCGGCAGGAATGCTGTCGATATT,True,4,8,['fhlA CDS (formate hydrogenlyase transcriptional activator)'],False
+2701172,1,0.0,0.0,1.0,0.0,54.29,0.37626,GCCAAATCATCCTTGAGATGGTA,True,1,8,['ygbI CDS (DeoR family putative transcriptional regulator)'],False
+2704797,9,0.0,0.0,0.0,9.0,58.57,0.205,TCAGGCACTGGCTATTGTTGAAG,True,3,9,['ygbM CDS (putative hydroxypyruvate isomerase)'],False
+2705901,27,0.0,0.0,27.0,0.0,47.14,0.80236,GCTACCATTGGTGAGCCGATCAG,False,4,10,['ygbN CDS (putative transporter)'],False
+2713320,10,0.0,0.0,0.0,10.0,61.43,0.13318,ACCAGGAGATAAAACCGACCACG,False,3,6,['ygbE CDS (DUF3561 family inner membrane protein)'],False
+2715108,3,0.0,0.0,0.0,3.0,52.86,0.4541,CACATGTCGATGCGCCAGTCGCC,True,0,3,"['cysN CDS (sulfate adenylyltransferase, subunit 1)']",False
+2715458,10,0.0,0.0,10.0,0.0,48.57,0.72238,AGTGAACGTCAGGGCCGCGTGAT,False,5,9,"['cysD CDS (sulfate adenylyltransferase, subunit 2)']",False
+2716334,1,0.0,0.0,1.0,0.0,61.43,0.13318,GAAACATCTGATGGCAAGAAAAT,True,1,4,"['cysD CDS (sulfate adenylyltransferase, subunit 2)']",False
+2726167,8,0.0,0.0,8.0,0.0,42.86,0.95038,AATCAACCGTTCTGCCGTCTGGC,True,3,10,['ygcO CDS (putative 4Fe-4S cluster-containing protein)'],False
+2737432,5,0.0,0.0,0.0,5.0,70.0,0.03492,ATAACGCTTATAAATGTTTAATC,False,3,10,['queE CDS (7-carboxy-7-deazaguanine synthase; queosine biosynthesis)'],False
+2738349,1,0.0,0.0,1.0,0.0,72.86,0.01998,GGTTGGGCTGCAACAAAGGAACA,True,1,3,intergenic / no CDS,False
+2738354,4,0.0,0.0,4.0,0.0,72.86,0.01998,AATAGTTGGTTGGGCTGCAACAA,False,3,8,"['ygcG CDS (TPM domain protein, putative phosphatase)']",False
+2738658,7,0.0,0.0,7.0,0.0,54.29,0.37626,CCAGCCAGAGCATCGGTTACCTT,False,5,9,"['ygcG CDS (TPM domain protein, putative phosphatase)']",False
+2738823,14,0.0,0.0,0.0,14.0,67.14,0.0552,ACAAAAATTAGCTAAGGGATTAG,False,2,7,"['ygcG CDS (TPM domain protein, putative phosphatase)']",False
+2739273,5,0.0,0.0,0.0,5.0,51.43,0.54206,GCGCATCCGGCCGCTGGTAACTC,False,2,9,intergenic / no CDS,False
+2743813,33,0.0,0.0,33.0,0.0,55.71,0.30824,CCTGGTGGATGGCAAATTAATTA,False,4,9,['mazE CDS (antitoxin of the ChpA-ChpR toxin-antitoxin system)'],False
+2744103,3,0.0,0.0,3.0,0.0,47.14,0.80236,CATGACCATTGAGATTTACAACC,False,4,9,['relA CDS ((p)ppGpp synthetase I/GTP pyrophosphokinase)'],False
+2745335,7,0.0,0.0,7.0,0.0,48.57,0.72238,ATCGCCACCTGCCGGATGAGTTT,False,4,9,['relA CDS ((p)ppGpp synthetase I/GTP pyrophosphokinase)'],False
+2746761,3,0.0,0.0,3.0,0.0,51.43,0.54206,GTAGCGCGTGCGTTGGAATTGCT,False,4,8,"['rlmD CDS (23S rRNA m(5)U1939 methyltransferase, SAM-dependent)']",False
+2749719,24,0.0,0.0,0.0,24.0,54.29,0.37626,CACAAACAAAACACGCTTTTGCC,False,1,7,"['barA CDS (hybrid sensory histidine kinase, in two-component regulatory system with UvrY)']",False
+2751858,14,0.0,0.0,14.0,0.0,57.14,0.25056,ACGCGTAATATTGTGATTATCAA,False,2,10,['gudD CDS (D-glucarate dehydratase 1)'],False
+2752767,2,0.0,0.0,0.0,2.0,48.57,0.72238,CGCGCATCCGGGAAGCGTTTCTT,False,2,10,"['gudX CDS (glucarate dehydratase-related protein, substrate unknown)']",False
+2754049,5,0.0,0.0,0.0,5.0,50.0,0.63384,ATCATCCGTGACCCGAGCAGCTG,False,4,11,['gudP CDS (putative D-glucarate transporter)'],False
+2755040,17,0.0,0.0,0.0,17.0,60.0,0.16548,GAATCCACTTCACGGAAATGAAA,True,2,7,intergenic / no CDS,False
+2760455,27,0.0,0.0,27.0,0.0,71.43,0.02674,ATTTCTTTTTCATAGCGATAAAA,False,3,9,intergenic / no CDS,False
+2772331,17,0.0,0.0,0.0,17.0,60.0,0.16548,CAAGATTTGGCGTTTTAATCCTT,True,1,4,['ECD_02652 CDS (hypothetical protein)'],False
+2773454,18,0.0,0.0,18.0,0.0,60.0,0.16548,GAGATGGCTTTAGTAGCGACGTT,True,0,5,intergenic / no CDS,False
+2773617,4,0.0,0.0,4.0,0.0,72.86,0.01998,ATTAGATTTTAATGGTTATGCAT,True,2,7,intergenic / no CDS,False
+2773639,6,0.0,0.0,6.0,0.0,77.14,0.00636,ATTTTACGTATAATCATATGGTT,False,4,9,intergenic / no CDS,False
+2773677,1,0.0,0.0,0.0,1.0,74.29,0.01462,ATTTTAGGTATACAAATTAGCCA,False,3,9,intergenic / no CDS,False
+2776533,7,0.0,0.0,7.0,0.0,48.57,0.72238,TTTCCCATGTACCGGAGGAGAGC,False,3,9,['fucK CDS (L-fuculokinase)'],False
+2781319,15,0.0,0.0,15.0,0.0,54.29,0.37626,CCATCGTCTCTGACGGCAAACCA,True,2,6,['ygdI CDS (DUF903 family verified lipoprotein)'],False
+2788488,5,0.0,0.0,0.0,5.0,44.29,0.9145,ACGGTATCGGTACGCAGATTGTG,False,3,9,['argA CDS (amino acid N-acetyltransferase and inactive acetylglutamate kinase)'],False
+2793437,1,0.0,0.0,0.0,1.0,52.86,0.4541,AATGGTTCTGCAAGCAGTTGATC,False,3,10,"['recB CDS (exonuclease V (RecBCD complex), beta subunit)']",False
+2794205,10,0.0,0.0,10.0,0.0,45.71,0.86572,TCTGCCGGCACAGGCAAAACCTT,False,6,10,"['recB CDS (exonuclease V (RecBCD complex), beta subunit)']",False
+2795985,19,0.0,0.0,0.0,19.0,52.86,0.4541,ATTGACTGCATCCAGCGTATGCT,False,5,12,['ptrA CDS (protease III)'],False
+2799615,10,0.0,0.0,0.0,10.0,48.57,0.72238,AGTGTCGGGTCTTCCTCCAGCAT,True,5,7,"['recC CDS (exonuclease V (RecBCD complex), gamma chain)']",False
+2800946,14,0.0,0.0,14.0,0.0,51.43,0.54206,ATCGGGTTTCCAGCGAACATTAA,True,2,7,['ppdC CDS (putative prepilin peptidase-dependent protein)'],False
+2804388,4,0.0,0.0,0.0,4.0,57.14,0.25056,AATGACCGGATCAAACTCCGGAA,False,6,9,intergenic / no CDS,False
+2809301,17,0.0,0.0,17.0,0.0,51.43,0.54206,ACTTTCCAGAATCAGGGTAAAGC,False,5,10,['ygdQ CDS (UPF0053 family inner membrane protein)'],False
+2811708,20,0.0,0.0,20.0,0.0,41.43,0.97364,TCTACCATAGCGGCGATTTTGCT,False,4,10,['lplT CDS (lysophospholipid transporter)'],False
+2811994,10,0.0,0.0,0.0,10.0,50.0,0.63384,TCAGGCCGTTGGCAAACATCATC,False,5,12,['lplT CDS (lysophospholipid transporter)'],False
+2815498,19,0.0,0.0,0.0,19.0,52.86,0.4541,GCAACGCGTCATTTAATTCAGCA,False,4,7,['galR CDS (galactose-inducible d-galactose regulon transcriptional repressor; autorepressor)'],False
+2820637,13,0.0,0.0,13.0,0.0,75.71,0.00962,GCTGTAAAATTAGGTGGTTAATA,False,3,10,intergenic / no CDS,False
+2826534,8,0.0,0.0,8.0,0.0,50.0,0.63384,ACCTGCTGTAGTGTTGTTTTGAC,False,4,10,['yqeG CDS (putative transporter)'],False
+2827450,19,0.0,0.0,0.0,19.0,65.71,0.06942,CCAGAAGAGTCACCGCGTTTGCA,False,2,8,['yqeH CDS (putative LuxR family transcriptional regulator)'],False
+2830217,8,0.0,0.0,8.0,0.0,58.57,0.205,ACGGTAATCTCATCATGATTAAA,False,3,7,['ygeR CDS (LysM domain-containing M23 family putative peptidase; septation lipoprotein)'],False
+2833998,7,0.0,0.0,0.0,7.0,48.57,0.72238,GATCCACTCCCCGCGCGGTGTTC,False,3,10,"['xdhB CDS (xanthine dehydrogenase, FAD-binding subunit)']",False
+2838842,13,0.0,0.0,13.0,0.0,45.71,0.86572,GCACCGAGGTTCAGAATGGCGTC,False,3,9,"['ygeX CDS (2,3-diaminopropionate ammonia lyase, PLP-dependent)']",False
+2846327,19,0.0,0.0,0.0,19.0,61.43,0.13318,CCAGAGTAATATCACTATTATTC,False,2,8,['mocA CDS (CTP:molybdopterin cytidylyltransferase)'],False
+2848463,7,0.0,0.0,7.0,0.0,47.14,0.80236,GTAATCCAGGCGGGTACAGTTGT,True,2,5,['ygfK CDS (putative Fe-S subunit oxidoreductase subunit)'],False
+2857474,19,0.0,0.0,0.0,19.0,60.0,0.16548,ATTGCCTGGGTGAAATCGCTTTA,False,6,10,['guaD CDS (guanine deaminase)'],False
+2860521,15,0.0,0.0,0.0,15.0,44.29,0.9145,CATTGTCGTATCGCCACCGCCCA,False,3,9,"['ygfT CDS (putative oxidoreductase, Fe-S subunit/nucleotide-binding subunit)']",False
+2861495,8,0.0,0.0,8.0,0.0,47.14,0.80236,CTTGCCCCTTTGGCGTCGTTGAG,False,5,12,"['ygfT CDS (putative oxidoreductase, Fe-S subunit/nucleotide-binding subunit)']",False
+2861752,24,0.0,0.0,24.0,0.0,50.0,0.63384,ATGTATAGGCTGTCATGCTTGTG,False,2,7,"['ygfT CDS (putative oxidoreductase, Fe-S subunit/nucleotide-binding subunit)']",False
+2862146,24,0.0,0.0,24.0,0.0,67.14,0.0552,GAGTGCCAGTTTTTGCGAGGAAG,True,2,6,intergenic / no CDS,False
+2874855,8,0.0,0.0,0.0,8.0,55.71,0.30824,ACTACAAGGAAGACATCAAGCTA,True,5,7,['bglA CDS (6-phospho-beta-glucosidase A)'],False
+2876164,2,0.0,0.0,2.0,0.0,51.43,0.54206,GCGAGCCTGGACGCGTCGATCGC,False,3,9,['ygfF CDS (putative NAD(P)-dependent oxidoreductase)'],False
+2890896,3,0.0,0.0,3.0,0.0,40.0,0.98666,GGCGTTGACCGCCAGTGAAAGCA,True,1,5,['argP CDS (transcriptional regulator for arginine transport and DNA replication genes; replication initiation inhibitor)'],False
+2892274,19,0.0,0.0,19.0,0.0,57.14,0.25056,CTCTTTGAGAATATCGTTTTGAA,True,0,3,['scpA CDS (methylmalonyl-CoA mutase)'],False
+2893494,2,0.0,0.0,2.0,0.0,48.57,0.72238,CGCGATCGTGTCCATCCTGGCCC,False,3,10,['scpA CDS (methylmalonyl-CoA mutase)'],False
+2895999,5,0.0,0.0,0.0,5.0,51.43,0.54206,TCTGACGCCGATGCTGTTTCCTG,False,4,9,['scpC CDS (propionyl-CoA:succinate CoA transferase)'],False
+2897698,7,0.0,0.0,7.0,0.0,61.43,0.13318,TCGATCAGTTGATTAGTCTCGGA,False,3,6,['ygfI CDS (putative DNA-binding transcriptional regulator)'],False
+2897932,20,0.0,0.0,20.0,0.0,58.57,0.205,GCTTCGCCATTTGGTAAAAGCAT,False,4,9,['ygfI CDS (putative DNA-binding transcriptional regulator)'],False
+2907192,16,0.0,0.0,0.0,16.0,50.0,0.63384,CCAGCAGATATTTCTCGGCCTGT,True,3,6,['yggP CDS (putative Zn-binding dehydrogenase)'],False
+2916426,5,0.0,0.0,0.0,5.0,50.0,0.63384,ACTCGGCTTTGGAACCGGCTTCC,False,4,10,"['speA CDS (biosynthetic arginine decarboxylase, PLP-binding)']",False
+2925190,8,0.0,0.0,8.0,0.0,51.43,0.54206,AGATCCCGTACGTAATCAACTGG,False,5,7,['yggR CDS (putative PilT family AAA+ ATPase)'],False
+2930270,11,0.0,0.0,11.0,0.0,60.0,0.16548,ATGTCCGGGCAGATGGTGAACCG,True,4,6,['yggM CDS (DUF1202 family putative secreted protein)'],False
+2930432,22,0.0,0.0,22.0,0.0,58.57,0.205,CGGTATCGTGCCGGGGCTTATTC,False,2,10,intergenic / no CDS,False
+2931685,3,0.0,0.0,0.0,3.0,70.0,0.03492,ATTTACAACGTGAATATATTTTG,False,3,9,intergenic / no CDS,False
+2937361,41,0.0,0.0,0.0,41.0,55.71,0.30824,AATCATCATGTCGATTTCGCAGA,True,3,8,['nupG CDS (nucleoside transporter)'],False
+2943034,5,0.0,0.0,0.0,5.0,64.29,0.08678,AAAGACAGATGGATGCGGGCATT,False,4,8,['ECD_02798 CDS (hypothetical protein)'],False
+2943636,13,0.0,0.0,0.0,13.0,58.57,0.205,AACTCACCAGTCACGAACCGCAC,False,3,9,intergenic / no CDS,False
+2944726,37,0.0,0.0,0.0,37.0,60.0,0.16548,CCGAATCATCAATAAACATCCCC,False,2,8,['ECD_02812 CDS (hypothetical protein)'],False
+2953100,2,0.0,0.0,2.0,0.0,55.71,0.30824,GCAAAACGGCAAGATAATAACGC,False,3,9,['ECD_02819 CDS (KpsS protein)'],False
+2953863,4,0.0,0.0,4.0,0.0,78.57,0.00402,TGTGTAATGCTAATAACTTCGTC,False,2,8,intergenic / no CDS,False
+2953876,39,0.0,0.0,39.0,0.0,81.43,0.00146,ATTTGATGATTATAAATGTGTAA,False,3,8,intergenic / no CDS,False
+2954018,6,0.0,0.0,6.0,0.0,72.86,0.01998,ATTGGGAACCTGAAGGTTTAGCT,False,3,8,['ECD_02820 CDS (hypothetical protein)'],False
+2954020,62,0.0,0.0,0.0,62.0,72.86,0.01998,ACTCCTCAATAAGTTTATCTAAA,False,5,9,['ECD_02820 CDS (hypothetical protein)'],False
+2954127,29,0.0,0.0,29.0,0.0,72.86,0.01998,AAAACAAAAGAATCTATATTTAC,False,2,6,['ECD_02820 CDS (hypothetical protein)'],False
+2954133,20,0.0,0.0,20.0,0.0,67.14,0.0552,AATAGAGAAAACAAAAGAATCTA,False,2,9,['ECD_02820 CDS (hypothetical protein)'],False
+2954179,12,0.0,0.0,0.0,12.0,71.43,0.02674,TTTTCCCTACTGTTACATTATTA,False,4,8,['ECD_02820 CDS (hypothetical protein)'],False
+2954302,3,0.0,0.0,0.0,3.0,67.14,0.0552,ATGGCTTGCAATACATAATTATC,True,4,8,['ECD_02820 CDS (hypothetical protein)'],False
+2955404,30,0.0,0.0,0.0,30.0,75.71,0.00962,CCATCCTCTACCAAGAAAACAGT,False,3,8,['ECD_02821 CDS (hypothetical protein)'],False
+2957137,7,0.0,0.0,7.0,0.0,74.29,0.01462,GCAAGTCGTTCTTTCAATAATGT,True,3,7,intergenic / no CDS,False
+2962417,34,0.0,0.0,34.0,0.0,72.86,0.01998,TTGGTTGTAACACTGGTTAAAAT,True,1,3,intergenic / no CDS,False
+2963643,3,0.0,0.0,3.0,0.0,48.57,0.72238,CCCGGCTGCTCGCAGAATTGTCA,False,4,10,intergenic / no CDS,False
+2975124,1,0.0,0.0,1.0,0.0,48.57,0.72238,GGAACCTGTTCCAGTTGATGCAC,False,3,10,['sslE CDS (putative secreted and surface-associated lipoprotein mucinase)'],False
+2980430,5,0.0,0.0,5.0,0.0,55.71,0.30824,GTCGCCCAGCCAACGCCAATGGA,False,4,6,['glcA CDS (glycolate transporter)'],False
+2981729,12,0.0,0.0,12.0,0.0,57.14,0.25056,CGGGCCTAAAACAACAATATGGA,False,3,8,intergenic / no CDS,False
+2989034,1,0.0,0.0,0.0,1.0,57.14,0.25056,AGAACAACAAAGAGATTTCGCTG,True,2,5,['glcC CDS (glycolate-inducible glc operon transcriptional repressor; autorepressor)'],False
+2989052,3,0.0,0.0,0.0,3.0,57.14,0.25056,TTTCGCTGATCGAACATGCGCAG,False,3,7,['glcC CDS (glycolate-inducible glc operon transcriptional repressor; autorepressor)'],False
+2989172,6,0.0,0.0,0.0,6.0,54.29,0.37626,TTTGCCAGCGTAAATAATCTCTA,True,5,12,['glcC CDS (glycolate-inducible glc operon transcriptional repressor; autorepressor)'],False
+2991403,6,0.0,0.0,0.0,6.0,47.14,0.80236,AGCCGATGTTGCGCTCCAGCGTC,False,2,8,['ECD_02851 CDS (putative saframycin Mx1 synthetase B)'],False
+2993478,6,0.0,0.0,0.0,6.0,70.0,0.03492,ACCGTATTTCTGAAGATATTAAT,False,3,10,['ECD_02852 CDS (hypothetical protein)'],False
+2998215,12,0.0,0.0,12.0,0.0,54.29,0.37626,GCTACAAGCACCTGCGTTTTGCG,False,4,8,['ECD_02858 CDS (hypothetical protein)'],False
+3002878,14,0.0,0.0,0.0,14.0,52.86,0.4541,TCAGAGATGCACAGCATAATGCG,True,2,5,['pitB CDS (phosphate transporter)'],False
+3003067,3,0.0,0.0,0.0,3.0,50.0,0.63384,AATCAACTTCTGCGGCAGTTCAG,False,3,9,['pitB CDS (phosphate transporter)'],False
+3004947,12,0.0,0.0,0.0,12.0,44.29,0.9145,ACTGTGTTTCCAGGCACCAGCCA,False,4,8,['gss CDS (glutathionylspermidine amidase and glutathionylspermidine synthetase)'],False
+3006146,4,0.0,0.0,0.0,4.0,55.71,0.30824,ATTAACCGGACAGAGGTCAGACT,False,5,8,intergenic / no CDS,False
+3019215,18,0.0,0.0,18.0,0.0,54.29,0.37626,CCTTAAACCAGGCCAACGATATC,True,2,6,['exbB CDS (membrane spanning protein in TonB-ExbB-ExbD complex)'],False
+3023168,24,0.0,0.0,0.0,24.0,54.29,0.37626,ACTTTCCTGCTGGCGGTTGGCGG,True,5,10,"['yqhD CDS (aldehyde reductase, NADPH-dependent)']",False
+3023341,17,0.0,0.0,0.0,17.0,42.86,0.95038,CAGAATCCAACGCAGGCGCGGTG,True,1,4,"['yqhD CDS (aldehyde reductase, NADPH-dependent)']",False
+3023823,13,0.0,0.0,0.0,13.0,47.14,0.80236,AATATGCTGAACGCGTCTGGAAC,False,3,8,"['yqhD CDS (aldehyde reductase, NADPH-dependent)']",False
+3032491,5,0.0,0.0,5.0,0.0,51.43,0.54206,ACCGCGTGGATATGGATCAGGTG,False,5,9,"['parC CDS (DNA topoisomerase IV, subunit A)']",True
+3036127,23,0.0,0.0,0.0,23.0,68.57,0.04426,ATAACCTAAAAGGTTAATTACAG,True,3,8,intergenic / no CDS,False
+3039882,4,0.0,0.0,0.0,4.0,65.71,0.06942,TAAATTATTCCGGTGCGAGTAAG,True,0,5,intergenic / no CDS,False
+3046123,1,0.0,0.0,0.0,1.0,52.86,0.4541,AAAGAAGCGATCTACCGTCAATT,False,2,8,['tolC CDS (transport channel)'],False
+3051075,23,0.0,0.0,23.0,0.0,71.43,0.02674,CCGTTATTATGCGACCATATGAA,True,1,7,intergenic / no CDS,False
+3055072,24,0.0,0.0,0.0,24.0,67.14,0.0552,TAACCAGTATCTTGAATCATTAA,True,1,4,['yqiG CDS (putative outer membrane usher protein)'],False
+3055343,15,0.0,0.0,0.0,15.0,55.71,0.30824,GCATACTGCTTCGTGGTATGACT,False,3,9,['yqiG CDS (putative outer membrane usher protein)'],False
+3059532,15,0.0,0.0,0.0,15.0,55.71,0.30824,TGCATGAGTTACAGGATACCCGC,False,1,8,"['yqiK CDS (PHB family membrane protein, function unknown)']",False
+3059544,5,0.0,0.0,0.0,5.0,55.71,0.30824,GATACCCGCGAGAACTTTGTGCA,False,5,8,"['yqiK CDS (PHB family membrane protein, function unknown)']",False
+3060718,6,0.0,0.0,0.0,6.0,57.14,0.25056,ACTCCCGTCGCCGAAAACGTAGA,False,5,10,intergenic / no CDS,False
+3065483,29,0.0,0.0,29.0,0.0,47.14,0.80236,CCGGGTTAATGCGCGAGCTGCGG,False,2,10,['glnE CDS (fused deadenylyltransferase/adenylyltransferase for glutamine synthetase)'],False
+3068076,32,0.0,0.0,0.0,32.0,57.14,0.25056,ATTGTGTATTTGACGAAGGGATG,False,3,9,"[""cca CDS (fused tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase and phosphatase)""]",True
+3071724,41,0.0,0.0,41.0,0.0,51.43,0.54206,CCCATGGAATATGGGAGTTGGGG,False,1,8,['ttdR CDS (transcriptional activator of ttdABT)'],False
+3071816,53,0.0,0.0,53.0,0.0,52.86,0.4541,CCTGAGTATCTGCAAAAATATCC,False,3,9,['ttdR CDS (transcriptional activator of ttdABT)'],False
+3072812,4,0.0,0.0,0.0,4.0,55.71,0.30824,ATTATCTACCATACGATGTTCGA,False,3,8,"['ttdA CDS (L-tartrate dehydratase, alpha subunit)']",False
+3074325,1,0.0,0.0,0.0,1.0,42.86,0.95038,GCTCTACTTTGCCGTTTTTACTG,False,3,10,['ttdT CDS (L-tartrate/succinate antiporte)'],False
+3074937,7,0.0,0.0,0.0,7.0,42.86,0.95038,TGTTGCCGCTCAGCATTTTACTG,False,4,10,['ttdT CDS (L-tartrate/succinate antiporte)'],False
+3082749,19,0.0,0.0,19.0,0.0,70.0,0.03492,GGCCGGATAAGGCGTTCACGCCG,True,0,1,intergenic / no CDS,False
+3083893,9,0.0,0.0,9.0,0.0,44.29,0.9145,CAATCCGGTTCGCAGCAGGTACA,True,3,8,['aer CDS (fused signal transducer for aerotaxis sensory component/methyl accepting chemotaxis component)'],False
+3087119,1,0.0,0.0,0.0,1.0,52.86,0.4541,CGCGTACGCCCGCAGGCATCATC,False,3,8,['ygjH CDS (putative tRNA binding protein; putative tRNA corner chaperone)'],False
+3089382,22,0.0,0.0,0.0,22.0,54.29,0.37626,CCTACGTGGAAGACCAGGATATG,False,4,8,"['ebgA CDS (evolved beta-D-galactosidase, alpha subunit)']",False
+3089972,29,0.0,0.0,0.0,29.0,50.0,0.63384,GATCCGCGTTTTTACGAACTGTG,False,4,10,"['ebgA CDS (evolved beta-D-galactosidase, alpha subunit)']",False
+3092987,19,0.0,0.0,19.0,0.0,42.86,0.95038,GAACCGCCTTTGACGTCGTTAAC,False,2,9,['ygjI CDS (putative transporter)'],False
+3097335,2,0.0,0.0,2.0,0.0,62.86,0.1076,GCCGCATCCGCCAGCAGTTGCAA,False,3,9,['ygjK CDS (alpha-glucosidase)'],False
+3100650,4,0.0,0.0,0.0,4.0,62.86,0.1076,CATTCTTCATCACGTCCGTTGAC,True,2,6,intergenic / no CDS,False
+3102093,11,0.0,0.0,11.0,0.0,57.14,0.25056,TTCGCACCTGGGAAAGTAGCTGC,True,3,6,intergenic / no CDS,False
+3106255,12,0.0,0.0,0.0,12.0,57.14,0.25056,ACTTTCCTTATACTCGACCTTGC,True,5,9,intergenic / no CDS,False
+3121704,15,0.0,0.0,0.0,15.0,50.0,0.63384,GGCCGGACAAGATGCGCCAGCAT,True,0,1,['yhaM CDS (putative L-serine dehydratase alpha chain)'],False
+3124430,9,0.0,0.0,0.0,9.0,61.43,0.13318,ATTTCTCGCTCAAAATTTTGTAG,False,5,9,intergenic / no CDS,False
+3131845,16,0.0,0.0,16.0,0.0,55.71,0.30824,ATTGCTGGCCAGGGAACGATTGG,True,5,8,"['tdcB CDS (L-threonine dehydratase, catabolic)']",False
+3132652,3,0.0,0.0,0.0,3.0,67.14,0.0552,ACCATACCGCGGCATATTGTGCC,False,3,8,['tdcA CDS (tdc operon transcriptional activator)'],False
+3135445,27,0.0,0.0,0.0,27.0,68.57,0.04426,ACAATCTCCTGGGATTATTTACT,False,3,9,['yhaC CDS (pentapetide repeats-related protein)'],False
+3138916,4,0.0,0.0,4.0,0.0,55.71,0.30824,CCTGGGGATTATGGGTAAACCAA,False,3,8,['garR CDS (tartronate semialdehyde reductase)'],False
+3139692,22,0.0,0.0,0.0,22.0,54.29,0.37626,AATAAACGTGGAGATATCGTTTG,False,4,10,['garL CDS (alpha-dehydro-beta-deoxy-D-glucarate aldolase)'],False
+3143366,8,0.0,0.0,0.0,8.0,52.86,0.4541,ACGATACGCGGACAAACAACTAT,True,4,6,['prlF CDS (antitoxin of the SohA(PrlF)-YhaV toxin-antitoxin system)'],False
+3143778,20,0.0,0.0,20.0,0.0,55.71,0.30824,TTTACCCATGACCAGTCTTTATT,False,4,12,['yhaV CDS (toxin of the SohB(PrlF)-YhaV toxin-antitoxin system)'],False
+3144119,36,0.0,0.0,36.0,0.0,51.43,0.54206,ATTGTTGATGAAGGCATTCCTGC,False,3,8,['agaR CDS (transcriptional repressor of the aga regulon)'],False
+3145197,3,0.0,0.0,0.0,3.0,61.43,0.13318,TATCGCAGTAATCTGAACTGGAG,False,3,7,"['kbaZ CDS (tagatose 6-phosphate aldolase 1, kbaZ subunit)']",False
+3153117,8,0.0,0.0,0.0,8.0,60.0,0.16548,ATTTCTCGGAAGGGAAAAAGCAA,False,5,8,['agaB CDS (N-acetylgalactosamine-specific enzyme IIB component of PTS)'],False
+3156923,14,0.0,0.0,14.0,0.0,61.43,0.13318,CTGGAATGGTACGAACATTAATG,False,2,9,['yraI CDS (putative periplasmic pilin chaperone)'],False
+3158251,3,0.0,0.0,0.0,3.0,58.57,0.205,CAACTCGCTTCCGACGATAATAT,True,1,7,['yraJ CDS (putative outer membrane protein)'],False
+3158539,14,0.0,0.0,0.0,14.0,60.0,0.16548,ACCGCTGGACGCTATCGCGCTGA,False,5,8,['yraJ CDS (putative outer membrane protein)'],False
+3158845,1,0.0,0.0,0.0,1.0,61.43,0.13318,TATCGCTATACCAACGATGGCTA,False,2,8,['yraJ CDS (putative outer membrane protein)'],False
+3159369,1,0.0,0.0,1.0,0.0,51.43,0.54206,TCCTCACGCCAGAAGCCCCATTA,True,4,7,['yraJ CDS (putative outer membrane protein)'],False
+3159743,7,0.0,0.0,0.0,7.0,52.86,0.4541,CTTGCCAGCAACGATGAGACGGG,False,5,8,['yraJ CDS (putative outer membrane protein)'],False
+3160698,10,0.0,0.0,0.0,10.0,58.57,0.205,CCAGACGGTTTTACTCCAGTAGA,False,4,8,['yraK CDS (putative fimbrial-like adhesin protein)'],False
+3168143,11,0.0,0.0,11.0,0.0,45.71,0.86572,GCTGGAAGGTGAGGAAAGCGACC,False,4,8,['yhbP CDS (UPF0306 family protein)'],False
+3171889,5,0.0,0.0,0.0,5.0,54.29,0.37626,AATGAAAATGGCGCTGCACCACT,False,3,6,['yhbV CDS (U32 peptidase family protein)'],False
+3173324,11,0.0,0.0,11.0,0.0,42.86,0.95038,CCTTTGCCCCGCCAGTTGTGGGG,False,3,7,['mtr CDS (tryptophan transporter of high affinity)'],False
+3174661,4,0.0,0.0,4.0,0.0,40.0,0.98666,ACAGCCGCATACTGGCGGTGAGC,False,5,11,['deaD CDS (ATP-dependent RNA helicase)'],False
+3177057,3,0.0,0.0,3.0,0.0,54.29,0.37626,TGATTCTGTACTTGAGCTTGATC,True,2,7,['nlpI CDS (lipoprotein involved in osmotic sensitivity and filamentation)'],False
+3188585,9,0.0,0.0,9.0,0.0,58.57,0.205,ACTCACGGGTTGTGGATGCAAAC,False,5,10,"['yhbX CDS (putative EptAB family phosphoethanolamine transferase, inner membrane protein)']",False
+3189078,7,0.0,0.0,7.0,0.0,62.86,0.1076,GTTGCCGCATTTATCGCAAGCAT,True,4,7,"['yhbX CDS (putative EptAB family phosphoethanolamine transferase, inner membrane protein)']",False
+3189285,13,0.0,0.0,13.0,0.0,58.57,0.205,GGTTCCCCTTTCTTTAACTGCTG,True,4,12,"['yhbX CDS (putative EptAB family phosphoethanolamine transferase, inner membrane protein)']",False
+3189560,25,0.0,0.0,25.0,0.0,61.43,0.13318,GCTACCTATACGCCGTTTTTCAA,False,4,10,"['yhbX CDS (putative EptAB family phosphoethanolamine transferase, inner membrane protein)']",False
+3196129,17,0.0,0.0,17.0,0.0,58.57,0.205,CCAGCCGCTGGCTTCAGGAACAC,False,4,10,"[""rlmE CDS (23S rRNA U2552 2'-O-ribose methyltransferase, SAM-dependent)""]",False
+3198271,1,0.0,0.0,0.0,1.0,48.57,0.72238,GGGATGCCTGCCACAACGTTCTG,False,1,8,['dacB CDS (D-alanyl-D-alanine carboxypeptidase)'],False
+3202851,15,0.0,0.0,15.0,0.0,51.43,0.54206,TGTAATCGAGTAAATCGTCGATC,False,3,9,['ispB CDS (octaprenyl diphosphate synthase)'],True
+3202895,15,0.0,0.0,15.0,0.0,52.86,0.4541,CAGATCGTCGCCGACGTTTTTAC,True,1,8,['ispB CDS (octaprenyl diphosphate synthase)'],True
+3203485,4,0.0,0.0,0.0,4.0,64.29,0.08678,TTCTGAATGAAAGCGACTAACTT,True,0,6,['sfsB CDS (malPQ operon transcriptional activator)'],False
+3217875,2,0.0,0.0,0.0,2.0,50.0,0.63384,TGTGGAAATAACGTTGTGCCGCA,True,2,5,['mtgA CDS (biosynthetic peptidoglycan transglycosylase)'],False
+3222704,3,0.0,0.0,3.0,0.0,71.43,0.02674,AAGATAAGCAAAAGTGATTTATG,False,2,6,intergenic / no CDS,False
+3223348,3,0.0,0.0,0.0,3.0,52.86,0.4541,GTACGATAAATCCCTTGAGAGGG,True,0,3,"['gltB CDS (glutamate synthase, large subunit)']",False
+3230365,3,0.0,0.0,0.0,3.0,51.43,0.54206,ATCCTGGTTTATGCGGTTCTCCC,False,1,9,"['yhcH CDS (DUF386 family protein, cupin superfamily)']",False
+3236214,28,0.0,0.0,0.0,28.0,54.29,0.37626,ACCTCAGGTGGTGCTGGCTGCCG,False,4,9,['dcuD CDS (putative transporter)'],False
+3242221,4,0.0,0.0,4.0,0.0,57.14,0.25056,GTTGGTCAGCACATAGCCTTTAC,True,3,7,"['degQ CDS (serine endoprotease, periplasmic)']",False
+3242375,17,0.0,0.0,0.0,17.0,60.0,0.16548,TTCAGCTCAATGATGGGCGCGAG,True,1,4,"['degQ CDS (serine endoprotease, periplasmic)']",False
+3244139,10,0.0,0.0,0.0,10.0,51.43,0.54206,GTTTGATAAGAGTAACGATGGCG,True,1,4,"['degS CDS (serine endoprotease, periplasmic)']",False
+3245652,4,0.0,0.0,4.0,0.0,64.29,0.08678,TTGGCTGAACGGTAGGGTATATT,True,2,8,intergenic / no CDS,False
+3245887,4,0.0,0.0,4.0,0.0,65.71,0.06942,GTTCTTCTTGCTTAGCCGAGCTT,False,2,7,intergenic / no CDS,False
+3246405,44,0.0,0.0,44.0,0.0,50.0,0.63384,AAATTAATCGCAGGGGAAAGCAG,True,1,4,intergenic / no CDS,False
+3246472,1,0.0,0.0,0.0,1.0,65.71,0.06942,TCTGGCGGCGGGGAAAATGTTGC,False,5,11,intergenic / no CDS,False
+3246607,3,0.0,0.0,0.0,3.0,81.43,0.00146,AATTCATTATCTAATTGAAAAAA,False,3,6,intergenic / no CDS,False
+3246743,13,0.0,0.0,0.0,13.0,65.71,0.06942,ATTAGTGTATACTTGATTTTGTG,False,2,10,intergenic / no CDS,False
+3250870,12,0.0,0.0,12.0,0.0,51.43,0.54206,GTAAATTCTGCCGGCTTCAGTCA,True,0,3,['aaeR CDS (transcriptional regulator for aaeXAB operon)'],False
+3250879,9,0.0,0.0,9.0,0.0,54.29,0.37626,GCAGCCCTGGTAGTAAATTCTGC,False,5,11,['aaeR CDS (transcriptional regulator for aaeXAB operon)'],False
+3250948,8,0.0,0.0,8.0,0.0,48.57,0.72238,CCGATGGGGGTGTTATTGAAGGC,True,2,4,['aaeR CDS (transcriptional regulator for aaeXAB operon)'],False
+3251629,1,0.0,0.0,0.0,1.0,55.71,0.30824,GCTGCCGCTGAAGGTACAGGTCG,False,5,8,['aaeR CDS (transcriptional regulator for aaeXAB operon)'],False
+3251939,16,0.0,0.0,16.0,0.0,55.71,0.30824,GAAAACGGTAAAGTAACGAAGCC,False,2,6,['tldD CDS (putative peptidase)'],False
+3252642,3,0.0,0.0,3.0,0.0,38.57,0.99312,CGTCCGCTGGTGCGTCTTTCCGT,True,3,7,['tldD CDS (putative peptidase)'],False
+3264817,9,0.0,0.0,9.0,0.0,55.71,0.30824,CCAGGAATCATCGGAAAATTACG,False,2,8,['acuI CDS (putative acryloyl-CoA reductase)'],False
+3266964,7,0.0,0.0,0.0,7.0,50.0,0.63384,CCCCGATGGTTGGTACTTTCTAC,True,2,8,"['accB CDS (acetyl CoA carboxylase, BCCP subunit)']",True
+3267647,9,0.0,0.0,9.0,0.0,45.71,0.86572,GCTGAAAGCAGCTTTCGCTTCCG,True,4,9,"['accC CDS (acetyl-CoA carboxylase, biotin carboxylase subunit)']",True
+3271330,26,0.0,0.0,0.0,26.0,75.71,0.00962,TAAAGAAAAATTGAGAACTTACT,False,0,7,intergenic / no CDS,False
+3273577,3,0.0,0.0,0.0,3.0,51.43,0.54206,CTCGACCCGTTTGCCGGTAGCTT,True,3,10,"['yhdJ CDS (DNA adenine methyltransferase, SAM-dependent)']",False
+3273884,4,0.0,0.0,4.0,0.0,60.0,0.16548,CATATTACGGCATTTGTCTGTTT,True,1,3,['yhdU CDS (putative membrane protein)'],False
+3274307,2,0.0,0.0,0.0,2.0,60.0,0.16548,CAATACTTCGCGGAGAGTCTGCG,False,1,8,['acrS CDS (acrAB operon transcriptional repressor)'],False
+3276340,23,0.0,0.0,23.0,0.0,45.71,0.86572,CATCAGCACCTGGATAGTTTGCC,False,2,11,['acrF CDS (multidrug efflux system protein)'],False
+3279219,4,0.0,0.0,4.0,0.0,50.0,0.63384,GCAGAGACCATTCCTCCCATTAC,True,2,5,['acrF CDS (multidrug efflux system protein)'],False
+3279348,1,0.0,0.0,1.0,0.0,67.14,0.0552,TTATTAATTTTTATGGGTTTCAC,False,0,10,['acrF CDS (multidrug efflux system protein)'],False
+3280236,17,0.0,0.0,0.0,17.0,60.0,0.16548,AGAGGATGGCCACAGACAGGTAA,False,3,6,intergenic / no CDS,False
+3292497,3,0.0,0.0,3.0,0.0,57.14,0.25056,GGAAGCCGTTTTCGGTGTTGGGT,False,3,10,"['tsaC CDS (tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein, threonine-dependent ADP-forming ATPase)']",True
+3294139,1,0.0,0.0,1.0,0.0,52.86,0.4541,TCGGAATTTCCCCTCGATGTTCC,True,2,7,['smf CDS (DNA recombination-mediator A family protein)'],False
+3296420,4,0.0,0.0,0.0,4.0,58.57,0.205,ATGGTTTGTTCCGGGCAACCGTC,False,3,10,intergenic / no CDS,False
+3297178,2,0.0,0.0,0.0,2.0,47.14,0.80236,ACCGTTCAGGATGCATCAGCACA,True,4,5,"['rsmB CDS (16S rRNA m(5)C967 methyltransferase, SAM-dependent)']",False
+3299202,8,0.0,0.0,0.0,8.0,67.14,0.0552,CTTATTATTTCCCTTTGATTATC,False,1,9,intergenic / no CDS,False
+3299687,11,0.0,0.0,11.0,0.0,55.71,0.30824,AAAGGAAAACATGGCAATCGGGG,False,2,5,['arfA CDS (alternate ribosome-rescue factor A)'],False
+3299992,7,0.0,0.0,0.0,7.0,58.57,0.205,AACAACCACTCTTAACGCCACTC,False,3,9,['zntR CDS (zntA gene transcriptional activator)'],False
+3300274,10,0.0,0.0,10.0,0.0,54.29,0.37626,AGCTGGCAAAAATGGCGGAAGTA,True,2,5,['zntR CDS (zntA gene transcriptional activator)'],False
+3300330,6,0.0,0.0,6.0,0.0,58.57,0.205,GTTGGACAAAATCAACGATAACT,True,3,6,['zntR CDS (zntA gene transcriptional activator)'],False
+3307145,1,0.0,0.0,1.0,0.0,48.57,0.72238,CGCGTGATGGTTACGCAGACGGT,True,1,3,['rplF CDS (50S ribosomal subunit protein L6)'],True
+3316884,11,0.0,0.0,0.0,11.0,74.29,0.01462,TCCCCTTCCATCTGGCGAATCAT,True,2,8,"['gspC CDS (general secretory pathway component, cryptic)']",False
+3319873,7,0.0,0.0,0.0,7.0,47.14,0.80236,AGCGCAGATGTTTAAATATCATC,False,3,10,"['gspE CDS (general secretory pathway component, cryptic)']",False
+3320651,4,0.0,0.0,4.0,0.0,48.57,0.72238,TACTCAGCGGCAGTTGCTGCTTC,True,1,5,"['gspF CDS (general secretory pathway component, cryptic)']",False
+3321565,1,0.0,0.0,0.0,1.0,50.0,0.63384,TCATCACTATCCAACCACAAATC,False,3,8,"['gspG CDS (pseudopilin, cryptic, general secretion pathway)']",False
+3321788,2,0.0,0.0,2.0,0.0,52.86,0.4541,CCCGGCCATATGTGAAGAGCACC,False,4,9,"['gspH CDS (putative general secretory pathway component, cryptic)']",False
+3323266,22,0.0,0.0,22.0,0.0,50.0,0.63384,CTGGCGGGTTCGCTGAAGCTGGC,False,3,9,"['gspK CDS (general secretory pathway component, cryptic)']",False
+3324748,3,0.0,0.0,0.0,3.0,51.43,0.54206,ATTCGCAGTGCCGCACATGCCTT,False,4,10,"['gspL CDS (general secretory pathway component, cryptic)']",False
+3325146,1,0.0,0.0,0.0,1.0,57.14,0.25056,ATCAAACGCACCCACAACTTTCA,False,3,8,"['gspL CDS (general secretory pathway component, cryptic)']",False
+3327352,70,0.0,0.0,0.0,70.0,72.86,0.01998,TATACTTTCTTCAAAAATAAATG,False,2,9,intergenic / no CDS,False
+3328351,9,0.0,0.0,9.0,0.0,51.43,0.54206,TAGGTACGCCGAAGAAAGCATGG,True,3,4,['chiA CDS (periplasmic endochitinase)'],False
+3329201,1,0.0,0.0,0.0,1.0,61.43,0.13318,ATCGTTACCGCTATCCGCTGGTG,True,2,5,['chiA CDS (periplasmic endochitinase)'],False
+3335591,9,0.0,0.0,9.0,0.0,57.14,0.25056,AAACCCCGGATGTCGGTTCAAGC,False,5,9,['yheO CDS (putative PAS domain-containing DNA-binding transcriptional regulator)'],False
+3336339,11,0.0,0.0,11.0,0.0,45.71,0.86572,TTACGGCAAAGCGGGTGTTCCGG,False,1,8,['fkpA CDS (FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase))'],False
+3343902,6,0.0,0.0,0.0,6.0,58.57,0.205,CTGACTGGTTAACAACGTATCTG,False,2,10,['yheU CDS (UPF0270 family protein)'],False
+3344516,9,0.0,0.0,0.0,9.0,50.0,0.63384,CCGTACCGTGGAATCAGGTACCG,False,4,9,['prkB CDS (putative phosphoribulokinase)'],False
+3347484,2,0.0,0.0,2.0,0.0,48.57,0.72238,GCGCCGGAGACTTTAGTGACAGA,True,2,2,"['yhfK CDS (putative transporter, FUSC superfamily inner membrane protein)']",False
+3350121,5,0.0,0.0,5.0,0.0,44.29,0.9145,ACGGCAAAACCTCGCCGATTACA,False,4,7,"['pabA CDS (aminodeoxychorismate synthase, subunit II)']",False
+3351905,24,0.0,0.0,24.0,0.0,52.86,0.4541,TGTTAAGGAAATCTCATGTTCAA,True,2,6,['ppiA CDS (peptidyl-prolyl cis-trans isomerase A (rotamase A))'],False
+3359212,24,0.0,0.0,0.0,24.0,55.71,0.30824,GTTAACTGCATGTACTGGTCATA,False,3,8,['yhfL CDS (small lipoprotein)'],False
+3359893,5,0.0,0.0,5.0,0.0,50.0,0.63384,GCGATAAATTTACCGAGCAACGG,False,1,8,['frlA CDS (putative fructoselysine transporter)'],False
+3368070,23,0.0,0.0,0.0,23.0,57.14,0.25056,GCCCGGATTTCACCTTCATTGCC,True,1,6,['yhfU CDS (DUF2620 family protein)'],False
+3371521,1,0.0,0.0,1.0,0.0,55.71,0.30824,GAAGGAATTCGCACTGGAAGTTA,True,1,5,['yhfY CDS (PRD domain protein)'],False
+3373721,20,0.0,0.0,20.0,0.0,52.86,0.4541,GCTATACCTACTTCGGCGAACTG,False,3,7,['trpS CDS (tryptophanyl-tRNA synthetase)'],True
+3385449,13,0.0,0.0,0.0,13.0,45.71,0.86572,AACCAGGCTGGCAGGGTACCGGC,True,1,5,"['mrcA CDS (penicillin-binding protein 1a, murein transglycosylase and transpeptidase)']",False
+3400349,39,0.0,0.0,39.0,0.0,68.57,0.04426,GGTTTGAATAATAATCTGACTCA,True,1,3,intergenic / no CDS,False
+3400537,39,0.0,0.0,0.0,39.0,58.57,0.205,TTGTTGATTATTTAATCTCTCCT,True,0,6,intergenic / no CDS,False
+3400771,4,0.0,0.0,4.0,0.0,64.29,0.08678,AATTTTTTCATTGTTGTTATCAC,True,2,8,"['feoA CDS (ferrous iron transporter, protein A)']",False
+3402485,14,0.0,0.0,0.0,14.0,44.29,0.9145,GCTGAGCGGGAAAATCGTCGATA,False,5,9,['feoB CDS (ferrous iron transporter protein B and GTP-binding protein; membrane protein)'],False
+3402515,12,0.0,0.0,12.0,0.0,47.14,0.80236,CCCACTACCACTTCTTTCGCCAT,True,2,3,['feoB CDS (ferrous iron transporter protein B and GTP-binding protein; membrane protein)'],False
+3403343,7,0.0,0.0,7.0,0.0,42.86,0.95038,GCTTTTCAAAACAGGCGATGGAG,False,3,7,['feoC CDS (putative DNA-binding transcriptional regulator)'],False
+3403923,7,0.0,0.0,7.0,0.0,55.71,0.30824,ACAGCGAATAGGGATAGGGGCTT,False,4,11,['yhgA CDS (transposase_31 family protein)'],False
+3404324,11,0.0,0.0,0.0,11.0,55.71,0.30824,ACGATTTTATCGACGGCGTTGCC,False,2,7,['yhgA CDS (transposase_31 family protein)'],False
+3413154,11,0.0,0.0,11.0,0.0,70.0,0.03492,ATTCATTTAAGCAAGGGTTTCTT,False,2,11,intergenic / no CDS,False
+3413293,12,0.0,0.0,12.0,0.0,60.0,0.16548,CCTTTCTAATGCAAGCGATGGCG,False,3,9,intergenic / no CDS,False
+3415907,2,0.0,0.0,2.0,0.0,62.86,0.1076,CAGCCCCAGTACCTGCCATTCAC,False,3,10,['malT CDS (mal regulon transcriptional activator)'],False
+3417289,2,0.0,0.0,2.0,0.0,48.57,0.72238,CCACCGCGCATGTGGAATGCCGT,True,4,9,['rtcB CDS (RNA-splicing ligase)'],False
+3417406,10,0.0,0.0,10.0,0.0,52.86,0.4541,GCTTTATCGTCCGTGGGTTGGGA,False,2,9,['rtcB CDS (RNA-splicing ligase)'],False
+3417563,5,0.0,0.0,0.0,5.0,51.43,0.54206,AATTCCATATTGACCAGCACGCG,False,4,8,['rtcB CDS (RNA-splicing ligase)'],False
+3420430,17,0.0,0.0,0.0,17.0,45.71,0.86572,CTCAATAATGGCGCGTTTGGTGC,True,0,6,['glpR CDS (DNA-binding transcriptional repressor)'],False
+3424943,9,0.0,0.0,0.0,9.0,60.0,0.16548,GGCGCAACGCCATTTATAGCCAA,True,2,4,['ECD_03279 CDS (hypothetical protein)'],False
+3425771,19,0.0,0.0,19.0,0.0,61.43,0.13318,GATGCATTTATGGTGACGAGAGA,True,3,8,intergenic / no CDS,False
+3432667,1,0.0,0.0,0.0,1.0,52.86,0.4541,ATCACTGGGTTATCCTCTCCAGC,True,3,7,['glgX CDS (glycogen debranching enzyme)'],False
+3432688,1,0.0,0.0,1.0,0.0,51.43,0.54206,GCAAAACGGGCCGAAACAGCTGC,True,3,8,['glgX CDS (glycogen debranching enzyme)'],False
+3435552,3,0.0,0.0,3.0,0.0,50.0,0.63384,AAGGCTATCATCAGGACTGGAAC,True,3,9,"['glgB CDS (1,4-alpha-glucan branching enzyme)']",False
+3436388,6,0.0,0.0,6.0,0.0,51.43,0.54206,GTCTGGCATGGTCAGCAAAACCT,True,1,5,"['glgB CDS (1,4-alpha-glucan branching enzyme)']",False
+3439049,13,0.0,0.0,13.0,0.0,48.57,0.72238,GCTGTCGATTTGTATCGCCGGTG,False,4,10,"['gntU CDS (gluconate transporter, low affinity GNT 1 system)']",False
+3441584,1,0.0,0.0,1.0,0.0,52.86,0.4541,ATCAAACCATGCTGGCGCACTAC,True,2,7,['gntR CDS (d-gluconate inducible gluconate regulon transcriptional repressor)'],False
+3441758,25,0.0,0.0,0.0,25.0,44.29,0.9145,AAAACCTGGTTGGTGAGAGAAGG,False,4,10,['gntR CDS (d-gluconate inducible gluconate regulon transcriptional repressor)'],False
+3445529,8,0.0,0.0,0.0,8.0,71.43,0.02674,TTATCCTCTGTCAACATCTTATC,False,2,11,['yhhZ CDS (putative Hcp1 family polymorphic toxin protein; putative colicin-like DNase/tRNase activity)'],False
+3445976,6,0.0,0.0,6.0,0.0,70.0,0.03492,TATGGTGAACATTATAATTTAGA,True,2,7,['yhhZ CDS (putative Hcp1 family polymorphic toxin protein; putative colicin-like DNase/tRNase activity)'],False
+3447078,4,0.0,0.0,4.0,0.0,74.29,0.01462,TGATACATTGAGCAAAGACGCGT,True,1,6,intergenic / no CDS,False
+3451861,9,0.0,0.0,0.0,9.0,54.29,0.37626,AACGGCCACAAATACTGATTCCA,False,4,9,['ugpE CDS (sn-glycerol-3-phosphate ABC transporter permease)'],False
+3452555,25,0.0,0.0,0.0,25.0,41.43,0.97364,ACCGTCAGCACGATGACGAGGAA,False,5,7,['ugpA CDS (sn-glycerol-3-phosphate ABC transporter permease)'],False
+3453616,3,0.0,0.0,3.0,0.0,45.71,0.86572,AGCAGGGCTTTTATGAGAAAAAC,True,1,8,['ugpB CDS (sn-glycerol-3-phosphate ABC transporter periplasmic binding protein)'],False
+3454761,8,0.0,0.0,8.0,0.0,52.86,0.4541,TTCGAGCATGTCATGTTACCCCG,False,2,7,intergenic / no CDS,False
+3455519,3,0.0,0.0,3.0,0.0,44.29,0.9145,GGATGACGGTGGAAGAGAACCTG,False,2,9,['livF CDS (branched-chain amino acid ABC transporter ATPase)'],False
+3455988,1,0.0,0.0,0.0,1.0,55.71,0.30824,CCGTTTGCCAGCGGCGTCCCCTG,True,1,5,['livG CDS (branched-chain amino acid ABC transporter ATPase)'],False
+3459814,7,0.0,0.0,7.0,0.0,45.71,0.86572,ATTGCCCAGTGGGGCGATATGGA,False,6,10,['livK CDS (leucine transporter subunit)'],False
+3460203,18,0.0,0.0,0.0,18.0,72.86,0.01998,GATTAAGAACAGATAATATTCTG,True,1,6,intergenic / no CDS,False
+3460801,3,0.0,0.0,3.0,0.0,57.14,0.25056,ATTGTAGGCCTGATAAGCGTAGC,False,4,9,intergenic / no CDS,False
+3466749,9,0.0,0.0,0.0,9.0,62.86,0.1076,ACTACACTCCTCGCTGTTGCTTC,False,5,11,intergenic / no CDS,False
+3472286,3,0.0,0.0,0.0,3.0,61.43,0.13318,TCGTTTTCTTCCTGCCAATGTAT,True,1,5,['yhhQ CDS (DUF165 family inner membrane protein)'],False
+3474936,3,0.0,0.0,3.0,0.0,52.86,0.4541,GAGCAAAAACGCCAGTACTGCCC,True,0,6,['yhhT CDS (UPF0118 family putative transporter)'],False
+3476471,1,0.0,0.0,0.0,1.0,57.14,0.25056,TGATGCCGAGGCGGCGGCAGAAA,True,3,6,['nikA CDS (nickel/heme ABC transporter periplasmic binding protein)'],False
+3481200,2,0.0,0.0,0.0,2.0,50.0,0.63384,GCGCCCTGGCGCAGGAAGCTACC,True,4,9,"['nikR CDS (transcriptional repressor, Ni-binding)']",False
+3485986,9,0.0,0.0,0.0,9.0,71.43,0.02674,CATGGGCGCAGTGTAATAATAAT,False,4,7,['yhhH CDS (putative NTF2 fold immunity protein for polymorphic toxin RhsB)'],False
+3487364,7,0.0,0.0,0.0,7.0,61.43,0.13318,GCTGGATATTAAAGGAAAAATCA,False,3,7,['yhhI CDS (putative transposase)'],False
+3487517,1,0.0,0.0,1.0,0.0,60.0,0.16548,CCTTTCCATTCAAACGTGAAATC,False,4,9,['yhhI CDS (putative transposase)'],False
+3488417,4,0.0,0.0,0.0,4.0,42.86,0.95038,CGGCAGCAGCACCAGAATCACCA,False,1,7,['yhhJ CDS (putative ABC transporter permease)'],False
+3489631,34,0.0,0.0,0.0,34.0,50.0,0.63384,AGCGCCGCCAGGGTGAGCGTCAG,False,4,10,['rbbA CDS (ribosome-associated ATPase: ATP-binding protein/ATP-binding membrane protein)'],False
+3496082,21,0.0,0.0,0.0,21.0,71.43,0.02674,ATCGCATCGTCCTTTAAAAAAAC,True,3,7,['yhiKL CDS (hypothetical protein)'],False
+3497398,16,0.0,0.0,16.0,0.0,55.71,0.30824,GATAATAAATGCGGTAGTGAATA,False,1,8,"['yhiM CDS (acid resistance protein, inner membrane)']",False
+3498369,2,0.0,0.0,0.0,2.0,64.29,0.08678,GAAGCGGGTTCTGCTAAAAAATA,False,3,8,intergenic / no CDS,False
+3499015,5,0.0,0.0,5.0,0.0,48.57,0.72238,GCTACCGGATGTGGACCTCGAAA,False,5,8,['yhiN CDS (putative oxidoreductase)'],False
+3499979,4,0.0,0.0,4.0,0.0,75.71,0.00962,ATTATCAGTGACTTTCGCGGCGC,False,4,9,intergenic / no CDS,False
+3502930,1,0.0,0.0,0.0,1.0,51.43,0.54206,TCTGGTGGTTTGTGGTCACCACC,False,4,9,['uspA CDS (universal stress global response regulator)'],False
+3503826,17,0.0,0.0,0.0,17.0,51.43,0.54206,TCGGCTCGTTGATAGCGTTATCG,False,5,12,['dtpB CDS (dipeptide and tripeptide permease B)'],False
+3504318,1,0.0,0.0,0.0,1.0,52.86,0.4541,AACCCGTTCTGGGTGGTACTCGC,False,2,8,['dtpB CDS (dipeptide and tripeptide permease B)'],False
+3506687,10,0.0,0.0,10.0,0.0,44.29,0.9145,CCGCAGCAGGTGCTGGATTTCTT,False,2,9,['prlC CDS (oligopeptidase A)'],False
+3519400,11,0.0,0.0,11.0,0.0,67.14,0.0552,ACTTCAGATTTATCCATCACGCA,False,4,8,intergenic / no CDS,False
+3519522,33,0.0,0.0,0.0,33.0,68.57,0.04426,TCTGAAGTATTGATTAGTGTTAA,False,3,9,intergenic / no CDS,False
+3519587,5,0.0,0.0,5.0,0.0,65.71,0.06942,CCTGTAAAAGAAAAGAATCTTTC,False,3,10,intergenic / no CDS,False
+3520879,2,0.0,0.0,0.0,2.0,44.29,0.9145,GCCAGCAATGCCCGCATCACCTT,False,2,7,"['mdtE CDS (anaerobic multidrug efflux transporter, ArcA-regulated)']",False
+3521126,1,0.0,0.0,0.0,1.0,50.0,0.63384,TTCGCTGGTTACCGTACAACGTC,False,3,9,"['mdtE CDS (anaerobic multidrug efflux transporter, ArcA-regulated)']",False
+3523008,29,0.0,0.0,29.0,0.0,44.29,0.9145,ATGGAGAACTGGCGGTAGATCTC,True,2,8,"['mdtF CDS (anaerobic multidrug efflux transporter, ArcA-regulated)']",False
+3530626,3,0.0,0.0,0.0,3.0,65.71,0.06942,ATATAAACTATCAATAAGATAGC,False,1,8,intergenic / no CDS,False
+3531928,12,0.0,0.0,0.0,12.0,48.57,0.72238,CCAGTTCATCCCCATCGATCTGA,False,3,8,['treF CDS (cytoplasmic trehalase)'],False
+3532891,33,0.0,0.0,33.0,0.0,58.57,0.205,ACTGGTTGCTGCAAAAAACCGTG,False,5,10,['yhjB CDS (putative DNA-binding transcriptional response regulator)'],False
+3534550,11,0.0,0.0,0.0,11.0,54.29,0.37626,GGGAGCTTTCCCGGCGTGTAAAC,True,1,6,['yhjC CDS (LysR family putative transcriptional regulator)'],False
+3536946,26,0.0,0.0,26.0,0.0,48.57,0.72238,GATCAGCGTGGTGATGATTACCA,False,3,9,['yhjE CDS (putative MFS transporter; membrane protein)'],False
+3537096,16,0.0,0.0,16.0,0.0,45.71,0.86572,ACTTCTGTCGGAAACAGCTCTGG,False,4,8,['yhjE CDS (putative MFS transporter; membrane protein)'],False
+3541150,16,0.0,0.0,0.0,16.0,51.43,0.54206,ACCAGCCGCGAAAAGCTGCTTTC,False,5,10,['kdgK CDS (2-dehydro-3-deoxygluconokinase)'],False
+3549663,5,0.0,0.0,0.0,5.0,48.57,0.72238,CGAGCGCGGAAAGCAGGATCGGC,False,4,8,['bcsC CDS (cellulose synthase subunit)'],False
+3559967,11,0.0,0.0,0.0,11.0,40.0,0.98666,AACGTACTTACCCTGGCGGGACC,False,3,7,['bcsG CDS (DUF3260 family cellulose production inner membrane protein)'],False
+3569329,4,0.0,0.0,4.0,0.0,50.0,0.63384,CCTCGCTGACCTGGCAATGGACT,True,4,7,['dppA CDS (dipeptide/heme ABC transporter periplasmic binding protein; dipeptide chemotaxis receptor)'],False
+3569999,2,0.0,0.0,0.0,2.0,54.29,0.37626,TGTTGTTTTAACCCTTTGCAGTG,True,1,4,intergenic / no CDS,False
+3570017,1,0.0,0.0,0.0,1.0,51.43,0.54206,GCAGTGGGTTGTCGCTGCCTGAC,False,3,8,intergenic / no CDS,False
+3570086,1,0.0,0.0,0.0,1.0,57.14,0.25056,GATGCCGTACTAATTAACATCAG,False,4,8,intergenic / no CDS,False
+3570275,5,0.0,0.0,0.0,5.0,67.14,0.0552,CATGACCAGAACAATCAGCTTAA,False,4,7,intergenic / no CDS,False
+3571748,5,0.0,0.0,0.0,5.0,55.71,0.30824,GAGGTCAGAACTGAATCCTAACT,True,3,6,"['eptB CDS (KDO phosphoethanolamine transferase, Ca(2+)-inducible)']",False
+3571860,15,0.0,0.0,15.0,0.0,51.43,0.54206,ATCGGTGAAACCACGCGTTGGGA,False,2,7,"['eptB CDS (KDO phosphoethanolamine transferase, Ca(2+)-inducible)']",False
+3575599,26,0.0,0.0,0.0,26.0,50.0,0.63384,ACAGGACGCCGGGATTATCCGCC,False,5,9,"['tag CDS (3-methyl-adenine DNA glycosylase I, constitutive)']",False
+3581120,5,0.0,0.0,0.0,5.0,54.29,0.37626,AAAGGACCAAACTGTTTTTTCTG,False,3,9,['yiaF CDS (barrier effect co-colonization resistance factor; DUF3053 family lipoprotein)'],False
+3581777,34,0.0,0.0,0.0,34.0,57.14,0.25056,TGAGCAGCCTGGAACAGATTGTT,False,2,9,['yiaG CDS (HTH_CROC1 family putative transcriptional regulator)'],False
+3584410,1,0.0,0.0,1.0,0.0,77.14,0.00636,CCTTTAATAATCTTCTGCTGAAT,False,2,6,intergenic / no CDS,False
+3590256,8,0.0,0.0,0.0,8.0,51.43,0.54206,GCATAACGCTGCGCATCTGGTAG,False,3,7,['xylB CDS (xylulokinase)'],False
+3590850,2,0.0,0.0,2.0,0.0,50.0,0.63384,TGGCGACGGTGCCAGTTGTCGCA,True,2,7,['xylB CDS (xylulokinase)'],False
+3594051,8,0.0,0.0,8.0,0.0,50.0,0.63384,TGCGTACCGGCAGCAATACGTTT,True,2,5,['xylF CDS (D-xylose transporter subunit)'],False
+3598129,11,0.0,0.0,11.0,0.0,54.29,0.37626,TCGGCATGAATCATGGCATGGAT,False,4,8,['xylR CDS (xylose divergent operon transcriptional activator)'],False
+3608573,4,0.0,0.0,0.0,4.0,51.43,0.54206,ACGCGCAGGCGATGATCAGCGGC,True,4,5,"['yiaO CDS (2,3-diketo-L-gulonate-binding periplasmic protein)']",False
+3614181,15,0.0,0.0,15.0,0.0,55.71,0.30824,CCAACCAGCGCCGGAGTTAATCC,True,4,8,['ECD_03437 CDS (putative permease)'],False
+3614821,5,0.0,0.0,5.0,0.0,57.14,0.25056,AAGACGTAGGTAATGAAGTACAT,False,2,7,['ECD_03437 CDS (putative permease)'],False
+3615978,12,0.0,0.0,0.0,12.0,51.43,0.54206,GCCTTCTTCCAGGCCACGGGAAA,True,2,4,['ECD_03438 CDS (hypothetical protein)'],False
+3616703,23,0.0,0.0,23.0,0.0,55.71,0.30824,TAGAGATAATGACCAATCGAGGT,True,0,2,['ECD_03438 CDS (hypothetical protein)'],False
+3618106,1,0.0,0.0,1.0,0.0,62.86,0.1076,CCTGATTAGTTATGAAGGTGATT,False,3,9,['yiaT CDS (putative outer membrane protein)'],False
+3625192,21,0.0,0.0,0.0,21.0,44.29,0.9145,CCTTCGCCGTTGAGCTGGCGCGC,False,4,9,['selB CDS (selenocysteinyl-tRNA-specific translation factor)'],False
+3631374,34,0.0,0.0,0.0,34.0,72.86,0.01998,TATGCAAGGTACGCCAGAAAAAC,False,4,10,['yibG CDS (TPR-like repeat protein)'],False
+3632309,24,0.0,0.0,24.0,0.0,70.0,0.03492,ATTAGATAAACCAGTTATACAAC,True,2,5,intergenic / no CDS,False
+3632551,6,0.0,0.0,6.0,0.0,61.43,0.13318,ACAGGCAAAATAGCTTAGTGAAC,False,4,8,intergenic / no CDS,False
+3634966,1,0.0,0.0,1.0,0.0,57.14,0.25056,TTATGGCGAGAATCGCGAACCCG,True,2,5,intergenic / no CDS,False
+3634981,7,0.0,0.0,7.0,0.0,61.43,0.13318,AATTATTCTTTGGTGTTATGGCG,False,2,8,intergenic / no CDS,False
+3636481,4,0.0,0.0,0.0,4.0,55.71,0.30824,TGTGTGCGGCGATGGCTGTCTCC,True,4,7,"['mtlA CDS (mannitol-specific PTS enzyme: IIA, IIB and IIC components)']",False
+3636578,7,0.0,0.0,7.0,0.0,47.14,0.80236,CCATCGCACTGGAACCCATACCG,False,3,7,"['mtlA CDS (mannitol-specific PTS enzyme: IIA, IIB and IIC components)']",False
+3639636,14,0.0,0.0,0.0,14.0,68.57,0.04426,TCTCCGTATTACCCCGCGCCGGG,False,3,6,intergenic / no CDS,False
+3640586,18,0.0,0.0,0.0,18.0,80.0,0.0024,CTTTCATATTTGACATTTATTAA,False,2,7,intergenic / no CDS,False
+3640934,3,0.0,0.0,0.0,3.0,70.0,0.03492,ACATAACAATAAAATTGTGCTAC,False,3,8,['ECD_03459 CDS (hypothetical protein)'],False
+3641475,10,0.0,0.0,0.0,10.0,65.71,0.06942,ATCGGCAGAAAAGAAGCAAAAAA,False,4,6,intergenic / no CDS,False
+3644535,14,0.0,0.0,0.0,14.0,51.43,0.54206,TGCGCTTGATGATAACGCCCTGC,False,3,7,['ECD_03460 CDS (putative adhesin)'],False
+3646480,30,0.0,0.0,30.0,0.0,60.0,0.16548,AGTTTTAATTGGGAAATTGTGAA,True,2,9,intergenic / no CDS,False
+3646888,23,0.0,0.0,23.0,0.0,44.29,0.9145,AATGATCCACGCGATGGGCCACA,False,4,8,['lldP CDS (L-lactate permease)'],False
+3654384,8,0.0,0.0,0.0,8.0,52.86,0.4541,TACCTGCGCGGTGCGGCAAATAC,True,2,5,intergenic / no CDS,False
+3657428,8,0.0,0.0,0.0,8.0,50.0,0.63384,CCATTTCGTCGTAACGTTCTTGC,False,3,8,['yibQ CDS (putative polysaccharide deacetylase)'],False
+3660577,2,0.0,0.0,2.0,0.0,54.29,0.37626,TTGGTAAACAACTGGGCGTTATC,True,1,7,"['tdh CDS (L-threonine 3-dehydrogenase, NAD(P)-binding)']",False
+3665127,9,0.0,0.0,0.0,9.0,74.29,0.01462,ATTTATCTAATAAACATTGGTCT,False,3,7,"['waaL CDS (Lipid A-core, surface polymer ligase)']",False
+3665237,5,0.0,0.0,0.0,5.0,67.14,0.0552,TAGGCCTACTACCAGTAGTGAAA,False,3,8,"['waaL CDS (Lipid A-core, surface polymer ligase)']",False
+3665291,25,0.0,0.0,0.0,25.0,68.57,0.04426,CTTAAGGCATATATGAGTATTGC,True,1,8,"['waaL CDS (Lipid A-core, surface polymer ligase)']",False
+3665605,32,0.0,0.0,0.0,32.0,75.71,0.00962,AATGTATCTTTAAAAGAAAATAC,False,3,8,"['waaL CDS (Lipid A-core, surface polymer ligase)']",False
+3665652,3,0.0,0.0,0.0,3.0,80.0,0.0024,AATAAAACAATATAACTTATAAT,False,2,6,"['waaL CDS (Lipid A-core, surface polymer ligase)']",False
+3666982,17,0.0,0.0,17.0,0.0,70.0,0.03492,ACTATCTGCTGAAGATGTATACC,False,5,10,"['waaV CDS (putative beta1,3-glucosyltransferase)']",False
+3667242,4,0.0,0.0,0.0,4.0,71.43,0.02674,CATACTCTCTCAAAACGTTTGAT,False,3,9,"['waaV CDS (putative beta1,3-glucosyltransferase)']",False
+3667827,12,0.0,0.0,12.0,0.0,70.0,0.03492,CATGGGCGAAAAATGATTTTATG,False,4,10,"['waaW CDS (UDP-galactose:(Galactosyl) LPS alpha1,2-galactosyltransferase)']",False
+3668019,9,0.0,0.0,0.0,9.0,65.71,0.06942,CCAGACGCTTCGCTGGTTTTTCC,False,3,10,"['waaW CDS (UDP-galactose:(Galactosyl) LPS alpha1,2-galactosyltransferase)']",False
+3670590,3,0.0,0.0,3.0,0.0,64.29,0.08678,GTACGCGACATACTTCAGGGTAT,True,1,2,intergenic / no CDS,False
+3682871,10,0.0,0.0,0.0,10.0,51.43,0.54206,GCGCCCGTCTTCGGTCATCACTA,False,3,10,['rph CDS (ribonuclease PH)'],False
+3685115,5,0.0,0.0,0.0,5.0,52.86,0.4541,GAGGCAGCGCAGCAAGCTGGGGG,True,2,4,['dinD CDS (DNA damage-inducible protein)'],False
+3685270,7,0.0,0.0,0.0,7.0,52.86,0.4541,ACAGAACTGGCGGCTAATCTCTT,False,4,10,['dinD CDS (DNA damage-inducible protein)'],False
+3685398,6,0.0,0.0,0.0,6.0,68.57,0.04426,CAGGAACTTGGCGGAACCATGCC,False,2,8,['dinD CDS (DNA damage-inducible protein)'],False
+3685496,2,0.0,0.0,0.0,2.0,67.14,0.0552,ACTAAAAACTCTTTTTGTTGATT,False,3,8,intergenic / no CDS,False
+3686012,5,0.0,0.0,0.0,5.0,45.71,0.86572,GTTGCTCCTGTAATGCCTTACCT,False,4,10,['yicG CDS (UPF0126 family inner membrane protein)'],False
+3688033,11,0.0,0.0,0.0,11.0,58.57,0.205,ATTGCCAGCACAAGATACTTATT,False,6,9,intergenic / no CDS,False
+3692101,20,0.0,0.0,20.0,0.0,50.0,0.63384,GATCCTGCACGGTATGCAGGTTG,True,2,4,['recG CDS (ATP-dependent DNA helicase)'],False
+3694238,30,0.0,0.0,30.0,0.0,52.86,0.4541,CCTGAAATGATTGTGGCTGGCGT,False,3,8,['ECD_03510 CDS (hypothetical protein)'],False
+3694677,29,0.0,0.0,0.0,29.0,51.43,0.54206,CCTGCTGGCGTTGGGAAGCATTC,True,5,11,['ECD_03510 CDS (hypothetical protein)'],False
+3696436,1,0.0,0.0,1.0,0.0,68.57,0.04426,ACTCGAGGGTGGAAACAGACATC,False,4,8,intergenic / no CDS,False
+3701614,10,0.0,0.0,10.0,0.0,61.43,0.13318,GTCAGGTGAAAAATAATGGCTAC,True,1,3,['yicI CDS (putative alpha-glucosidase)'],False
+3703542,10,0.0,0.0,0.0,10.0,68.57,0.04426,GCTATAGGGGTGCTGAGACCGAT,False,3,7,intergenic / no CDS,False
+3704828,7,0.0,0.0,0.0,7.0,54.29,0.37626,TCTTACTGCTAATGAACTTCCCC,False,4,10,['ECD_03516 CDS (Int)'],False
+3704833,3,0.0,0.0,0.0,3.0,57.14,0.25056,CTAATGAACTTCCCCACTTCCTC,False,0,9,['ECD_03516 CDS (Int)'],False
+3707714,19,0.0,0.0,19.0,0.0,58.57,0.205,GCTCCAGATCACAAAAACATTGG,True,3,8,['ECD_03519 CDS (putative transcriptional regulator)'],False
+3707945,3,0.0,0.0,3.0,0.0,52.86,0.4541,ATCCAAAGCATCAGCAAGGCATT,True,2,6,['ECD_03519 CDS (putative transcriptional regulator)'],False
+3708004,6,0.0,0.0,0.0,6.0,58.57,0.205,ACTCATCAAGGGCACAGTAACGC,False,4,10,['ECD_03519 CDS (putative transcriptional regulator)'],False
+3715161,15,0.0,0.0,0.0,15.0,52.86,0.4541,GCCGTATTGTGCATGATAATAGG,True,2,7,['ECD_03525 CDS (hypothetical protein)'],False
+3719676,10,0.0,0.0,0.0,10.0,57.14,0.25056,GCGGGTCTTTATGCAACATGGTA,False,3,9,['ECD_03531 CDS (hypothetical protein)'],False
+3720800,28,0.0,0.0,0.0,28.0,74.29,0.01462,AATAAGAACATCTGTGCTTTATA,False,2,8,intergenic / no CDS,False
+3722529,18,0.0,0.0,0.0,18.0,55.71,0.30824,ACTGGCCAGACATCTAGAATTTA,False,6,10,['insI CDS (IS30 transposase)'],False
+3724242,19,0.0,0.0,0.0,19.0,58.57,0.205,TTTGAGCGAGGGGTAATTAATGT,True,4,7,['ECD_03540 CDS (hypothetical protein)'],False
+3725544,1,0.0,0.0,1.0,0.0,57.14,0.25056,GCCTTGTTTATCGGAGTGCCTTG,True,1,6,['setC CDS (putative arabinose efflux transporter)'],False
+3725651,19,0.0,0.0,0.0,19.0,54.29,0.37626,GCACTCCGATAAACAAGGCGACC,False,4,8,['setC CDS (putative arabinose efflux transporter)'],False
+3728488,22,0.0,0.0,0.0,22.0,64.29,0.08678,CCTTTTATTAATGATTACCTGAC,False,2,7,intergenic / no CDS,False
+3728535,61,0.0,0.0,0.0,61.0,68.57,0.04426,TAAAAAACGAAACGCTATCGATA,True,0,2,intergenic / no CDS,False
+3731024,8,0.0,0.0,0.0,8.0,52.86,0.4541,CACACTTTCATGATGCAGTACGA,True,1,5,"['adeQ CDS (adenine permease, high affinity; adenine:H+ symporter)']",False
+3733115,6,0.0,0.0,0.0,6.0,58.57,0.205,ACTTAACGCCTATATTACTGCGG,False,5,9,['adeD CDS (cryptic adenine deaminase)'],False
+3733801,11,0.0,0.0,0.0,11.0,45.71,0.86572,GCTTGTGGTTTGCTTGGCGGCTT,False,3,9,['adeD CDS (cryptic adenine deaminase)'],False
+3734655,7,0.0,0.0,7.0,0.0,47.14,0.80236,ACTCTCTAAAGCGGTGGCGATTC,False,4,9,['uhpT CDS (hexose phosphate transporter)'],False
+3734735,15,0.0,0.0,0.0,15.0,51.43,0.54206,GCTTCAAACAGCGTAAAGCCCTG,False,3,8,['uhpT CDS (hexose phosphate transporter)'],False
+3736447,8,0.0,0.0,0.0,8.0,47.14,0.80236,TCGCCATTCACCGACCGCCGGTA,True,2,7,['uhpC CDS (membrane protein regulates uhpT expression)'],False
+3741486,23,0.0,0.0,0.0,23.0,67.14,0.0552,GGTTTTGTGTTTAACAATATTTA,True,1,8,intergenic / no CDS,False
+3742230,34,0.0,0.0,34.0,0.0,55.71,0.30824,TAAATGCGGGAGAGGAATCTATC,False,2,8,intergenic / no CDS,False
+3742296,5,0.0,0.0,0.0,5.0,70.0,0.03492,CCTGGCGTATATCTGGCTAACAT,False,4,8,intergenic / no CDS,False
+3742864,1,0.0,0.0,1.0,0.0,47.14,0.80236,CAGGCGCGTGCGCGGTGCATCGA,False,4,9,['emrD CDS (multidrug efflux system protein)'],False
+3743008,19,0.0,0.0,19.0,0.0,54.29,0.37626,ATACTGCTCAGCCCTAACACCGC,True,2,6,['emrD CDS (multidrug efflux system protein)'],False
+3743070,7,0.0,0.0,7.0,0.0,47.14,0.80236,CGGCAAACCATGCGCCAAAAAAC,True,0,2,['emrD CDS (multidrug efflux system protein)'],False
+3744036,25,0.0,0.0,0.0,25.0,61.43,0.13318,CTCTACAACCAGTTTATGCCTGT,True,1,2,['yidG CDS (inner membrane protein)'],False
+3744652,8,0.0,0.0,8.0,0.0,44.29,0.9145,CCTTGGAGAAGCGCCCGATTACC,False,3,9,['yidH CDS (DUF202 family inner membrane protein)'],False
+3744663,6,0.0,0.0,6.0,0.0,50.0,0.63384,AATGAATATTTCCCGCCTTGGAG,False,3,10,['yidH CDS (DUF202 family inner membrane protein)'],False
+3745287,10,0.0,0.0,10.0,0.0,52.86,0.4541,AAACAGAAGTTCTGACGATAATG,False,1,7,intergenic / no CDS,False
+3745896,1,0.0,0.0,1.0,0.0,45.71,0.86572,ATGGGCGCACATAAGCTGATCAG,False,3,7,['yidJ CDS (sulfatase/phosphatase superfamily protein)'],False
+3746167,6,0.0,0.0,6.0,0.0,52.86,0.4541,CGGTGGAGTATTTAGAGAAATAC,True,1,8,['yidJ CDS (sulfatase/phosphatase superfamily protein)'],False
+3746684,1,0.0,0.0,0.0,1.0,54.29,0.37626,CCGGACTGGTTAGCGTAGATACC,False,4,10,['yidJ CDS (sulfatase/phosphatase superfamily protein)'],False
+3747167,6,0.0,0.0,0.0,6.0,51.43,0.54206,ATCACCAGCATCACGACCACGTT,False,4,9,['yidK CDS (putative transporter)'],False
+3747536,3,0.0,0.0,3.0,0.0,52.86,0.4541,ACATGGCCTACCCGACGCTGGTC,False,3,9,['yidK CDS (putative transporter)'],False
+3748101,2,0.0,0.0,0.0,2.0,48.57,0.72238,ATTACCAGTAGCCAGATAGCCGC,False,5,12,['yidK CDS (putative transporter)'],False
+3748885,8,0.0,0.0,8.0,0.0,60.0,0.16548,TTATTTGTTCGCCATTCTTTAAA,True,0,6,['yidL CDS (AraC family putative transcriptional regulator)'],False
+3749432,17,0.0,0.0,17.0,0.0,54.29,0.37626,GTCGAAGAAGTTGAGCGTATCAG,False,1,9,['yidL CDS (AraC family putative transcriptional regulator)'],False
+3749815,3,0.0,0.0,3.0,0.0,48.57,0.72238,ATTCATAACTTTGATGATGAAGC,False,2,8,['glvG CDS (putative 6-phospho-beta-glucosidase)'],False
+3750188,13,0.0,0.0,0.0,13.0,51.43,0.54206,GATAGGTGTTTGGTAATGTATCC,False,2,9,['glvG CDS (putative 6-phospho-beta-glucosidase)'],False
+3751671,9,0.0,0.0,9.0,0.0,47.14,0.80236,AGCCGCTGAAATCATTGTTCCCG,False,3,8,['glvBC CDS (arbutin specific enzyme IIBC component of PTS)'],False
+3752074,16,0.0,0.0,16.0,0.0,54.29,0.37626,ATTAAAACCCTCGATACCAGCAT,False,2,8,['glvBC CDS (arbutin specific enzyme IIBC component of PTS)'],False
+3752733,1,0.0,0.0,0.0,1.0,60.0,0.16548,GGGCGGTAGAGATCTACGTTTTC,True,0,5,intergenic / no CDS,False
+3752899,1,0.0,0.0,0.0,1.0,57.14,0.25056,AAAAGCATTGCGGAGCGGTTAAG,False,2,9,intergenic / no CDS,False
+3753101,3,0.0,0.0,3.0,0.0,48.57,0.72238,ATAGCTGTCTTCCAGCATCAGCG,False,3,9,intergenic / no CDS,False
+3753213,4,0.0,0.0,4.0,0.0,60.0,0.16548,AGGCTTTCATAATTACCGACAAT,True,1,2,intergenic / no CDS,False
+3753424,18,0.0,0.0,18.0,0.0,57.14,0.25056,GCGGTGCTCTTCTGGAGTATCGG,False,3,12,intergenic / no CDS,False
+3754562,3,0.0,0.0,3.0,0.0,51.43,0.54206,TCGGCATTTGCGGGATATTGTTC,False,3,9,['yidE CDS (putative transporter)'],False
+3756012,8,0.0,0.0,8.0,0.0,52.86,0.4541,AATCTGCTGGTGGTGAAAGGTGC,False,3,8,['ibpA CDS (heat shock chaperone)'],False
+3756420,98,0.0,0.0,98.0,0.0,52.86,0.4541,GCTATCGCACTTTAACGTTTCGT,False,3,10,intergenic / no CDS,False
+3756421,56,0.0,0.0,56.0,0.0,54.29,0.37626,GCTATCGCACTTTAACGTTTCGT,False,3,10,intergenic / no CDS,False
+3756423,44,0.0,0.0,44.0,0.0,57.14,0.25056,GCGGCTATCGCACTTTAACGTTT,True,3,4,intergenic / no CDS,False
+3756424,7,0.0,0.0,7.0,0.0,58.57,0.205,GCGGCTATCGCACTTTAACGTTT,True,3,4,intergenic / no CDS,False
+3756425,115,0.0,0.0,115.0,0.0,60.0,0.16548,GCGGCTATCGCACTTTAACGTTT,True,3,4,intergenic / no CDS,False
+3758429,6,0.0,0.0,6.0,0.0,48.57,0.72238,ACGCGTGAGCGATGCGGCGACGT,True,2,4,"['cbrA CDS (colicin M resistance protein; FAD-binding protein, putative oxidoreductase)']",False
+3760103,11,0.0,0.0,11.0,0.0,51.43,0.54206,GCTTCCGCCGTTGGTTTTTATAC,False,4,9,['dgoT CDS (D-galactonate transporter)'],False
+3760543,36,0.0,0.0,36.0,0.0,51.43,0.54206,ATGCCCAAAATCTGGAGAAAGCT,False,3,8,['dgoT CDS (D-galactonate transporter)'],False
+3760623,1,0.0,0.0,1.0,0.0,57.14,0.25056,AGCCCCTCATCGGGCACTAAAAC,True,3,8,intergenic / no CDS,False
+3760640,4,0.0,0.0,0.0,4.0,55.71,0.30824,TAGCGAGCTTTCTCCAGATTTTG,False,0,9,intergenic / no CDS,False
+3760698,14,0.0,0.0,0.0,14.0,55.71,0.30824,ATTTACAGAGGGTTATATTTTTG,True,4,8,intergenic / no CDS,False
+3762868,3,0.0,0.0,3.0,0.0,57.14,0.25056,CTTCCTCTCTTTATGTCATGCCC,False,3,9,['dgoK CDS (2-oxo-3-deoxygalactonate kinase)'],False
+3763895,19,0.0,0.0,19.0,0.0,47.14,0.80236,CACGGCAAATACGTACCTGGCTC,True,2,9,['dgoR CDS (D-galactonate catabolism operon transcriptional repressor)'],False
+3764159,6,0.0,0.0,0.0,6.0,64.29,0.08678,CGTTCGCGTTTGCTGTGTGTGTA,False,4,12,intergenic / no CDS,False
+3764163,36,0.0,0.0,0.0,36.0,65.71,0.06942,CGCGTTTGCTGTGTGTGTAATGT,True,2,7,intergenic / no CDS,False
+3764168,22,0.0,0.0,0.0,22.0,68.57,0.04426,TGCTGTGTGTGTAATGTAGTACA,True,0,3,intergenic / no CDS,False
+3764169,2,0.0,0.0,0.0,2.0,68.57,0.04426,TGCTGTGTGTGTAATGTAGTACA,True,0,3,intergenic / no CDS,False
+3764182,14,0.0,0.0,14.0,0.0,74.29,0.01462,ACTCTTCTTTCCCTCCTGTTTAG,False,4,9,intergenic / no CDS,False
+3764268,2,0.0,0.0,2.0,0.0,65.71,0.06942,GGAATAAACCGGCAGCCTTAAAA,True,0,4,intergenic / no CDS,False
+3764538,24,0.0,0.0,18.0,6.0,58.57,0.205,AAAACAAATCTTGCGTCATCGGC,False,2,8,['yidX CDS (putative lipoprotein)'],False
+3765046,38,0.0,0.0,38.0,0.0,54.29,0.37626,GGCGTCGGTGTGGCGATGGATAA,False,3,8,['yidA CDS (sugar phosphate phosphatase)'],False
+3765309,1,0.0,0.0,1.0,0.0,50.0,0.63384,TGGACCCCAATACCCAGTTCCTG,False,3,10,['yidA CDS (sugar phosphate phosphatase)'],False
+3765749,2,0.0,0.0,1.0,1.0,51.43,0.54206,CATTCACGCCACGGGCGCGAGCT,False,4,8,['yidA CDS (sugar phosphate phosphatase)'],False
+3766191,40,0.0,0.0,40.0,0.0,50.0,0.63384,ATTTTAAGTTGGGTTGAGGAGCA,False,3,6,['yidB CDS (DUF937 family protein)'],False
+3768358,5,0.0,0.0,5.0,0.0,51.43,0.54206,AATATGAAATTCTGGCGAAACGT,False,2,8,"['gyrB CDS (DNA gyrase, subunit B)']",True
+3777284,33,0.0,0.0,33.0,0.0,67.14,0.0552,ATCGACAATCTTATTGTCGATAT,True,3,5,intergenic / no CDS,False
+3777847,28,0.0,0.0,0.0,28.0,54.29,0.37626,ATGCGCGGCGACGAAGCCTACAG,False,3,8,"['tnaA CDS (tryptophanase/L-cysteine desulfhydrase, PLP-dependent)']",False
+3778196,4,0.0,0.0,4.0,0.0,52.86,0.4541,CATTACCACCGGAATATCGTATT,True,3,7,"['tnaA CDS (tryptophanase/L-cysteine desulfhydrase, PLP-dependent)']",False
+3778703,10,0.0,0.0,0.0,10.0,40.0,0.98666,GCGGGCGGTCACGCGGCATTCGT,False,4,11,"['tnaA CDS (tryptophanase/L-cysteine desulfhydrase, PLP-dependent)']",False
+3780217,1,0.0,0.0,1.0,0.0,52.86,0.4541,ACGGTTATACCAAAGAGAATGAC,False,3,9,['tnaB CDS (tryptophan transporter of low affinity)'],False
+3781994,22,0.0,0.0,22.0,0.0,58.57,0.205,AATATCCACTTCACCACGAGTAA,False,4,8,['yidZ CDS (putative DNA-binding transcriptional regulator)'],False
+3783922,10,0.0,0.0,0.0,10.0,51.43,0.54206,ATTGGCGGCGCGCGCTGTCAGTA,True,5,8,"['chrR CDS (chromate reductase, Class I, flavoprotein)']",False
+3785913,10,0.0,0.0,0.0,10.0,52.86,0.4541,TACCGTGCAGAAGTCGCTCGGCT,True,0,2,['yieH CDS (phosphoenolpyruvate and 6-phosphogluconate phosphatase)'],False
+3787085,6,0.0,0.0,6.0,0.0,60.0,0.16548,CTCTTCATCATACTCAAATTCAA,True,1,6,['cbrC CDS (UPF0167 family protein)'],False
+3787819,1,0.0,0.0,0.0,1.0,51.43,0.54206,GCCGCCCAACTCACCATGCGCCA,True,5,9,['yieK CDS (putative 6-phosphogluconolactonase)'],False
+3788012,2,0.0,0.0,2.0,0.0,60.0,0.16548,AACTGCTATTTCTATAATTTCGA,False,2,12,['yieK CDS (putative 6-phosphogluconolactonase)'],False
+3788051,2,0.0,0.0,0.0,2.0,60.0,0.16548,AAAAACAGATTACGCAGATTGGT,True,3,9,['yieK CDS (putative 6-phosphogluconolactonase)'],False
+3788250,58,0.0,0.0,0.0,58.0,60.0,0.16548,ACCAAGCAGATGGTGTGCCGCGA,False,3,8,['yieK CDS (putative 6-phosphogluconolactonase)'],False
+3789366,18,0.0,0.0,12.0,6.0,55.71,0.30824,TATAAAAATTGCTGCTTTAACGC,False,1,7,['yieL CDS (putative xylanase)'],False
+3791165,2,0.0,0.0,2.0,0.0,61.43,0.13318,AGAAAAGCTTCGGATGGTATGCA,True,1,8,['bglB CDS (cryptic phospho-beta-glucosidase B)'],False
+3791956,5,0.0,0.0,5.0,0.0,45.71,0.86572,ATTCACGGGCGTGGGGCTGGCAG,False,4,8,['bglB CDS (cryptic phospho-beta-glucosidase B)'],False
+3791983,19,0.0,0.0,19.0,0.0,47.14,0.80236,AATCAATATGTCGTTACACGCGC,False,2,9,['bglB CDS (cryptic phospho-beta-glucosidase B)'],False
+3792326,4,0.0,0.0,4.0,0.0,52.86,0.4541,GCCATCGATTTTTATCACCGTTA,True,2,7,['bglB CDS (cryptic phospho-beta-glucosidase B)'],False
+3796195,1,0.0,0.0,1.0,0.0,47.14,0.80236,CGTCAACATGATGGAAGTGGCGA,False,2,8,['phoU CDS (negative regulator of PhoR/PhoB two-component regulator)'],False
+3796404,10,0.0,0.0,10.0,0.0,60.0,0.16548,ACCGGTCGTTACGGTTGATTCAG,False,5,13,['phoU CDS (negative regulator of PhoR/PhoB two-component regulator)'],False
+3800026,3,0.0,0.0,3.0,0.0,48.57,0.72238,CCCGACCGTGATTGGCGGCGTGG,True,5,8,['pstS CDS (phosphate ABC transporter periplasmic binding protein)'],False
+3803999,23,0.0,0.0,0.0,23.0,50.0,0.63384,AATGACATGCTGAACCATCGCTT,False,4,9,['glmU CDS (fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase)'],True
+3809459,8,0.0,0.0,8.0,0.0,44.29,0.9145,ATCATCGAGCAGGCGAACAAACG,True,2,5,"['atpF CDS (F0 sector of membrane-bound ATP synthase, subunit b)']",False
+3811425,30,0.0,0.0,30.0,0.0,65.71,0.06942,AGCAGAAAAGTCGCAATTGTATG,True,1,8,intergenic / no CDS,False
+3811725,28,0.0,0.0,0.0,28.0,70.0,0.03492,CATTTACACAACAAAAACCACCC,False,2,7,intergenic / no CDS,False
+3812082,23,0.0,0.0,23.0,0.0,48.57,0.72238,GCCGCCATTTGATGGCGTAATTA,False,4,10,"['rsmG CDS (16S rRNA m(7)G527 methyltransferase, SAM-dependent; glucose-inhibited cell-division protein)']",False
+3820062,6,0.0,0.0,6.0,0.0,58.57,0.205,ACAAAAAAGCGCACAGTATGCAC,False,2,6,intergenic / no CDS,False
+3823850,9,0.0,0.0,9.0,0.0,54.29,0.37626,AGTGAGCAACGTTTCGTGGAGTT,True,4,5,intergenic / no CDS,False
+3827156,12,0.0,0.0,0.0,12.0,52.86,0.4541,CCGTTGCTGCTCACAAGTTTAAT,False,2,9,['rbsB CDS (D-ribose ABC transporter periplasmic binding protein; ribose chemotaxis receptor)'],False
+3829626,1,0.0,0.0,1.0,0.0,62.86,0.1076,AGTGCGGCCGTCCTTCGCGTTTA,True,4,9,['hsrA CDS (putative multidrug or homocysteine efflux system)'],False
+3830051,1,0.0,0.0,1.0,0.0,48.57,0.72238,TCGTAGGCAATATTGCAACCCGT,True,1,4,['hsrA CDS (putative multidrug or homocysteine efflux system)'],False
+3838173,4,0.0,0.0,4.0,0.0,52.86,0.4541,CCTGGAAGTTAGCCGAACGCGTC,False,4,10,['hdfR CDS (flhDC operon transcriptional repressor)'],False
+3839933,14,0.0,0.0,14.0,0.0,52.86,0.4541,GCTGGCGGCCTCAGAACAGCTTA,True,5,9,['yifB CDS (magnesium chelatase family protein and putative transcriptional regulator)'],False
+3840061,8,0.0,0.0,0.0,8.0,51.43,0.54206,CAACGCAATGGCGATAGGTAAAT,False,1,8,['yifB CDS (magnesium chelatase family protein and putative transcriptional regulator)'],False
+3840367,72,0.0,0.0,72.0,0.0,58.57,0.205,CCTCGTAGTTCATCCTTTGTCCG,False,3,8,intergenic / no CDS,False
+3840369,1,0.0,0.0,1.0,0.0,57.14,0.25056,CCTTCCTCGTAGTTCATCCTTTG,False,4,8,intergenic / no CDS,False
+3840432,31,0.0,0.0,31.0,0.0,78.57,0.00402,GTTTTTTAAAAATAAAATAGTGA,True,1,4,intergenic / no CDS,False
+3854250,4,0.0,0.0,4.0,0.0,47.14,0.80236,TGCAAGATATCCCTCCCTCGCAA,True,0,4,['gpp CDS (guanosine pentaphosphatase/exopolyphosphatase)'],False
+3860359,7,0.0,0.0,7.0,0.0,48.57,0.72238,TCTCTTCGAATAAGCGGTGAGCG,False,4,7,['wzzE CDS (Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein)'],False
+3863090,3,0.0,0.0,3.0,0.0,50.0,0.63384,CCGCGCCGCTTCAAGCAATGTAT,False,4,10,"['rffG CDS (dTDP-glucose 4,6-dehydratase)']",False
+3866039,13,0.0,0.0,0.0,13.0,48.57,0.72238,ACCAAAAACTACACGGCGGGCGG,False,2,6,['wecE CDS (TDP-4-oxo-6-deoxy-D-glucose transaminase)'],False
+3868740,13,0.0,0.0,13.0,0.0,48.57,0.72238,CCAACTGGCGCTGCGCTTCACGC,False,3,8,['wecF CDS (TDP-Fuc4NAc:lipidIIFuc4NAc transferase)'],False
+3868868,10,0.0,0.0,0.0,10.0,48.57,0.72238,GGCGTCGGTGGATAAAAACACCA,True,3,7,['wecF CDS (TDP-Fuc4NAc:lipidIIFuc4NAc transferase)'],False
+3869263,1,0.0,0.0,1.0,0.0,52.86,0.4541,GGAGTTAAGACGGAACAGCAAAA,True,1,3,['wzyE CDS (putative ECA polysaccharide chain elongation protein)'],True
+3871146,4,0.0,0.0,4.0,0.0,61.43,0.13318,GCTGTAGCTCTGGTTTGTTATCT,False,3,9,intergenic / no CDS,False
+3871392,14,0.0,0.0,14.0,0.0,52.86,0.4541,AGATAGCCAAAAAACGGGCTCAT,True,2,6,['yifK CDS (putative APC family amino acid transporter)'],False
+3871723,1,0.0,0.0,1.0,0.0,51.43,0.54206,AGGAACCCTTTCCAGCCACCCGC,True,3,11,['yifK CDS (putative APC family amino acid transporter)'],False
+3872185,25,0.0,0.0,25.0,0.0,54.29,0.37626,GCGGATTGGGAATGATGTAGTTC,False,3,7,['yifK CDS (putative APC family amino acid transporter)'],False
+3872246,3,0.0,0.0,3.0,0.0,54.29,0.37626,ACAAACCATGGCACCATCCCCGG,False,4,8,['yifK CDS (putative APC family amino acid transporter)'],False
+3872400,14,0.0,0.0,14.0,0.0,60.0,0.16548,GCGTATCTTCATTAAAGTACATG,False,2,8,['yifK CDS (putative APC family amino acid transporter)'],False
+3872427,1,0.0,0.0,1.0,0.0,57.14,0.25056,AAAGATGATGCCGACAAACAGCG,False,2,7,['yifK CDS (putative APC family amino acid transporter)'],False
+3872517,9,0.0,0.0,9.0,0.0,57.14,0.25056,TGTGCGTTTTGCTGCTTATTCCT,True,3,9,['yifK CDS (putative APC family amino acid transporter)'],False
+3874227,12,0.0,0.0,0.0,12.0,54.29,0.37626,AATATCGACTGGGGAATATGCTT,False,3,9,['aslB CDS (putative AslA-specific sulfatase-maturating enzyme)'],False
+3875256,13,0.0,0.0,13.0,0.0,58.57,0.205,GAGATGAACGATATCTTCGCCAA,True,0,1,['aslA CDS (putative Ser-type periplasmic non-aryl sulfatase)'],False
+3876676,2,0.0,0.0,0.0,2.0,61.43,0.13318,CGCAGGAGAAATATTCACTCAGG,True,1,2,intergenic / no CDS,False
+3878698,12,0.0,0.0,0.0,12.0,54.29,0.37626,CTGCCAGCTTTTTTGCAGATTGA,True,1,6,['hemX CDS (putative uroporphyrinogen III methyltransferase)'],False
+3892342,25,0.0,0.0,25.0,0.0,57.14,0.25056,ACGCCAGCAAAATTTTGCCGTCA,True,3,4,intergenic / no CDS,False
+3894554,2,0.0,0.0,2.0,0.0,77.14,0.00636,AATGGCAGCAATTTTCATAGCCA,False,5,7,['ECD_03694 CDS (hypothetical protein)'],False
+3894844,8,0.0,0.0,8.0,0.0,62.86,0.1076,ATTATTCTGCTGATGATATGCAA,False,3,8,['ECD_03694 CDS (hypothetical protein)'],False
+3894933,32,0.0,0.0,0.0,32.0,75.71,0.00962,CTACCATATCACCATATTGCATA,True,1,7,['ECD_03694 CDS (hypothetical protein)'],False
+3895572,4,0.0,0.0,4.0,0.0,68.57,0.04426,GGGGGGCAACACCAGAATATAAA,False,2,8,['yigF CDS (DUF2628 family putative inner membrane protein)'],False
+3906257,7,0.0,0.0,0.0,7.0,50.0,0.63384,TGCTGCTGGGTAATGTTCCGCCA,True,2,5,['metE CDS (5-methyltetrahydropteroyltriglutamate- homocysteine S-methyltransferase)'],False
+3909620,9,0.0,0.0,0.0,9.0,48.57,0.72238,ATACCCAGGAACAGCAGAAACGG,False,4,8,['ECD_03710 CDS (putative permease)'],False
+3910427,6,0.0,0.0,6.0,0.0,52.86,0.4541,ATTGCGTATTGCCATGATTTTGC,False,4,12,['ECD_03710 CDS (putative permease)'],False
+3910694,9,0.0,0.0,9.0,0.0,47.14,0.80236,GACGTAGAAATTTGGCAATTACC,True,1,6,['ECD_03711 CDS (hypothetical protein)'],False
+3910797,24,0.0,0.0,0.0,24.0,50.0,0.63384,AGCGGTAATTGCCAAATTTCTAC,False,2,10,['ECD_03711 CDS (hypothetical protein)'],False
+3915887,5,0.0,0.0,0.0,5.0,52.86,0.4541,GCAAAGCGTAACCTGTACCATCG,False,3,6,['ECD_03716 CDS (hypothetical protein)'],False
+3920105,14,0.0,0.0,14.0,0.0,55.71,0.30824,TCGGCACATTTTTCGAATAACAG,False,4,11,['ECD_03719 CDS (hypothetical protein)'],False
+3924012,1,0.0,0.0,1.0,0.0,48.57,0.72238,AGAAACCTCTTCAACCACCGCAG,False,3,8,['ECD_03724 CDS (putative transcriptional regulator)'],False
+3924040,32,0.0,0.0,32.0,0.0,54.29,0.37626,TATCATCAGGAGAAACGTATGGC,False,2,7,['ECD_03724 CDS (putative transcriptional regulator)'],False
+3925378,7,0.0,0.0,0.0,7.0,45.71,0.86572,CATGCTGGTTAGCCCGACTACGC,False,4,9,['rmuC CDS (DNA recombination protein)'],False
+3930572,2,0.0,0.0,2.0,0.0,57.14,0.25056,TTAGTGCCGGTGATGAGTAGCCC,False,2,9,['tatD CDS (quality control of Tat-exported FeS proteins; Mg-dependent cytoplasmic DNase)'],False
+3931276,2,0.0,0.0,2.0,0.0,58.57,0.205,AAGCACAGTGTGAAGAACACCGA,False,3,9,['tatD CDS (quality control of Tat-exported FeS proteins; Mg-dependent cytoplasmic DNase)'],False
+3932308,6,0.0,0.0,6.0,0.0,51.43,0.54206,ACGTCATCGCCAGAGACGATTTT,False,3,9,['ubiD CDS (3-octaprenyl-4-hydroxybenzoate decarboxylase)'],True
+3937912,3,0.0,0.0,0.0,3.0,58.57,0.205,TCCTGAATCCGCAAGGTGATCTG,True,1,7,intergenic / no CDS,False
+3940644,11,0.0,0.0,11.0,0.0,50.0,0.63384,AATAACCGATACTGGCATCATGT,False,5,9,['trkH CDS (potassium transporter)'],False
+3940662,32,0.0,0.0,32.0,0.0,54.29,0.37626,TTAATAGTCGGGCTATCGAAATA,True,0,1,['trkH CDS (potassium transporter)'],False
+3950794,23,0.0,0.0,23.0,0.0,65.71,0.06942,TATGTAATTTACATTGAATTATT,False,2,8,['dsbA CDS (periplasmic protein disulfide isomerase I)'],False
+3951009,4,0.0,0.0,0.0,4.0,68.57,0.04426,TAAGCGGATATTTAAAGTTTTGC,False,2,11,['yihF CDS (DUF945 family protein)'],False
+3951091,10,0.0,0.0,10.0,0.0,71.43,0.02674,AACGTCATATCGTAGGCATGTTC,False,3,9,['yihF CDS (DUF945 family protein)'],False
+3952083,20,0.0,0.0,0.0,20.0,60.0,0.16548,ACAAAGTGAGCCGGCCATTAAAC,False,3,8,['yihF CDS (DUF945 family protein)'],False
+3952280,3,0.0,0.0,0.0,3.0,57.14,0.25056,AGGAATGGATGCGGAAAAAGCGC,False,2,8,['yihF CDS (DUF945 family protein)'],False
+3952867,3,0.0,0.0,0.0,3.0,54.29,0.37626,TTTCTTGCGTGAAACGGGAGCCT,True,1,5,"['yihG CDS (inner membrane protein, inner membrane acyltransferase)']",False
+3952926,6,0.0,0.0,0.0,6.0,52.86,0.4541,TTCACAAGAACGCCGAGTGGTTT,False,2,7,"['yihG CDS (inner membrane protein, inner membrane acyltransferase)']",False
+3953251,1,0.0,0.0,0.0,1.0,58.57,0.205,CCTTCACACCAGCAATACATCAT,False,4,7,"['yihG CDS (inner membrane protein, inner membrane acyltransferase)']",False
+3953280,20,0.0,0.0,20.0,0.0,58.57,0.205,ATAACCCTTTTGCTGAGTATCGT,False,4,13,"['yihG CDS (inner membrane protein, inner membrane acyltransferase)']",False
+3953438,1,0.0,0.0,0.0,1.0,67.14,0.0552,TATTCAAAAGGTTAGCCATAGAC,False,2,6,intergenic / no CDS,False
+3954692,6,0.0,0.0,6.0,0.0,52.86,0.4541,GGTGACGTAGTTGTCATAAGAAA,False,3,6,"[""polA CDS (5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease)""]",False
+3955414,5,0.0,0.0,0.0,5.0,52.86,0.4541,GCCGCTGGTGCCGGTGCTTTCAC,False,4,12,"[""polA CDS (5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease)""]",False
+3955445,16,0.0,0.0,16.0,0.0,55.71,0.30824,GGTGGAAGAAAGGTTAAATTCCT,False,3,8,"[""polA CDS (5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease)""]",False
+3955955,2,0.0,0.0,2.0,0.0,50.0,0.63384,GTTGCTCGCTGGTGACGGTTTCC,False,5,10,"[""polA CDS (5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease)""]",False
+3956415,1,0.0,0.0,0.0,1.0,55.71,0.30824,GTTACAGGCTGAGCAACCGCGTG,True,3,7,"[""polA CDS (5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease)""]",False
+3957518,17,0.0,0.0,0.0,17.0,58.57,0.205,GGAACGGCCTGCAAAAGCCACTT,True,1,8,['yihA CDS (cell division GTP-binding protein)'],True
+3958872,10,0.0,0.0,0.0,10.0,50.0,0.63384,AGAGACGCCATCGGAAGGAGTGA,False,3,8,"['hemN CDS (coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent)']",False
+3963727,1,0.0,0.0,0.0,1.0,48.57,0.72238,AGGGCAGCAAAGCACAGGTACGG,False,3,8,['glnA CDS (glutamine synthetase)'],False
+3963992,12,0.0,0.0,12.0,0.0,48.57,0.72238,CACAACGTAGCGCACCGCTTCGG,True,1,6,['glnA CDS (glutamine synthetase)'],False
+3964913,14,0.0,0.0,14.0,0.0,57.14,0.25056,AGCACTATATTGGTGCAACATTC,False,2,8,intergenic / no CDS,False
+3965222,22,0.0,0.0,22.0,0.0,54.29,0.37626,CATCACGCGCTCTTGGGTTTCGG,True,2,10,['typA CDS (GTP-binding protein)'],False
+3967085,2,0.0,0.0,0.0,2.0,61.43,0.13318,GCAGGTTTTTTTTTGCCTGTCGT,False,2,9,intergenic / no CDS,False
+3968815,20,0.0,0.0,0.0,20.0,62.86,0.1076,GATGAGTGAAACACCACTACCAG,False,3,7,['yihM CDS (putative sugar phosphate isomerase)'],False
+3968820,4,0.0,0.0,4.0,0.0,61.43,0.13318,GCTTGCCTCTTGTTTGATTTGTT,False,4,10,['yihM CDS (putative sugar phosphate isomerase)'],False
+3969510,9,0.0,0.0,9.0,0.0,64.29,0.08678,TCATTCAGAACAAAGAAAATGAT,False,3,7,['yihN CDS (MFS transporter family protein)'],False
+3969771,6,0.0,0.0,6.0,0.0,60.0,0.16548,AATCATGCCACCAATCGGTCCAC,False,2,8,['yihN CDS (MFS transporter family protein)'],False
+3970857,2,0.0,0.0,2.0,0.0,68.57,0.04426,TGGGTTATAACTTCGATATGGGC,True,1,5,['ompL CDS (outer membrane porin L; putative sulfolipid porin)'],False
+3973534,12,0.0,0.0,0.0,12.0,57.14,0.25056,CCAGTGAGGCGCGTTCGTTGGGG,False,3,8,"['yihP CDS (putative 2,3-dihydroxypropane-1-sulfonate exporter, membrane protein)']",False
+3975321,4,0.0,0.0,0.0,4.0,51.43,0.54206,ACTCCGTCATAAATCCAGTCGGG,True,4,6,['yihQ CDS (putative sulfolipid alpha-glucosidase; alpha-glucosyl fluoride glucosidase)'],False
+3980317,1,0.0,0.0,0.0,1.0,68.57,0.04426,ATGACATGCTTTGCTTGTCTGTT,False,3,10,intergenic / no CDS,False
+3984701,2,0.0,0.0,2.0,0.0,57.14,0.25056,AGAATAAACTCCCGGCAAACAGC,True,1,5,['yiiD CDS (GNAT family putative N-acetyltransferase)'],False
+3985647,1,0.0,0.0,1.0,0.0,61.43,0.13318,ATTTGCATAATCTGAATGGTGTA,False,3,8,intergenic / no CDS,False
+3985657,3,0.0,0.0,3.0,0.0,61.43,0.13318,GATATTTATTTGCATAATCTGAA,False,1,8,intergenic / no CDS,False
+3985722,1,0.0,0.0,1.0,0.0,70.0,0.03492,ACTCAAAAATGGTTTAGTTATCG,False,3,8,intergenic / no CDS,False
+3985762,1,0.0,0.0,1.0,0.0,68.57,0.04426,TTCCAGAAATAATAAGAGTGTTG,True,0,4,intergenic / no CDS,False
+3986499,11,0.0,0.0,0.0,11.0,54.29,0.37626,ACTTGATGATCTCGAGGTGCAGC,False,4,8,"['yiiF CDS (putative thymol sensitivity protein, CopG family putative transcriptional regulator)']",False
+3986572,22,0.0,0.0,0.0,22.0,55.71,0.30824,GATAAATCAATCGCAAACAGCAA,False,1,6,"['yiiF CDS (putative thymol sensitivity protein, CopG family putative transcriptional regulator)']",False
+3986636,26,0.0,0.0,26.0,0.0,57.14,0.25056,TGTAGGCCGGATAAGGCGTTCAC,False,2,8,intergenic / no CDS,False
+3991227,7,0.0,0.0,0.0,7.0,47.14,0.80236,CCGAGCAGCAGCTGGATCATCGC,False,3,9,"['fdoG CDS (formate dehydrogenase-O, large subunit)']",False
+3994019,6,0.0,0.0,0.0,6.0,55.71,0.30824,AAGATTTTAAACAGGGGCCTACC,False,1,6,['yiiG CDS (DUF3829 family lipoprotein)'],False
+3996200,1,0.0,0.0,0.0,1.0,48.57,0.72238,CGTTCATAACGCTGTTTTAACCG,True,2,5,['frvR CDS (putative frv operon regulator; contains a PTS EIIA domain)'],False
+3996693,5,0.0,0.0,5.0,0.0,50.0,0.63384,AAAAAGCTGTGCCGCACATAACG,True,2,6,['frvX CDS (putative peptidase)'],False
+3999075,6,0.0,0.0,0.0,6.0,62.86,0.1076,TCCTTATGAGCTGAGGGTTTGAT,False,2,9,['frvA CDS (putative enzyme IIA component of PTS)'],False
+4001227,17,0.0,0.0,17.0,0.0,61.43,0.13318,TCATCACCGTGTTTTTTATCACC,True,3,6,['ECD_03786 CDS (putative glycoporin)'],False
+4002809,26,0.0,0.0,26.0,0.0,42.86,0.95038,GCTGGAAGCGGCGGGCGATTACA,False,4,10,['rhaA CDS (L-rhamnose isomerase)'],False
+4004243,12,0.0,0.0,12.0,0.0,45.71,0.86572,ACAGTCTGGCGTTGCTGTATGCC,False,5,9,['rhaB CDS (rhamnulokinase)'],False
+4005129,3,0.0,0.0,3.0,0.0,44.29,0.9145,ATTGATACCTGGGGCGTGGACTT,False,3,7,['rhaB CDS (rhamnulokinase)'],False
+4005634,10,0.0,0.0,10.0,0.0,58.57,0.205,GTCAACACGGCGAAATAGTAATC,True,1,5,intergenic / no CDS,False
+4006691,7,0.0,0.0,7.0,0.0,51.43,0.54206,AATCACCAGCTCACAAAAATCAT,False,4,9,['rhaR CDS (transcriptional activator of rhaSR)'],False
+4006749,1,0.0,0.0,1.0,0.0,51.43,0.54206,TCGCCACGGGTAATGCGATAAGG,False,4,8,['rhaR CDS (transcriptional activator of rhaSR)'],False
+4007320,1,0.0,0.0,1.0,0.0,57.14,0.25056,AAAGCCACATTCGGTCGAAATAT,False,4,9,['rhaR CDS (transcriptional activator of rhaSR)'],False
+4007659,14,0.0,0.0,0.0,14.0,51.43,0.54206,CCGCACAATACATAGAAACTCAT,False,2,8,['rhaT CDS (L-rhamnose:proton symporter)'],False
+4007964,6,0.0,0.0,6.0,0.0,51.43,0.54206,AGAGCGCAAGATGGGCATTAAAG,False,4,8,['rhaT CDS (L-rhamnose:proton symporter)'],False
+4010013,14,0.0,0.0,14.0,0.0,50.0,0.63384,TCTTCTTTTGTGCCGTACTGCTG,False,3,9,['kdgT CDS (2-keto-3-deoxy-D-gluconate transporter)'],False
+4011508,3,0.0,0.0,0.0,3.0,47.14,0.80236,TTTTCCCGCCGGTTGTGGGGAAA,False,5,7,intergenic / no CDS,False
+4016486,15,0.0,0.0,15.0,0.0,60.0,0.16548,CAGGCATTTTTGCTTCTGTCATC,False,2,8,['pfkA CDS (6-phosphofructokinase I)'],False
+4016654,27,0.0,0.0,27.0,0.0,58.57,0.205,CGGGTATATGTTGAGGAATTAAA,False,1,8,intergenic / no CDS,False
+4017176,7,0.0,0.0,0.0,7.0,50.0,0.63384,GATCAAACGTCTGCCGGATAACT,True,1,5,['sbp CDS (sulfate transporter subunit)'],False
+4017275,11,0.0,0.0,11.0,0.0,47.14,0.80236,CCTGTGCTTTTGCCTGATCGTTG,False,4,9,['sbp CDS (sulfate transporter subunit)'],False
+4018441,2,0.0,0.0,0.0,2.0,47.14,0.80236,CTGGCGAACATCAGCAGCCGCTG,False,2,8,['cdh CDS (CDP-diacylglycerol phosphotidylhydrolase)'],False
+4019412,1,0.0,0.0,1.0,0.0,47.14,0.80236,CATCCTTTAGTGATGGGTAACTG,False,2,8,['tpiA CDS (triosephosphate isomerase)'],False
+4021157,4,0.0,0.0,4.0,0.0,52.86,0.4541,ATAACTCAAAAATAATCATCTCG,True,3,5,['yiiS CDS (UPF0381 family protein)'],False
+4022618,16,0.0,0.0,16.0,0.0,45.71,0.86572,AAGGCATTAGCCGCAAAGGCAAT,False,3,6,"['glpX CDS (fructose 1,6-bisphosphatase II)']",False
+4026266,11,0.0,0.0,11.0,0.0,64.29,0.08678,CCTTCTCCTGGTGACATAATCCA,False,4,10,intergenic / no CDS,False
+4026283,28,0.0,0.0,0.0,28.0,62.86,0.1076,ATCGCGCCATTTATTCCATCTGA,True,4,7,intergenic / no CDS,False
+4026359,16,0.0,0.0,16.0,0.0,57.14,0.25056,AATACGAGCGCACTTTAGTTAGC,False,4,7,intergenic / no CDS,False
+4027900,6,0.0,0.0,6.0,0.0,54.29,0.37626,TGGCCGATTTTGTCGGTTTCCTG,False,1,9,"['menA CDS (1,4-dihydroxy-2-naphthoate octaprenyltransferase)']",False
+4029822,14,0.0,0.0,0.0,14.0,55.71,0.30824,GGTGTGGAAATGGTTGGTATAGA,False,2,7,['hslV CDS (peptidase component of the HslUV protease)'],False
+4031339,14,0.0,0.0,14.0,0.0,47.14,0.80236,AACCTTTAAGACTGCCGTGACTG,True,1,6,intergenic / no CDS,False
+4032542,14,0.0,0.0,14.0,0.0,64.29,0.08678,GATCCGATTGAGGGTTAAACCGC,True,2,6,intergenic / no CDS,False
+4034043,5,0.0,0.0,0.0,5.0,45.71,0.86572,ATTAAAACGTTCACGAAAACGGG,False,2,7,"[""priA CDS (Primosome factor n' (replication factor Y))""]",False
+4034939,10,0.0,0.0,0.0,10.0,61.43,0.13318,TGATTTCGCGCCTTCGTACGAAA,True,2,3,intergenic / no CDS,False
+4035364,1,0.0,0.0,0.0,1.0,58.57,0.205,GCCGGTTCAATCTCTATCCCCGC,False,2,7,['ECD_03822 CDS (putative outer membrane lipoprotein)'],False
+4035613,5,0.0,0.0,0.0,5.0,52.86,0.4541,GGGCAGAGAACGCCACCACATGC,True,1,2,['ECD_03822 CDS (putative outer membrane lipoprotein)'],False
+4036083,1,0.0,0.0,1.0,0.0,51.43,0.54206,GCTTCTCATGGAGCGACGATCGC,False,4,11,"['yiiX CDS (putative lipid binding hydrolase, DUF830 family protein)']",False
+4037279,7,0.0,0.0,7.0,0.0,54.29,0.37626,ACAACGCAACCATACTGTTCGTC,False,4,10,"['metB CDS (cystathionine gamma-synthase, PLP-dependent)']",False
+4041017,50,0.0,0.0,50.0,0.0,61.43,0.13318,AGGGAAGATGAAAAAACTTCAGG,False,2,7,intergenic / no CDS,False
+4041838,19,0.0,0.0,19.0,0.0,57.14,0.25056,GGTCATATCGGCAAATTTCTTCG,True,1,5,"['metF CDS (5,10-methylenetetrahydrofolate reductase)']",False
+4042322,31,0.0,0.0,0.0,31.0,72.86,0.01998,AAAGCATTTGTCCGAATTCGGAC,False,3,9,intergenic / no CDS,False
+4042526,2,0.0,0.0,0.0,2.0,55.71,0.30824,ACAGCCACTGGCAAATGCCCGTT,False,5,10,"['katG CDS (catalase-peroxidase HPI, heme b-containing)']",False
+4045011,7,0.0,0.0,7.0,0.0,42.86,0.95038,GCAGGCGTTCACCGAGAAACAAC,True,3,6,['yijE CDS (EamA-like transporter family protein)'],False
+4047125,10,0.0,0.0,0.0,10.0,42.86,0.95038,GCCCGCCATGGTGGTCGCGCCGC,False,3,8,"['gldA CDS (glycerol dehydrogenase, NAD+ dependent; 1,2-propanediol:NAD+ oxidoreductase)']",False
+4047803,4,0.0,0.0,4.0,0.0,45.71,0.86572,TGCAAACGCTGTTAGAAATGCAC,False,2,9,['fsaB CDS (fructose-6-phosphate aldolase 2)'],False
+4048490,1,0.0,0.0,0.0,1.0,51.43,0.54206,AAAATGCGCATATGCTGATCGCC,False,3,7,"['frwA CDS (putative PTS enzyme: Hpr, enzyme I and II components)']",False
+4050150,9,0.0,0.0,9.0,0.0,40.0,0.98666,TCAGCGCCGGATTAAGCTGCGCC,False,4,7,"['frwA CDS (putative PTS enzyme: Hpr, enzyme I and II components)']",False
+4051398,3,0.0,0.0,3.0,0.0,41.43,0.97364,AATCCCGGCGATCAGCGCACCAA,False,5,9,['frwC CDS (putative enzyme IIC component of PTS)'],False
+4052971,9,0.0,0.0,0.0,9.0,57.14,0.25056,AGCGAAGAAGATAAACGTATCTA,False,2,8,['pflD CDS (putative glycine radical domain-containing pyruvate formate-lyase)'],False
+4053344,29,0.0,0.0,29.0,0.0,52.86,0.4541,AGCGCCCCAACGATAGCGAACTG,False,5,7,['pflD CDS (putative glycine radical domain-containing pyruvate formate-lyase)'],False
+4054847,2,0.0,0.0,2.0,0.0,42.86,0.95038,GCGGCGCGTTTCCACAACGTTAC,False,5,13,['pflD CDS (putative glycine radical domain-containing pyruvate formate-lyase)'],False
+4055408,1,0.0,0.0,0.0,1.0,54.29,0.37626,ACCGCTGGCGAAATTGTGCGATG,True,5,6,['pflC CDS (putative [formate-C-acetyltransferase 2]-activating enzyme; pyruvate formate-lyase 1-activating enzyme)'],False
+4057320,31,0.0,0.0,31.0,0.0,51.43,0.54206,GACGTCGGAAAAATGGCAAGCGA,True,3,5,['eptC CDS (LPS heptose I phosphoethanolamine transferase)'],False
+4065293,3,0.0,0.0,3.0,0.0,51.43,0.54206,AACACGCCTACCGTGACCAGGGC,True,3,9,['argH CDS (argininosuccinate lyase)'],False
+4065834,10,0.0,0.0,10.0,0.0,41.43,0.97364,AGAAACGCTGTCGAGACTGTTAC,True,2,12,['argH CDS (argininosuccinate lyase)'],False
+4066581,3,0.0,3.0,3.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066597,12,0.0,12.0,12.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066599,23,0.0,23.0,23.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066600,119,0.0,119.0,119.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066602,707,0.0,707.0,707.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066603,4031,15.0,4016.0,4016.0,15.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066604,17,0.0,17.0,17.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066605,379,0.0,379.0,379.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066609,1,0.0,1.0,1.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4066610,12,0.0,12.0,12.0,0.0,,,,,In target window,In target window,intergenic / no CDS,False
+4083118,7,0.0,0.0,0.0,7.0,54.29,0.37626,CGGAATCACGCAGAGCTGCCCAC,True,1,6,['coaA CDS (pantothenate kinase)'],True
+4097280,4,0.0,0.0,4.0,0.0,47.14,0.80236,TTTGCCGTTCGCTTCCAATTCGC,False,4,10,"['rpoC CDS (RNA polymerase, beta prime subunit)']",True
+4098010,18,0.0,0.0,18.0,0.0,61.43,0.13318,TGATGTTCATAATCTTTTGTGAA,True,0,3,['yjaZ CDS (stationary phase growth adaptation protein)'],False
+4098017,7,0.0,0.0,7.0,0.0,61.43,0.13318,CGTCTGATGTTCATAATCTTTTG,True,1,8,['yjaZ CDS (stationary phase growth adaptation protein)'],False
+4098082,3,0.0,0.0,3.0,0.0,60.0,0.16548,ATAACGGTGCTGGCAGAAGGGAC,True,2,5,['yjaZ CDS (stationary phase growth adaptation protein)'],False
+4098123,3,0.0,0.0,0.0,3.0,62.86,0.1076,TATGAACATCAGACGAACGAAGA,False,3,6,['yjaZ CDS (stationary phase growth adaptation protein)'],False
+4098599,3,0.0,0.0,3.0,0.0,61.43,0.13318,TGAAGCCATCGCCTGTTGAGCAA,True,2,6,intergenic / no CDS,False
+4099330,10,0.0,0.0,0.0,10.0,45.71,0.86572,AGCAGTCAACGCGCCAGTTGTCG,False,2,8,"['thiH CDS (tyrosine lyase, involved in thiamine-thiazole moiety synthesis)']",False
+4105574,6,0.0,0.0,6.0,0.0,48.57,0.72238,GCTGTCATATTCCGCCATAAACG,False,4,8,['nudC CDS (NADH pyrophosphatase)'],False
+4106896,7,0.0,0.0,7.0,0.0,51.43,0.54206,GATCCTCGCGGATCACAGAAGAA,True,4,4,"[""nfi CDS (endonuclease V; deoxyinosine 3' endonuclease)""]",False
+4122075,6,0.0,0.0,6.0,0.0,62.86,0.1076,GAGCCTGCATGTTGAAGGTGAGA,True,1,5,intergenic / no CDS,False
+4124740,1,0.0,0.0,0.0,1.0,45.71,0.86572,GCCAACATTCGCGTGGCTGTGCA,False,2,8,['aceB CDS (malate synthase A)'],False
+4127875,1,0.0,0.0,1.0,0.0,55.71,0.30824,GCGCAACTGCTGACCTTCCACTT,True,2,5,['aceK CDS (isocitrate dehydrogenase kinase/phosphatase)'],False
+4134923,4,0.0,0.0,4.0,0.0,52.86,0.4541,ACTCATTGAGCGCCCTGTTTGTT,False,4,9,"['metH CDS (homocysteine-N5-methyltetrahydrofolate transmethylase, B12-dependent)']",False
+4134968,28,0.0,0.0,0.0,28.0,58.57,0.205,TGGCACCGAATCTGGGGTATGAC,False,3,10,intergenic / no CDS,False
+4135114,11,0.0,0.0,0.0,11.0,57.14,0.25056,AAAACGAATGTCAAAAGGCACAG,False,2,9,intergenic / no CDS,False
+4150363,1,0.0,0.0,0.0,1.0,45.71,0.86572,AGAATCGGTACTGACAGCGGCAA,False,3,9,['malG CDS (maltose transporter subunit)'],False
+4156095,1,0.0,0.0,0.0,1.0,57.14,0.25056,ACTGGGTGTCGACTACGGTCGTG,False,5,9,['lamB CDS (maltose outer membrane porin (maltoporin))'],False
+4157963,27,0.0,0.0,27.0,0.0,65.71,0.06942,AATGGATATTCTTAGTGAAGAAG,False,3,8,intergenic / no CDS,False
+4158548,5,0.0,0.0,0.0,5.0,68.57,0.04426,ACGTTATATCGAAGGTGTCTTTT,True,2,8,['yjbI CDS (hypothetical protein)'],False
+4160569,2,0.0,0.0,2.0,0.0,40.0,0.98666,ACATCCGGCAGCGCGCATCAGCC,False,5,10,['ubiA CDS (p-hydroxybenzoate octaprenyltransferase)'],True
+4161538,8,0.0,0.0,8.0,0.0,48.57,0.72238,ATGAAGGGTATATCAGCGATAGC,True,2,6,['plsB CDS (glycerol-3-phosphate O-acyltransferase)'],True
+4165248,11,0.0,0.0,11.0,0.0,54.29,0.37626,AGTCCCAGCAACGGAACGGTGAT,False,5,9,['dinF CDS (oxidative stress resistance protein; putative MATE family efflux pump; UV and mitomycin C inducible protein)'],False
+4166598,12,0.0,0.0,0.0,12.0,62.86,0.1076,TGCCGCAACGTGACGGTTAAAAA,True,1,4,intergenic / no CDS,False
+4171445,1,0.0,0.0,1.0,0.0,48.57,0.72238,ACCGAAGCAGCAGGCATCGTGAG,False,3,6,"['qorA CDS (quinone oxidoreductase, NADPH-dependent)']",False
+4171644,1,0.0,0.0,1.0,0.0,51.43,0.54206,CTGGAGGACACATGGCAACACGA,True,1,3,"['qorA CDS (quinone oxidoreductase, NADPH-dependent)']",False
+4173788,7,0.0,0.0,0.0,7.0,52.86,0.4541,TTTGCGCGCGCGGATGAACCAAA,False,5,7,"['alr CDS (alanine racemase, biosynthetic, PLP-binding)']",False
+4176164,21,0.0,0.0,21.0,0.0,72.86,0.01998,TTTGCTGTTTTGCCGAGGAGGTT,False,3,10,intergenic / no CDS,False
+4176277,20,0.0,0.0,20.0,0.0,71.43,0.02674,TTTAGACCTAGAGAAGAAGTATC,False,2,8,intergenic / no CDS,False
+4183697,13,0.0,0.0,13.0,0.0,62.86,0.1076,GCAATTTACGTTTGGGAGATAAA,True,1,4,['yjcC CDS (putative membrane-anchored cyclic-di-GMP phosphodiesterase)'],False
+4184539,16,0.0,0.0,16.0,0.0,45.71,0.86572,ATGTCTCGCAGCAGACCTTCTCC,True,4,8,['soxS CDS (superoxide response regulon transcriptional activator; autoregulator)'],False
+4184922,8,0.0,0.0,0.0,8.0,60.0,0.16548,TTTCAGTGTTCAGTTCGTTAATT,False,2,9,intergenic / no CDS,False
+4184995,3,0.0,0.0,3.0,0.0,48.57,0.72238,ACGGATACTGGTAATCAACCCTT,True,3,7,['soxR CDS (redox-sensitive transcriptional activator of soxS; autorepressor)'],False
+4189155,13,0.0,0.0,13.0,0.0,67.14,0.0552,CTTTACAAGAGAGATAACTTATT,False,2,8,intergenic / no CDS,False
+4189452,16,0.0,0.0,16.0,0.0,64.29,0.08678,ATTTCAACTGTTCTGTTTTAACA,False,3,8,intergenic / no CDS,False
+4189810,18,0.0,0.0,0.0,18.0,72.86,0.01998,GCTATTACTTTATAAAGATTTAC,False,2,11,intergenic / no CDS,False
+4189869,52,0.0,0.0,52.0,0.0,71.43,0.02674,TTCTCGATGACTCAAATTTCGCT,True,1,5,intergenic / no CDS,False
+4192833,3,0.0,0.0,3.0,0.0,45.71,0.86572,CTATCGCGATGCCATCGTAACCC,False,3,10,intergenic / no CDS,False
+4194749,37,0.0,0.0,37.0,0.0,57.14,0.25056,CCTGCCAACATCGCAGACCGTTG,False,5,9,['acs CDS (acetyl-CoA synthetase)'],False
+4195078,7,0.0,0.0,0.0,7.0,65.71,0.06942,ACATGCAGTTATGCATGCTGTTG,False,4,10,intergenic / no CDS,False
+4196971,6,0.0,0.0,6.0,0.0,47.14,0.80236,TCTCCAACCTTGTACATCGGCTC,False,3,10,"['nrfB CDS (nitrite reductase, formate-dependent, penta-heme cytochrome c)']",False
+4198897,12,0.0,0.0,12.0,0.0,54.29,0.37626,ACAACGCCAGAAAACCGACTTCA,False,4,7,"['nrfD CDS (formate-dependent nitrite reductase, membrane subunit)']",False
+4200646,5,0.0,0.0,5.0,0.0,50.0,0.63384,TTAGCGAATTGCCAGGTGTCTAC,False,2,9,"['nrfF CDS (heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfF)']",False
+4204936,3,0.0,0.0,0.0,3.0,52.86,0.4541,GACAGTACCATCGGGTACTCGTC,True,0,7,"['fdhF CDS (formate dehydrogenase-H, selenopolypeptide subunit)']",False
+4207141,18,0.0,0.0,18.0,0.0,45.71,0.86572,ATCCCGGGTCTGAAATTGCCGCT,False,3,6,['mdtP CDS (outer membrane factor of efflux pump)'],False
+4213514,1,0.0,0.0,1.0,0.0,51.43,0.54206,GATTACAAATTTGATATTAATGC,False,2,9,['yjcS CDS (metallo-beta-lactamase superfamily protein)'],False
+4220314,14,0.0,0.0,14.0,0.0,81.43,0.00146,AAATAAAATTTTAAGCCACTCGC,False,1,9,intergenic / no CDS,False
+4220391,2,0.0,0.0,2.0,0.0,80.0,0.0024,AAAGACACTCACCATCCAGCAAC,True,3,7,intergenic / no CDS,False
+4220456,17,0.0,0.0,0.0,17.0,70.0,0.03492,ACATGATGTTATTTGTTTTTCTG,False,3,11,intergenic / no CDS,False
+4222264,5,0.0,0.0,0.0,5.0,35.71,0.99844,GTTAAACTTCACTACGCCGCTGC,True,2,6,"['phnP CDS (5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase)']",False
+4225982,2,0.0,0.0,0.0,2.0,51.43,0.54206,CGGCCATAAATCAAAAGAGACAT,False,1,7,"['phnK CDS (carbon-phosphorus lyase complex subunit, putative ATP transporter ATP-binding protein)']",False
+4234299,1,0.0,0.0,0.0,1.0,71.43,0.02674,AATAACAAAATTTGCTTTAAGGA,False,3,5,"['crfC CDS (clamp-binding sister replication fork colocalization protein, dynamin-related)']",False
+4235747,24,0.0,0.0,24.0,0.0,47.14,0.80236,CTTAACGGCTCCGAATCATCCTG,False,3,10,"['crfC CDS (clamp-binding sister replication fork colocalization protein, dynamin-related)']",False
+4244024,16,0.0,0.0,0.0,16.0,48.57,0.72238,GGGTCGAGGAACGACATTTTGGC,False,2,10,['adiC CDS (arginine:agmatine antiporter)'],False
+4246925,4,0.0,0.0,4.0,0.0,51.43,0.54206,CCTGGTCGGTAGTCGTCGGTACT,False,5,8,['adiA CDS (arginine decarboxylase)'],False
+4249521,4,0.0,0.0,4.0,0.0,45.71,0.86572,CCGTTCCCTGCACCGAATGGCAC,False,3,9,"['melA CDS (alpha-galactosidase, NAD(P)-binding)']",False
+4250914,11,0.0,0.0,11.0,0.0,51.43,0.54206,ACAAAGCCTGCCAGACTGGCAAA,True,3,5,['melB CDS (melibiose:sodium symporter)'],False
+4254141,4,0.0,0.0,4.0,0.0,42.86,0.95038,CGTGGCGCTGCAATTCTTAAGAA,True,3,5,['fumB CDS (anaerobic class I fumarate hydratase (fumarase B))'],False
+4256060,2,0.0,0.0,2.0,0.0,58.57,0.205,TCTGCGCAGTACAAACTTTAAAC,False,5,11,intergenic / no CDS,False
+4256207,25,0.0,0.0,25.0,0.0,70.0,0.03492,AATTAACTATTATGTCACCCGCA,True,3,5,intergenic / no CDS,False
+4256274,22,0.0,0.0,0.0,22.0,70.0,0.03492,TCTACCCATTTGTGGGTAAAAAT,False,5,9,intergenic / no CDS,False
+4259429,1,0.0,0.0,1.0,0.0,60.0,0.16548,ACTGCGAATATCATCATACTCCC,False,5,12,['yjdJ CDS (GNAT family putative N-acetyltransferase)'],False
+4259978,11,0.0,0.0,0.0,11.0,67.14,0.0552,AAATCGAAGATTTAATCAGGCTC,True,2,7,['ghoS CDS (antitoxin of GhoTS toxin-antitoxin pair; endonuclease for ghoT mRNA)'],False
+4262665,20,0.0,0.0,0.0,20.0,57.14,0.25056,ATTGCATTCACCGACTGGAATAG,False,4,8,['dtpC CDS (dipeptide and tripeptide permease)'],False
+4268088,9,0.0,0.0,0.0,9.0,62.86,0.1076,ATCGCCATGCAGTAAATAATCAT,False,4,8,['cadC CDS (cadBA operon transcriptional activator)'],False
+4268343,6,0.0,0.0,6.0,0.0,60.0,0.16548,GGTGATTTGGTGGCGACATCACT,True,2,7,['cadC CDS (cadBA operon transcriptional activator)'],False
+4268573,1,0.0,0.0,0.0,1.0,60.0,0.16548,TTTGCTCATCGGAAGACGTGTAT,False,4,9,['cadC CDS (cadBA operon transcriptional activator)'],False
+4268745,32,0.0,0.0,32.0,0.0,55.71,0.30824,TATATCGCTACTGTACCAAAGCG,True,2,4,['cadC CDS (cadBA operon transcriptional activator)'],False
+4268893,10,0.0,0.0,0.0,10.0,64.29,0.08678,CATTATCTTTTAATGACTTACGT,False,2,10,['cadC CDS (cadBA operon transcriptional activator)'],False
+4271293,5,0.0,0.0,0.0,5.0,41.43,0.97364,TGGGCGATATACAGCAGAATCGC,False,2,9,['dsbD CDS (thiol:disulfide interchange protein and activator of DsbC)'],False
+4284094,21,0.0,0.0,0.0,21.0,50.0,0.63384,GCTGGTCTGCTGGAAGTGGTATG,False,4,9,['sugE CDS (multidrug efflux system protein)'],False
+4284283,8,0.0,0.0,8.0,0.0,57.14,0.25056,TATTTGGGTACAGCAGCCCGGTA,True,2,5,['sugE CDS (multidrug efflux system protein)'],False
+4284784,5,0.0,0.0,5.0,0.0,48.57,0.72238,CCTGCTCCCTCTCGTTGCCGCAG,False,5,8,['blc CDS (outer membrane lipoprotein cell division and growth lipocalin)'],False
+4285910,2,0.0,0.0,2.0,0.0,52.86,0.4541,TTATAGAGCAACAAAAGATCCCC,False,1,8,"['ampC CDS (penicillin-binding protein; beta-lactamase, intrinsically weak)']",False
+4286822,2,0.0,0.0,2.0,0.0,55.71,0.30824,AACCGTATGTACGGCCAATGACG,True,1,5,"['frdC CDS (fumarate reductase (anaerobic), membrane anchor subunit)']",False
+4287012,5,0.0,0.0,5.0,0.0,45.71,0.86572,ATGGCGCAGTTGAACAGCCAGAA,False,4,9,"['frdB CDS (fumarate reductase (anaerobic), Fe-S subunit)']",False
+4287585,2,0.0,0.0,2.0,0.0,51.43,0.54206,AATGGCTGAGATGAAAAACCTGA,False,5,8,"['frdB CDS (fumarate reductase (anaerobic), Fe-S subunit)']",False
+4291102,14,0.0,0.0,0.0,14.0,65.71,0.06942,ATTTGCCAATAGCCCATCGGCTT,False,4,8,['yjeM CDS (putative transporter)'],False
+4293914,1,0.0,0.0,0.0,1.0,51.43,0.54206,ACAGCGCCTGTGCCGTTGCCAGA,False,5,8,"['mscM CDS (mechanosensitive channel protein, miniconductance)']",False
+4299400,1,0.0,0.0,1.0,0.0,70.0,0.03492,AATTCAAGACGAATAAAATCGTC,False,4,8,intergenic / no CDS,False
+4300057,1,0.0,0.0,1.0,0.0,48.57,0.72238,TAGGCGAATTGCTGGTCGATATT,False,2,8,"['queG CDS (epoxyqueuosine reductase, cobalamine-stimulated; queosine biosynthesis)']",False
+4308787,8,0.0,0.0,0.0,8.0,47.14,0.80236,CCACCTGATTTAGATGATATCTT,False,2,11,['hflK CDS (modulator for HflB protease specific for phage lambda cII repressor)'],False
+4315200,13,0.0,0.0,0.0,13.0,52.86,0.4541,TGACTTCATGCTCGACCAGGTAG,True,1,2,"['rnr CDS (exoribonuclease R, RNase R)']",False
+4315883,5,0.0,0.0,0.0,5.0,55.71,0.30824,CATCAGGCAAAACGTAAACAACG,True,1,2,"[""rlmB CDS (23S rRNA mG2251 2'-O-ribose methyltransferase, SAM-dependent)""]",False
+4319321,17,0.0,0.0,0.0,17.0,61.43,0.13318,ATGCCGATGTTCCGAAGAATATG,False,2,9,['yjfM CDS (DUF1190 family protein)'],False
+4324193,9,0.0,0.0,9.0,0.0,44.29,0.9145,AATGTCACTGCAGCATCTAACGC,False,4,9,['yjfP CDS (acyl CoA esterase)'],False
+4324550,3,0.0,0.0,3.0,0.0,50.0,0.63384,ATCATTATGGGCGGACAGTACAA,True,1,5,['ulaR CDS (transcriptional repressor for the L-ascorbate utilization divergent operon)'],False
+4334477,6,0.0,0.0,6.0,0.0,74.29,0.01462,TATTAATATAATTAAAAGGTTTA,True,1,6,['ECD_04071 CDS (Hexuronate transporter)'],False
+4334787,12,0.0,0.0,0.0,12.0,62.86,0.1076,AATCGTTAATCTGTGATTTTTGT,False,2,9,['ECD_04072 CDS (putative oxidoreductase)'],False
+4335404,11,0.0,0.0,11.0,0.0,52.86,0.4541,AACGACTGCAACGAATGAATCCG,False,4,10,['ECD_04072 CDS (putative oxidoreductase)'],False
+4336589,15,0.0,0.0,15.0,0.0,44.29,0.9145,TGATGCGCTGACGCACGTTACTT,False,1,9,['ECD_04072 CDS (putative oxidoreductase)'],False
+4337760,8,0.0,0.0,8.0,0.0,60.0,0.16548,TGGGATCGTTTGTTGATCCACGC,False,3,10,['ECD_04073 CDS (putative acetyl-CoA:acetoacetyl-CoA transferase)'],False
+4338642,4,0.0,0.0,4.0,0.0,50.0,0.63384,ATTAACCGTTGCGAATCTCAACG,False,5,11,['ECD_04074 CDS (hypothetical protein)'],False
+4340341,15,0.0,0.0,15.0,0.0,45.71,0.86572,GGGACGTCTGGACTGCCTGCTCA,True,1,4,['ECD_04076 CDS (putative oxoacyl reductase)'],False
+4344524,1,0.0,0.0,0.0,1.0,48.57,0.72238,CCTGGTTTACCGCAAACAGCGTC,True,3,7,['cycA CDS (D-alanine/D-serine/glycine transporter)'],False
+4345090,9,0.0,0.0,9.0,0.0,47.14,0.80236,ACGATCGTCACCGCGAGCAACTG,False,3,10,['ytfE CDS (iron-sulfur cluster repair protein RIC)'],False
+4349779,3,0.0,0.0,3.0,0.0,48.57,0.72238,ACGGAAAAATTCGGACTGGTACG,False,3,8,"[""cpdB CDS (2':3'-cyclic-nucleotide 2'-phosphodiesterase)""]",False
+4349799,3,0.0,0.0,3.0,0.0,54.29,0.37626,TTCGATTATTACAAAGACACCGC,False,1,7,"[""cpdB CDS (2':3'-cyclic-nucleotide 2'-phosphodiesterase)""]",False
+4351418,13,0.0,0.0,13.0,0.0,50.0,0.63384,CCTGCATATCATAAGAAGGAAAC,False,4,9,['ytfJ CDS (putative transcriptional regulator)'],False
+4353479,17,0.0,0.0,0.0,17.0,58.57,0.205,GATCCTCGGAAGGGGAAGTTGAT,False,4,9,intergenic / no CDS,False
+4353658,12,0.0,0.0,12.0,0.0,57.14,0.25056,GCATAGCGTTACGGGTACAAATG,False,3,9,intergenic / no CDS,False
+4354322,6,0.0,0.0,0.0,6.0,58.57,0.205,GACCGCATGCAGCGTGGCTACGG,True,1,4,['msrA CDS (methionine sulfoxide reductase A)'],False
+4364692,1,0.0,0.0,1.0,0.0,45.71,0.86572,ACTGCCAAACCATGAGAGATCCG,False,6,8,['ytfT CDS (putative sugar ABC transporter permease)'],False
+4366114,8,0.0,0.0,8.0,0.0,62.86,0.1076,GCTGTAATGCTATAAAAATAAAT,False,3,7,['yjfF CDS (putative sugar ABC transporter permease)'],False
+4367423,2,0.0,0.0,0.0,2.0,62.86,0.1076,AATCGCGCCAGCAAATTGCGGAT,True,3,5,intergenic / no CDS,False
+4382772,10,0.0,0.0,10.0,0.0,55.71,0.30824,ATCGACAATGTGCTGGTCTGCCC,False,3,9,"['pyrI CDS (aspartate carbamoyltransferase, regulatory subunit)']",False
+4385779,18,0.0,0.0,0.0,18.0,67.14,0.0552,CGAGGATGAGAACTGTCTTACCT,False,2,6,intergenic / no CDS,False
+4387152,17,0.0,0.0,17.0,0.0,70.0,0.03492,TTTAAAACTTCACTTTTTTGTTT,True,1,6,['yjgL CDS (SopA-central-domain-like hexapeptide repeat protein)'],False
+4387761,2,0.0,0.0,0.0,2.0,71.43,0.02674,TCCGCAGGAGTTAAATAATTCTC,False,4,11,['yjgL CDS (SopA-central-domain-like hexapeptide repeat protein)'],False
+4388811,12,0.0,0.0,0.0,12.0,71.43,0.02674,ACGTATAGCAATAAAAAAATTGG,False,3,6,intergenic / no CDS,False
+4391104,5,0.0,0.0,0.0,5.0,71.43,0.02674,CTTCTTACGTGCGCAAGCATCTT,False,1,9,intergenic / no CDS,False
+4392486,8,0.0,0.0,8.0,0.0,54.29,0.37626,AGGCTTTGTCGCCCGCGCACCGG,False,2,7,['valS CDS (valyl-tRNA synthetase)'],True
+4407763,2,0.0,0.0,2.0,0.0,51.43,0.54206,AAGAAGCGGGCGGAGAACTGGAA,False,3,8,"['ahr CDS (broad specificity NADPH-dependent aldehyde reductase, Zn-containing)']",False
+4411191,23,0.0,0.0,23.0,0.0,52.86,0.4541,TAGTAGTGAAAATACTGAGTAAT,True,1,4,intergenic / no CDS,False
+4412054,7,0.0,0.0,7.0,0.0,51.43,0.54206,ATGGTTGATTTATTTGGTTGCGT,False,2,9,intergenic / no CDS,False
+4412192,27,0.0,0.0,0.0,27.0,57.14,0.25056,ATCGTTCATATACACTGTCGGTG,False,3,9,intergenic / no CDS,False
+4415423,10,0.0,0.0,10.0,0.0,70.0,0.03492,AAACACCTAAGCCATAATATCCT,False,3,9,"['yjhB CDS (putative MFS transporter, membrane protein)']",False
+4416018,3,0.0,0.0,0.0,3.0,65.71,0.06942,TATGAATTTTTTCAATGGGGTTC,False,2,9,['yjhC CDS (GFO/IDH/MOCA family putative oxidoreductase NAD(P)-dependent)'],False
+4416667,1,0.0,0.0,0.0,1.0,68.57,0.04426,AATGGTGAGGCGGCCATGTCGGC,False,3,7,['yjhC CDS (GFO/IDH/MOCA family putative oxidoreductase NAD(P)-dependent)'],False
+4419291,5,0.0,0.0,5.0,0.0,57.14,0.25056,CGTATTCGTCTTGAAGTCGATTT,False,3,8,['ECD_04148 CDS (secondary glycine betaine transporter BetU)'],False
+4419932,1,0.0,0.0,0.0,1.0,50.0,0.63384,GCTCCAGGAAATTAAACAGGGCC,False,4,7,['ECD_04148 CDS (secondary glycine betaine transporter BetU)'],False
+4420309,21,0.0,0.0,0.0,21.0,48.57,0.72238,CCAGACACAGGACCAGCGCCAGG,True,3,3,['ECD_04148 CDS (secondary glycine betaine transporter BetU)'],False
+4431719,2,0.0,0.0,2.0,0.0,78.57,0.00402,AAAAATGTCTATTGGAAACAATT,True,1,5,intergenic / no CDS,False
+4443004,4,0.0,0.0,4.0,0.0,65.71,0.06942,TGAATCCGGAAAATACCCTTTCA,True,3,5,intergenic / no CDS,False
+4443544,42,0.0,0.0,0.0,42.0,58.57,0.205,TCAATAACATCATCGACTACTGT,True,1,5,intergenic / no CDS,False
+4444019,1,0.0,0.0,0.0,1.0,68.57,0.04426,TTTTCTGGTATTTGGCGATATGG,False,3,8,intergenic / no CDS,False
+4444529,5,0.0,0.0,0.0,5.0,64.29,0.08678,GTTCAGTGCTACACGGGAAGATA,False,2,7,intergenic / no CDS,False
+4445014,3,0.0,0.0,3.0,0.0,55.71,0.30824,GCTCGAACAGCAGGCAATTGCCA,False,2,7,intergenic / no CDS,False
+4445300,17,0.0,0.0,17.0,0.0,48.57,0.72238,AAAGAGGACTGACGAACGCGCCT,True,2,5,['nanS CDS (9-O-acetyl N-acetylneuraminic acid esterase)'],False
+4445535,3,0.0,0.0,0.0,3.0,55.71,0.30824,GTATCGCCGCAAAACCACGGCGC,True,2,5,['nanS CDS (9-O-acetyl N-acetylneuraminic acid esterase)'],False
+4446692,7,0.0,0.0,7.0,0.0,51.43,0.54206,GTCTTTTGATCCCTCAACACAGC,True,1,5,['nanM CDS (N-acetylneuraminic acid mutarotase)'],False
+4446940,26,0.0,0.0,26.0,0.0,54.29,0.37626,CACAAATACAACCCCAAAACCAA,True,0,3,['nanM CDS (N-acetylneuraminic acid mutarotase)'],False
+4446963,34,0.0,0.0,0.0,34.0,60.0,0.16548,ACATAAGCCTTGCCGTTGTGTAC,True,2,7,['nanM CDS (N-acetylneuraminic acid mutarotase)'],False
+4447484,6,0.0,0.0,0.0,6.0,60.0,0.16548,AAGGTAGTCATATTCTATGTATG,True,2,6,['nanC CDS (N-acetylnuraminic acid outer membrane channel protein)'],False
+4448075,57,0.0,0.0,57.0,0.0,68.57,0.04426,AATATTACACAACATAAATGCTA,False,2,7,intergenic / no CDS,False
+4448998,4,0.0,0.0,0.0,4.0,62.86,0.1076,ATATTTACCAACGAATGTAGATG,False,1,7,intergenic / no CDS,False
+4451386,4,0.0,0.0,4.0,0.0,65.71,0.06942,GCTCCCGTTGCCCCGTAACAAAC,False,4,8,['fimE CDS (tyrosine recombinase/inversion of on/off regulator of fimA)'],False
+4451469,25,0.0,0.0,0.0,25.0,55.71,0.30824,CAGGCCATGATGCAGGCGGTTTG,True,3,8,['fimE CDS (tyrosine recombinase/inversion of on/off regulator of fimA)'],False
+4452074,4,0.0,0.0,0.0,4.0,80.0,0.0024,ATGGGGCCAAAACTGTCCATATC,False,3,7,intergenic / no CDS,False
+4454727,4,0.0,0.0,0.0,4.0,58.57,0.205,TCGCGTCGATATCTATTTGAATA,True,3,6,['fimD CDS (fimbrial usher outer membrane porin protein; FimCD chaperone-usher)'],False
+4455231,7,0.0,0.0,0.0,7.0,54.29,0.37626,AATACCTGGCTTGAGCGAGACAT,False,5,11,['fimD CDS (fimbrial usher outer membrane porin protein; FimCD chaperone-usher)'],False
+4456915,4,0.0,0.0,4.0,0.0,52.86,0.4541,TCTCCCCATTTCACCTGAACTTT,False,5,11,['fimD CDS (fimbrial usher outer membrane porin protein; FimCD chaperone-usher)'],False
+4459774,14,0.0,0.0,0.0,14.0,55.71,0.30824,AATCACCATTGCAATACTCTTCA,False,4,11,['gntP CDS (fructuronate transporter)'],False
+4460561,4,0.0,0.0,4.0,0.0,57.14,0.25056,CTTAACATTCTCTGGGTGGTATT,True,2,8,['gntP CDS (fructuronate transporter)'],False
+4461571,2,0.0,0.0,2.0,0.0,54.29,0.37626,GCAACTGGAATAATCGCTTTCAG,False,3,8,['uxuA CDS (mannonate hydrolase)'],False
+4462210,13,0.0,0.0,0.0,13.0,50.0,0.63384,GCCGTTAATATCCACCGGCATGG,False,2,7,intergenic / no CDS,False
+4465475,16,0.0,0.0,16.0,0.0,62.86,0.1076,TCGGAAAACATCTATCTTCCGCC,False,2,7,['yjiC CDS (uncharacterized protein)'],False
+4473225,11,0.0,0.0,0.0,11.0,52.86,0.4541,TATCGCTGACGCGAAAAGTCATG,False,3,9,['ytiA CDS (uncharacterized protein)'],False
+4474124,13,0.0,0.0,0.0,13.0,48.57,0.72238,GTACTGAGCTGCCCGACATCCGA,False,1,7,['yjiM CDS (putative 2-hydroxyglutaryl-CoA dehydratase)'],False
+4476102,2,0.0,0.0,2.0,0.0,52.86,0.4541,TTCTCGAACTTACCGATGATGCG,True,1,6,['yjiN CDS (zinc-type alcohol dehydrogenase-like protein)'],False
+4477748,5,0.0,0.0,0.0,5.0,52.86,0.4541,ACTGACGGCAGCAGGGGCCAGAC,False,6,10,['mdtM CDS (multidrug efflux system protein)'],False
+4478106,16,0.0,0.0,0.0,16.0,65.71,0.06942,ACAAATAGTCATCAGCACATTAC,False,3,8,intergenic / no CDS,False
+4478112,14,0.0,0.0,0.0,14.0,65.71,0.06942,AATAGTCATCAGCACATTACACC,False,3,8,intergenic / no CDS,False
+4478361,21,0.0,0.0,21.0,0.0,57.14,0.25056,AGTGAATCTCCATAAAATCCCGC,True,3,9,['yjiPQ CDS (putative transposase)'],False
+4482261,1,0.0,0.0,1.0,0.0,50.0,0.63384,ATCCACTCCCGCAGGAATAACAA,True,2,7,intergenic / no CDS,False
+4483287,12,0.0,0.0,0.0,12.0,58.57,0.205,CCGCTCCCGACGTCGTGTCGGGA,True,3,6,"['mcrC CDS (5-methylcytosine-specific restriction enzyme McrBC, subunit McrC)']",False
+4488479,11,0.0,0.0,0.0,11.0,67.14,0.0552,GACCCGAGTAATAAGTCGATGTA,False,2,7,intergenic / no CDS,False
+4488949,9,0.0,0.0,0.0,9.0,45.71,0.86572,GTAGCCAGGTGCTGGTCGGTGTT,False,4,9,['hsdM CDS (DNA methyltransferase M)'],False
+4500496,24,0.0,0.0,24.0,0.0,51.43,0.54206,TGGGCGCGAATCCGGGCTTTTAC,False,4,11,['hpaB CDS (4-hydroxyphenylacetate 3-monooxygenase)'],False
+4501388,21,0.0,0.0,21.0,0.0,42.86,0.95038,CCGGATTACGCTAACGAACTGCA,True,2,4,['hpaA CDS (HpaA)'],False
+4502299,12,0.0,0.0,12.0,0.0,48.57,0.72238,CATTATGGCTTCGACCGGATCAT,False,2,10,['hpaX CDS (putative 4-hydroxyphenylacetate permease)'],False
+4502359,7,0.0,0.0,0.0,7.0,47.14,0.80236,ATGGACTGATCCGGTGTTGTCCA,False,4,10,['hpaX CDS (putative 4-hydroxyphenylacetate permease)'],False
+4505652,9,0.0,0.0,0.0,9.0,52.86,0.4541,CGGGCTTCTTGACGAATATTTTC,False,2,9,['hpaD CDS (Homoprotocatechuate dyoxygenase)'],False
+4510441,2,0.0,0.0,0.0,2.0,48.57,0.72238,GCTGAAACAGGCGGAAAAAAACT,False,3,6,"['tsr CDS (methyl-accepting chemotaxis protein I, serine sensor receptor)']",False
+4514249,13,0.0,0.0,13.0,0.0,64.29,0.08678,ATCGGGTTTTAATGGACTCACAA,False,2,8,intergenic / no CDS,False
+4515329,5,0.0,0.0,5.0,0.0,45.71,0.86572,TCGTAGGTTTCTGCCAGCGTGGC,False,1,8,['lgoD CDS (L-galactonate oxidoreductase; L-gulonate oxidoreductase)'],False
+4522459,12,0.0,0.0,0.0,12.0,61.43,0.13318,GCTATTAGGTAAAGGATGGGGCA,False,3,6,['yjjQ CDS (putative transcriptional regulator)'],False
+4529431,47,0.0,0.0,47.0,0.0,42.86,0.95038,AGCGGCTAATAAGGAAGGGAAAT,True,3,7,['prfC CDS (peptide chain release factor RF-3)'],False
+4533253,2,0.0,0.0,2.0,0.0,48.57,0.72238,GATTATTTGCAACACATCGAAGA,True,1,3,['yjjW CDS (putative pyruvate formate lyase activating enzyme)'],False
+4535133,11,0.0,0.0,11.0,0.0,62.86,0.1076,CTCTCTGCTGACCATTCTTTACC,False,1,8,"['yjjI CDS (DUF3029 family protein, putative glycine radical enzyme)']",False
+4540305,24,0.0,0.0,24.0,0.0,64.29,0.08678,AGTAAAATGTTAGGTATCTCGAT,True,2,7,['ECD_04261 CDS (hypothetical protein)'],False
+4540345,6,0.0,0.0,0.0,6.0,64.29,0.08678,TCTGCCATTTTGCTTTTGATGTT,False,5,10,['ECD_04261 CDS (hypothetical protein)'],False
+4544614,1,0.0,0.0,1.0,0.0,51.43,0.54206,GGAGAGTTTTTTAACGCCAAAAA,True,1,5,['radA CDS (DNA repair protein)'],False
+4545848,1,0.0,0.0,1.0,0.0,48.57,0.72238,AAACGGCTGTCATAATCGTCCTC,False,2,8,"['nadR CDS (trifunctional protein: nicotinamide mononucleotide adenylyltransferase, ribosylnicotinamide kinase, transcriptional repressor)']",False
+4548004,12,0.0,0.0,12.0,0.0,54.29,0.37626,CGTTTACGCCACGTTACGGACAC,False,3,8,intergenic / no CDS,False
+4551362,1,0.0,0.0,0.0,1.0,55.71,0.30824,ATTATCAGTAGCGATTTAGGACG,False,4,8,['ytjC CDS (phosphatase)'],False
+4556156,14,0.0,0.0,14.0,0.0,47.14,0.80236,TGCGGCCAGTTGCTGGTTAAGGT,False,3,7,['creD CDS (inner membrane protein)'],False
+4557508,29,0.0,0.0,29.0,0.0,52.86,0.4541,TTCGAAGCGACAGATGGCGCGGA,True,1,4,['arcA CDS (response regulator in two-component regulatory system with ArcB or CpxA)'],False

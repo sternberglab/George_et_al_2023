@@ -13,23 +13,39 @@ def get_likely_target(
     debug = False
 
     best_match = None
+
     # evaluate targets
     for i in range(-3, 4, 1):
         if read_is_fwd_strand:
             # The read coming from the left side was forward strand, so
-            # tLR implies the target is downstream of the read, with the
-            # reverse complement
+            # tLR implies the offtarget spacer is downstream of the read
+            # on the reverse strand
+
             test_site = read_position + target_distance - i
             test_seq = genome[test_site : test_site + SPACER_LEN].reverse_complement()
+            test_PAM = genome[
+                test_site + SPACER_LEN : test_site + SPACER_LEN + 3
+            ].reverse_complement()
         else:
             # The read coming from the left side was reverse strand, so
-            # tLR implies the target is upstream of the read
+            # tLR implies the offtarget spacer is upstream of the read
+            # on the forward strand
             test_site = read_position - target_distance - SPACER_LEN + i
             test_seq = genome[test_site : test_site + SPACER_LEN]
+            test_PAM = genome[test_site - 3 : test_site]
 
+        # Test if the PAM is "GTN"
+        is_PAM_match = test_PAM[0:2] == "GT"
         best_match = evaluate_best_match(
-            best_match, test_seq, test_site, True, spacer, debug=debug
+            best_match,
+            test_seq,
+            test_site,
+            read_is_fwd_strand,
+            spacer,
+            is_PAM_match,
+            debug=debug,
         )
+
     return best_match
 
 
@@ -39,6 +55,7 @@ def evaluate_best_match(
     position,
     is_fwd_strand,
     spacer,
+    is_PAM_match,
     without_5ths=False,
     debug=False,
 ):
@@ -63,15 +80,22 @@ def evaluate_best_match(
     distal_match = sum(matches[-group_size:])
     best_match = existing_best
 
-    if (
-        not best_match
-        or best_match["seed_match"] < seed_match
-        or (
-            best_match["seed_match"] == seed_match
-            and best_match["total_match"] < total_match
-        )
-    ):
+    is_better_match = False
+    if best_match is None:
+        is_better_match = True
+    elif not best_match["is_PAM_match"]:
+        if is_PAM_match:
+            is_better_match = True
+        else:
+            if best_match["total_match"] < total_match:
+                is_better_match = True
+            elif best_match["total_match"] == total_match:
+                if best_match["seed_match"] < seed_match:
+                    is_better_match = True
+
+    if is_better_match:
         best_match = {
+            "is_PAM_match": is_PAM_match,
             "seed_match": seed_match,
             "total_match": total_match,
             "distal_match": distal_match,
