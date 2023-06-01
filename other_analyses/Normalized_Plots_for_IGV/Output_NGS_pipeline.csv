@@ -1,0 +1,5 @@
+﻿Sample,Description,Run date,Qscore Threshold,Total Raw Reads,Filtered Reads,Transposon end-containing reads,Unique Target Mapping Reads,Total Target Mapping Reads,Contaminating donor reads,Spike-in Reads,CRISPR Array Self-Targeting Reads,Analysis Date,Unique Second Target Mapping Reads,Total Second Target Mapping Reads,% Transposon end-containing,% Unique target,% Unique second target,% Donor,% Spike-in,% CRISPR Array,% Other
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
